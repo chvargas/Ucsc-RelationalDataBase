@@ -1,0 +1,84 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+30215 - Project
+
+Spec:	Lessons:	- "Unit 3 - Project" (online class only)
+	Resources:	- "Module-3-pr"
+			- "Module-3-pr-ERD" (available after due date of Part 1)
+
+Timing:
+By due date for Part 1:
+	- ER Diagram and (if necessary) supporting text explaining the design.
+	  Filename: ERD-<<yourname>> 
+	  Acceptable formats: Word document, plain text, PDF, PNG, JPG
+	  Any format that requires online access is NOT acceptable(e.g. Googledoc)
+	  An ERD drawn on paper and submitted as a PDF, PNG, or JPG is acceptable
+	  as long as I can read the writing.
+By due date for Part 2:
+	- Script file to initialize the database.
+	  Put MySQL or SQLPlus in a comment line so I know which to use.
+	  Filename: provision-<<yourname>>.sql
+	  Acceptable format: plain text (SQLPlus/MySQL cannot interpret others)
+	- Instruction file with example SQL commands.
+	  Filename: query-<<yourname>>.sql 
+	  Acceptable formats: plain text
+
+Replace <<yourname>> with your first initial and your full last name as it is on
+your registration. e.g. If I was registered as "Niket Patwardhan" I would 
+replace <<yourname>> with NPatwardhan
+
+----------------------------------------------------------------------------
+Part 1) Data Analysis - 14 points
+Please submit an ER Diagram outlining your DB design and supporting text - 
+i.e. why you did it that way.
+
+This is an exercise in communication and interpretation skills. Some of the spec
+is deliberately ambiguous, make sure the necessary questions to clear it up are
+asked. It is perfectly fair to ask others if something was or was not said in 
+the presentation, or to present some hypothesis of yours and have them support 
+or knock it down; or to ask the "Manager" (i.e. the "Instructor Role") via 
+Messages to clarify some point. What you may not do is look at or ask about the 
+ER Diagram of others, or show or explain yours to others.
+
+In your ERD I will be looking for essential entities, relationships between 
+them, their attributes, and any constraints you have identified. I also will 
+look for conformance to 3NF.
+
+Part 2) SQL Implementation - 20 points
+Please submit a plain text script file that creates the database as per 
+Module-3-pr-ERD and loads any initial data you need to demonstrate your project 
+works. You can assume the "classdb" schema exists and is empty when this file is
+executed, and the user executing it is "classdb". Also submit another file that
+contains example SQL commands that will produce the information requested or do
+the updates specified on the page titled "Queries/Reports" in Module-3-pr-ERD. 
+Please call them provision-<<yourname>>.sql and query-<<yourname>>.sql
+
+SQLPlus - assume script will be run by user "classdb"
+MySQL - assume script will be run by user "rdb30215" in database "classdb"
+
+Queries will be run by the user/s you specify in the instruction file. If not 
+specified, they will be run by "classdb". 
+
+You could get 0/15 on this part of the project if the provisioning script file 
+fails to complete successfully, so please make sure it works BEFORE you turn it
+in. If it runs without errors producing a database that meets the "signed off" 
+design specified in Module-3-pr-ERD you will get 5 points, and the remaining 15
+points will be based on how well the queries meet the requirements. Upto 1 point
+will be deducted from the 15 for each type of mistake. Multiple submissions will
+cost you one point each after the first submission. 
+
+Both MySQL and SQLPlus have some limitations that you will need to workaround
+to implement all the constraints required by the ERD. If you used MySQL and can
+not figure out how to implement a constraint, I may give partial credit for SQL
+that shows how to achieve it in SQLPlus (and vice-versa).
+
+Please make sure the files you submit are your own work, and that you do not
+share your work. Any violation will result in a zero score.
+
+-----------------------------------------------------------------------------
+
+Additional Resource: sample.txt
+
+This file contains data supplied by an information provider conforming to their
+schema, not the required one. Please use it to help you formulate questions for
+Part 1.

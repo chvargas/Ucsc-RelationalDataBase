@@ -1,0 +1,1478 @@
+1553271	Beijingshan	Beijingshan	Beijingshan,bei jing shan,北京山	29.53649	118.11811	P	PPL	CN		01				0		483	Asia/Shanghai	2012-01-16
+1816664	Beijingzi	Beijingzi	Beijing,Beijingzi,Pei-ching-tzu	39.8825	123.91194	P	PPL	CN	CN	19				0		4	Asia/Shanghai	2012-01-18
+1816665	Beijing Railway Station	Beijing Railway Station	Beijing Station,Beijing Zhan,Ch'ien-men Ch'e-chan,Ch’ien-men Ch’e-chan,Pei-ching Chan,Peiping East Station,Tung Ch'e-chan,Tung Ch’e-chan	39.90236	116.42568	S	RSTN	CN	CN	22				0		57	Asia/Harbin	2011-08-06
+1816666	Beijingtou	Beijingtou	Beijingtou,Pei-ching-t'ou,Pei-ching-t’ou	35.19389	109.58083	P	PPL	CN	CN	26				0		790	Asia/Chongqing	2012-01-18
+1816667	Beijing Paiwuhe	Beijing Paiwuhe		39.27528	117.36833	H	CNLD	CN		00				0		7	Asia/Shanghai	2000-11-21
+1816668	Beijinggang	Beijinggang	Beijinggang,Pei-ching-kang	29.34389	112.49028	P	PPL	CN	CN	11				0		33	Asia/Shanghai	2012-01-18
+1816670	Beijing	Beijing	BJS,Bac Kinh,Baek-ging,Baekging,Behehzhin,Beijing,Beijing Shi,Beising,Beixin,Beixín,Bejdzing,Bejdżing,Bejing,Beyjing,Beȝcinȝ,Báe̤k-gĭng,Béising,Bắc Kinh,Gorad Pekin,Pechin,Pechino,Pechinu,Pechinum,Pecinum,Pei-ching,Pei-ching-shih,Pei-p'ing,Pei-p'ing-shih,Peken,Pekin,Pekin',Pekina,Pekinas,Peking,Pekini,Pekino,Pekín,Pekîn,Peping,Pequim,Pequin,Pequín,Pet-kin,Pet-kîn,Peycing,Pikkin,Pèquin,Pékin,Péqùin,Péycing,be'ijim,be'ijina,be'ijinga,bei jing,bei jing shi,beidjin,beijing si,bijiga,bijing,bijinga,bkyn,buggyeong,byjng,bykyn,byyg'yng,byyzsyng,pakking,peyjin,pkn,Πεκίνο,Бейжің,Бээжин,Бәәҗң балһсн,Горад Пекін,Пекин,Пекинг,Пекін,Пекінґ,Պեկին,בייג'ינג,בייזשינג,بكين,بيكين,بیجنگ,بېجینګ,بېيجىڭ,بېيجىڭ شەھىرى,پکن,پێکەن,ބީޖިންގ,बीजिंग,बेइजिङ,বেইজিং,ਬੀਜਿੰਗ,બેઇજિંગ,பெய்ஜிங்,బీజింగ్,ಬೀಜಿಂಗ್,ബെയ്‌ജിങ്ങ്‌,බෙයිජිං,ปักกิ่ง,པེ་ཅིང་གྲོང་ཁྱེར།,ပေကျင်းမြို့,პეკინი,ቤዪጂንግ,ប៉េកាំង,北京,北京市,베이징 시,북경	39.9075	116.39723	P	PPLC	CN		22				7480601		49	Asia/Shanghai	2013-06-05
+1816671	Beijing	Beijing	Beijing,Pei-ching,Pei-ching-ts'un,Pei-ching-ts’un,Pekin,Пекин	35.20917	110.73278	P	PPL	CN	CN	24				0		523	Asia/Shanghai	2012-01-18
+1899232	Beijing Dongzhan	Beijing Dongzhan	Beijing East Station	39.90114	116.47838	S	RSTN	CN		22				0		38	Asia/Harbin	2009-10-12
+1899241	Beijing Beizhan	Beijing Beizhan	Beijing North	39.94456	116.34637	S	RSTN	CN		22				0		53	Asia/Harbin	2009-10-13
+1899242	Beijing Nanzhan	Beijing Nanzhan	Beijing South	39.86357	116.37294	S	RSTN	CN		22				0		44	Asia/Harbin	2009-10-13
+2038349	Beijing Shi	Beijing Shi	Beijing,Beijing Shi,Pei-p'ing Shih,Pei-p’ing Shih,Peiping Municipal Administrative Area,Peiping Municipality,Peking,Peking Municipality,bei jing,bei jing shi,北京,北京市	39.91691	116.39706	A	ADM1	CN		22				14933274		51	Asia/Shanghai	2012-07-11
+6301354	Beijing Capital International Airport	Beijing Capital International Airport	Aeroport Internacional de Pequin,Aeroport Internacional de Pequín,Aeroport international de Pekin,Aeroporto Internacional de Pequim,Aeroporto Internazionale di Pechino-Capital,Aeroportul International Beijing,Aeroportul Internațional Beijing,Aeropuerto Internacional de Pekin,Aeropuerto Internacional de Pekín,Aéroport international de Pékin,Bandar Udara Internasional Ibu Kota Beijing,Beijing Capital Airport,Beijing Capital International Airport,Beijing Shoudu Guoji Jichang,Beijing internasjonale lufthavn,Beijingo nazioarteko aireportua,Běijīng Shǒudū Guójì Jīcháng,Flughafen Peking,Lapangan Terbang Antarabangsa Ibu Kota Beijing,Letiste Peking,Letiště Peking,Luchthaven Peking Capital,Medzinarodne letisko Peking,Medzinárodné letisko Peking,PEK,Pekin Capital Airport,Pekin Havaalani,Pekin Havaalanı,Pekingin kansainvaelinen lentoasema,Pekingin kansainvälinen lentoasema,Pekín Capital Airport,Port lotniczy Pekin,San bay quoc te Thu GJo Bac Kinh,Shoudu,Sân bay quốc tế Thủ Đô Bắc Kinh,ZBAA,be'ijim antarjatika bimanabandara,be'ijinga kaipitala antarrastriya vimanaksetra,bei jing shou dou guo ji ji chang,bei jing shou dou guo ji kong gang,beijing sudo gugjegonghang,peyjin talainakar pannattu vimana nilaiyam,tha xakasyan nanachati pakking,Шоуду,بیجنگ ہوائی اڈہ,فرودگاه بین‌المللی پکن,مطار بكين العاصمة الدولي,बेइजिंग कैपिटल अन्तर्राष्ट्रीय विमानक्षेत्र,বেইজিং আন্তর্জাতিক বিমানবন্দর,பெய்ஜிங் தலைநகர் பன்னாட்டு விமான நிலையம்,ท่าอากาศยานนานาชาติปักกิ่ง,ပေကျင်း မြို့တော် အပြည်ပြည်ဆိုင်ရာ လေဆိပ်,北京首都国际机场,北京首都国際空港,베이징 수도 국제공항	40.08011	116.58456	S	AIRP	CN		22				0	35	42	Asia/Harbin	2012-12-22
+6462022	Marriott Beijing West	Marriott Beijing West		39.9209	116.3047	S	HTL	CN		22				0		66	Asia/Harbin	2007-04-13
+6462118	Jianguo Hotel Beijing	Jianguo Hotel Beijing		39.9034	116.4448	S	HTL	CN		22				0		45	Asia/Harbin	2007-04-13
+6462261	Beijing Minzu Hotel	Beijing Minzu Hotel		39.9022	116.3579	S	HTL	CN		22				0		52	Asia/Harbin	2007-04-13
+6462860	Park Plaza Beijing Science Park	Park Plaza Beijing Science Park		39.9717	116.3347	S	HTL	CN		22				0		56	Asia/Harbin	2007-04-13
+6463540	Presidential Plaza Beijing	Presidential Plaza Beijing		39.9185	116.3428	S	HTL	CN		22				0		53	Asia/Harbin	2007-04-13
+6463599	Grand Hyatt Beijing	Grand Hyatt Beijing		39.9032	116.4066	S	HTL	CN		22				0		51	Asia/Harbin	2007-04-13
+6464341	Beijing Landmark Hotel	Beijing Landmark Hotel		39.9396	116.4536	S	HTL	CN		22				0		43	Asia/Harbin	2007-04-13
+6464541	Taiwan Hotel Beijing	Taiwan Hotel Beijing		39.9086	116.4072	S	HTL	CN		22				0		59	Asia/Harbin	2007-04-13
+6464719	Super 8 Beijing Tuan Jie Hu	Super 8 Beijing Tuan Jie Hu		39.9303	116.456	S	HTL	CN		22				0		50	Asia/Harbin	2007-04-13
+6467530	Shangri-la Kerry Centre Hotel Beijing	Shangri-la Kerry Centre Hotel Beijing		39.9083	116.451	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6469314	CTS Hotel Beijing	CTS Hotel Beijing		39.9548	116.4432	S	HTL	CN		22				0		44	Asia/Harbin	2007-04-13
+6469871	The Peninsula Beijing	The Peninsula Beijing		39.9087	116.4063	S	HTL	CN		22				0		65	Asia/Harbin	2007-04-13
+6470744	Sino-Swiss Hotel Beijing Airport	Sino-Swiss Hotel Beijing Airport		40.04838	116.58399	S	HTL	CN		22				0		43	Asia/Harbin	2009-04-12
+6472701	Kempinski Beijing	Kempinski Beijing		39.9461	116.4592	S	HTL	CN		22				0		49	Asia/Harbin	2007-04-13
+6473702	Rosedale Hotel & Suites, Beijing	Rosedale Hotel & Suites, Beijing		39.9663	116.4648	S	HTL	CN		22				0		43	Asia/Harbin	2007-04-13
+6475335	Courtyard by Marriott Hotel Beijing	Courtyard by Marriott Hotel Beijing		39.9012	116.41	S	HTL	CN		22				0		52	Asia/Harbin	2007-04-13
+6476413	Hotel Nikko New Century Beijing	Hotel Nikko New Century Beijing		39.931	116.3296	S	HTL	CN		22				0		56	Asia/Harbin	2007-04-12
+6478300	The Shangri-La Hotel, Beijing	The Shangri-La Hotel, Beijing		39.938	116.3013	S	HTL	CN		22				0		56	Asia/Harbin	2007-04-12
+6480105	Swissotel Beijing	Swissotel Beijing		39.929	116.4263	S	HTL	CN		22				0		46	Asia/Harbin	2007-04-12
+6481928	Gloria Plaza Hotel Beijing	Gloria Plaza Hotel Beijing		39.9009	116.4279	S	HTL	CN		22				0		48	Asia/Harbin	2007-04-12
+6486569	Prime Hotel Beijing	Prime Hotel Beijing		39.9177	116.4031	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-12
+6490671	Somerset ZhongGuanCun Beijing	Somerset ZhongGuanCun Beijing		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6491200	Tangyue Hotel Beijing	Tangyue Hotel Beijing		39.9091	116.4115	S	HTL	CN		22				0		54	Asia/Harbin	2007-04-15
+6491531	Beijing Business Hotel	BEIJING BUSINESS HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6491552	The Regent Beijing	The Regent Beijing		39.9142	116.4054	S	HTL	CN		22				0		54	Asia/Harbin	2007-04-15
+6491612	JinJiang Inn - Beijing Shijingshan	JinJiang Inn - Beijing Shijingshan		39.9125	116.1998	S	HTL	CN		22				0		72	Asia/Harbin	2007-04-15
+6491613	JinJiang Inn - Beijing Yuquan Road	JinJiang Inn - Beijing Yuquan Road		39.8405	116.2806	S	HTL	CN		22				0		54	Asia/Shanghai	2007-04-15
+6492058	Beijing Ningxia Hotel	Beijing Ningxia Hotel		39.9408	116.4045	S	HTL	CN		22				0		51	Asia/Harbin	2007-04-15
+6492075	Ao Ya Hotel Beijing	Ao Ya Hotel Beijing		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6492424	The Westin Beijing, Financial Street	The Westin Beijing, Financial Street		39.9187	116.351	S	HTL	CN		22				0		57	Asia/Harbin	2007-04-14
+6493546	Beijing Up East Intl Hotel	BEIJING UP EAST INTL HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6493857	Beijing Sihe Hotel	Beijing Sihe Hotel		39.92	116.4	S	HTL	CN		22				0		51	Asia/Harbin	2007-04-14
+6494222	The Ritz-Carlton Beijing Financial Street	The Ritz-Carlton Beijing Financial Street		39.9116	116.3492	S	HTL	CN		22				0		54	Asia/Harbin	2007-04-14
+6494896	Beijing New World Apartments	Beijing New World Apartments		39.8942	116.4103	S	HTL	CN		22				0		51	Asia/Harbin	2007-04-14
+6494977	Beijing HWA Apartment Hotel	Beijing HWA Apartment Hotel		39.91	116.3659	S	HTL	CN		22				0		53	Asia/Harbin	2007-04-14
+6495089	Warwick International Apartments Beijing	Warwick International Apartments Beijing		39.8878	116.4353	S	HTL	CN		22				0		54	Asia/Harbin	2007-04-14
+6495375	Beijing New Drum Tower Hotel	BEIJING NEW DRUM TOWER HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6495471	Park Plaza Beijing Wangfujing	Park Plaza Beijing Wangfujing		39.9129	116.4112	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6495840	Jia Long Sunny Hotel Beijing	JIA LONG SUNNY HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6496602	Raffles Beijing Hotel	Raffles Beijing Hotel		39.9037	116.3992	S	HTL	CN		22				0		51	Asia/Harbin	2007-04-14
+6499802	Beijing Guangxi Plaza	Beijing Guangxi Plaza		39.8678	116.448	S	HTL	CN		22				0		39	Asia/Harbin	2007-04-14
+6503280	Harmony Hotel Beijing	Harmony Hotel Beijing		39.9018	116.4156	S	HTL	CN		22				0		46	Asia/Harbin	2007-04-14
+6503367	Renaissance Beijing Hotel	Renaissance Beijing Hotel		39.9502	116.4504	S	HTL	CN		22				0		43	Asia/Harbin	2007-04-14
+6503419	Traders Hotel, Beijing	Traders Hotel, Beijing		39.9034	116.4453	S	HTL	CN		22				0		45	Asia/Harbin	2007-04-14
+6504857	Dai Zong Hotel Beijing	DAI ZONG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6505155	East Gate Plaza Beijing	EAST GATE PLAZA BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6505882	Beijing Airport Garden Hotel	AIRPORT GARDEN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6506252	Beijing Hademan Hotel	BEIJING HADEMAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6506961	Beijing International Hotel	BEIJING INTERNATIONAL HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6506962	Beijing Sports Inn	BEIJING SPORTS INN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6507387	Novotel Xin Qiao Beijing	NOVOTEL XIN QIAO BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6509411	Beijing Royal Palace Apartment	BEIJING ROYAL PALACE APARTMENT		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6509652	Novotel Peace Beijing	NOVOTEL PEACE BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6510232	Lc The St Regis Beijing	LC THE ST REGIS BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6512763	Beijing Hotel	BEIJING HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6513296	Hilton Beijing	HILTON BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-13
+6516034	Grand Hotel  Beijing	GRAND HOTEL  BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-12
+6518208	Guangzhou Hotel Beijing	GUANGZHOU HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518226	Longtou Hotel Beijing	LONGTOU HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518477	Nanjing Great Hotel Beijing	NANJING GREAT HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518517	Cheng Hong Hotel Beijing	CHENG HONG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518518	Hotel Kapok Beijing	HOTEL KAPOK BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518636	Super 8 Hotel Beijing Xue Yuan	SUPER 8 HOTEL BEIJING XUE YUAN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518665	Oriental Bay Intl Hotel Beijing	ORIENTAL BAY INTL HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518910	Grand Mercure Xidan Beijing	GRAND MERCURE XIDAN BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6518975	Guo Yi Hotel Beijing	GUO YI HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519241	Fuxue Hotel Beijing	FUXUE HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519257	Beijing National Power Hotel	BEIJING NATIONAL POWER HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519283	Zi Yu Hotel Beijing	ZI YU HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519429	Laffitte Chatdan Hotel Beijing	LAFFITTE CHATDAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519519	Beijing Longqiang Hotel	BEIJING LONGQIANG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519592	Luxury Serviced Residence  Beijing	LUXURY SERVICED RESIDENCE  BEIJ		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519611	Best Orient Hotel Beijing	BEST ORIENT HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519828	Beijing Redwine Garden Hotel	BEIJING REDWINE GARDEN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519870	Beijing Csn Hotel	BEIJING CSN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519897	North Latitudes 40 Hotel Beijing	NORTH LATITUDES 40 HOTEL BEIJIN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519970	Beijing Jiayuan Hotel	BEIJING JIAYUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6519997	Beijing Chateau De Luze	BEIJING CHATEAU DE LUZE		33	104	S	HTL	CN		32				0		3242	Asia/Chongqing	2007-04-15
+6520145	Beijing Xinyuan Hotel	BEIJING XINYUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520146	Chao Yang Hotel Beijing	CHAO YANG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520177	Beijing Tian Yi Hotel	BEIJING TIAN YI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520205	Beijing Zhong An Hotel	BEIJING ZHONG AN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520209	Zhengyi Hotel Beijing	ZHENGYI HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520445	Beijing Jinlin Mansion	BEIJING JINLIN MANSION		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520446	Home Inn Beijing Qianmen	HOME INN BEIJING QIANMEN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6520447	Beijing Science And Technology	BEIJING SCIENCE AND TECHNOLOGY		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520532	Home Inn Beijing Beiwei Road	HOME INN BEIJING BEIWEI ROAD		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6520533	Home Inn Beijing Xinxingqiao	HOME INN BEIJING XINXINGQIAO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6520534	Beijing Haohuagong Conference H	BEIJING HAOHUAGONG CONFERENCE H		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520572	Home Inn Beijing Grandsight Gar	HOME INN BEIJING GRANDSIGHT GAR		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6520701	Beijing Tiantian Holiday Hotel	BEIJING TIANTIAN HOLIDAY HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6520768	Beijing Jingshui Hotel	BEIJING JINGSHUI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520770	Yi Yu Hotel Beijing	YI YU HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6520803	Home Inn Beijing Caishiko	HOME INN BEIJING CAISHIKO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521006	Beijing Nuolin Hotel	BEIJING NUOLIN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521063	Yi Fa Hotel Beijing	YI FA HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521066	Jingguang Centre Apartment Beijing	JINGGUANG CENTRE APARTMENT BEIJ		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521088	Beijing Yang Qiao Hotel	BEIJING YANG QIAO HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521094	Super 8 Hotel Beijing Fang Zhu	SUPER 8 HOTEL BEIJING FANG ZHU		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521098	Beijing Zhongyu Hotel	BEIJING ZHONGYU HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521116	Home Inn Beijing Dongzhimen	HOME INN BEIJING DONGZHIMEN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521199	Beijing Guwan City Hotel	BEIJING GUWAN CITY HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521274	Beijing Huaqiao Hotel	BEIJING HUAQIAO HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521275	Home Inn Beijing Xiaoxitian	HOME INN BEIJING XIAOXITIAN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521301	Beijing Royal Garden Hotel	BEIJING ROYAL GARDEN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521302	Beijing Zhengxie Hotel	BEIJING ZHENGXIE HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521393	Home Inn Beijing Chaoyang Park	HOME INN BEIJING CHAOYANG PARK		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521417	Days Inn Beijing Rose Valley H	DAYS INN BEIJING ROSE VALLEY H		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521423	Yu Long Hotel Beijing	YU LONG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521475	Home Inn Beijing Yansha	HOME INN BEIJING YANSHA		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521478	Super 8 Hotel Beijing Baihua	SUPER 8 HOTEL BEIJING BAIHUA		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521479	Beijing Wangfujing Era Holiday	BEIJING WANGFUJING ERA HOLIDAY		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521480	Beijing Jingguang New World Hot	BEIJING JINGGUANG NEW WORLD HOT		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-15
+6521605	Beijing Jintai Hotel	BEIJING JINTAI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521632	Super 8 Hotel Beijing Dong Si	SUPER 8 HOTEL BEIJING DONG SI		33	104	S	HTL	CN		32				0		3242	Asia/Chongqing	2007-04-14
+6521641	Shindom Hotel Beijing	SHINDOM HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521657	Beijing Hua Tai Hotel	BEIJING HUA TAI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521658	Taiping Inn Beijing	TAIPING INN BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521665	Nei Meng Gu Hotel Beijing	NEI MENG GU HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521674	Cheng Yuan Hotel Beijing	CHENG YUAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521676	Beijing North Taiwei Garden Hot	BEIJING NORTH TAIWEI GARDEN HOT		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521731	Home Inn Beijing Agriculture Ex	HOME INN BEIJING AGRICULTURE EX		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521733	Beijing Hailun Hotel	BEIJING HAILUN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521771	Guo Lin Hotel Beijing	GUO LIN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521773	Beijing Jingdu Zijincheng Hotel	BEIJING JINGDU ZIJINCHENG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521774	Beijing Jintang Hotel	BEIJING JINTANG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521775	Beijing Jinshi Business Hotel	BEIJING JINSHI BUSINESS HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521852	Happy Holiday Great Hotel Beijing	HAPPY HOLIDAY GREAT HOTEL BEIJI		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521888	Garden Hotel Beijing	GARDEN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521978	Home Inn Beijing Sanlihe	HOME INN BEIJING SANLIHE		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521979	Beijing Gongshang Hotel	BEIJING GONGSHANG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521992	Shuang Long Hotel Beijing	SHUANG LONG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521994	Xiao Xiang Hotel Beijing	XIAO XIANG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6521996	Guo Tong Hotel Beijing	GUO TONG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2013-06-05
+6522028	Home Inn Beijing Xueqing Road	HOME INN BEIJING XUEQING ROAD		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522034	Beijing Zhongcai Hotel	BEIJING ZHONGCAI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522052	Beijing Hongkun International H	BEIJING HONGKUN INTERNATIONAL H		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522053	Yayuncun Hotel Beijing	YAYUNCUN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522095	Beijing Tianlun Xingming Lake H	BEIJING TIANLUN XINGMING LAKE H		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522096	Home Inn Beijing Beixinqiao	HOME INN BEIJING BEIXINQIAO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522128	Beijing Aihua Hotel	BEIJING AIHUA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522207	Beijing Lankui Xianfeng Hotel	BEIJING LANKUI XIANFENG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522208	Super 8 Hotel Beijing Guo Mao	SUPER 8 HOTEL BEIJING GUO MAO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522244	Beijing Jing An Hotel	BEIJING JING AN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522298	Beijing Yuandong Hotel	BEIJING YUANDONG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522301	Home Inn Beijing Tuanjiehu	HOME INN BEIJING TUANJIEHU		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522307	Beijing Longxuan Hotel	BEIJING LONGXUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522311	Home Inn Beijing Guomao	HOME INN BEIJING GUOMAO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522341	Super 8 Hotel Beijing Ju Feng	SUPER 8 HOTEL BEIJING JU FENG		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522357	Beijing Yongzheng Business Hote	BEIJING YONGZHENG BUSINESS HOTE		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522455	Beijing Sunshine Young Hotel	BEIJING SUNSHINE YOUNG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522522	Beijing Dabao Hotel	BEIJING DABAO HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522523	Beijing New Era Hotel	BEIJING NEW ERA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522539	Feilongge Hotel Beijing	FEILONGGE HOTEL BEIJING		33	104	S	HTL	CN		32				0		3242	Asia/Chongqing	2007-04-14
+6522560	Beijing Yuting Garden Hotel	BEIJING YUTING GARDEN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522597	Beijing Haonian Hotel	BEIJING HAONIAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522628	Beijing Kaitai Hotel	BEIJING KAITAI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522664	Beijing Yifa Hotel	BEIJING YIFA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522665	Beijing Yindu Hotel	BEIJING YINDU HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522687	Home Inn Beijing Xizhimen	HOME INN BEIJING XIZHIMEN		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522780	Peony Hotel Beijing	PEONY HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522914	Tong Lian Plaza Hotel Beijing	TONG LIAN PLAZA HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522915	Qinglan Hotel Beijing	QINGLAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522916	Beijing Dongdan Yindi Hotel	BEIJING DONGDAN YINDI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522936	China Garment Hotel Beijing	CHINA GARMENT HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522937	Jiuxing Hotel Beijing	JIUXING HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522947	Guan Tong Modern Hotel Beijing	GUAN TONG MODERN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522982	Beijing Dunhuang Hotel	BEIJING DUNHUANG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6522983	Dongfang Hotel Beijing	DONGFANG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523017	Shunyi Hotel Beijing	SHUNYI HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523098	Wenbo Plaza Beijing	WENBO PLAZA BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523177	Beijing Jing Gang Wan Hotel	BEIJING JING GANG WAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523228	Beijing Huanlu Hotel	BEIJING HUANLU HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523264	Yungang Garden Hotel Beijing	YUNGANG GARDEN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523293	Beijing Tibet Hotel	BEIJING TIBET HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523343	Beijing Shihao International Ho	BEIJING SHIHAO INTERNATIONAL HO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523370	Beijing Meihua Century Internat	BEIJING MEIHUA CENTURY INTERNAT		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523416	Beijing Resource Yanyuan Hotel	BEIJING RESOURCE YANYUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523417	Beijing Dongfang Gongxiao	BEIJING DONGFANG GONGXIAO		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523435	Harbor Hotel Beijing	HARBOR HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523456	Beijing Ruichi Hotel	BEIJING RUICHI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523458	Beijing Zhongmin Hotel	BEIJING ZHONGMIN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523459	Beijing Railway Mansion	BEIJING RAILWAY MANSION		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523525	Beijing Nanyueyuan Hotel	BEIJING NANYUEYUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523549	Beijing Tiangui Hotel	BEIJING TIANGUI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523578	Cambridge Hotel Beijing	CAMBRIDGE HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523604	Ming Yuan Hotel Beijing	BEIJING YUAN FANG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523630	Yin Long Yuan Hotel Beijing	YIN LONG YUAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523656	Xinyue Hotel Beijing	XINYUE HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523657	York Hotel Beijing	YORK HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523661	Century Towers Beijing	CENTURY TOWERS BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523694	Furamaxpress Hotel  Beijing	FURAMAXPRESS HOTEL  BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523695	Beijing Kingsintel Commercial H	BEIJING KINGSINTEL COMMERCIAL H		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523712	Beijing News Plaza Hotel	BEIJING NEWS PLAZA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523715	Beijing He Ping Li Hotel	BEIJING HE PING LI HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523777	Beijing Xinze Hotel	BEIJING XINZE HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523907	Beijing Purplejade Laguna Resor	BEIJING PURPLEJADE LAGUNA RESOR		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523910	Ziying Garden Hotel Beijing	ZIYING GARDEN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6523911	Beijing Railway Hotel	BEIJING RAILWAY HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524067	Bonding Hotel Beijing	BONDING HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524104	Beijing Fuhao  Hotel	BEIJING FUHAO  HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524173	Tian Rong Hotel Beijing	TIAN RONG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524193	Beijing Longwue Hotel	BEIJING LONGWUE HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524262	Beijing Yuedu Hotel	BEIJING YUEDU HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524287	Beijing Jiangsu Plaza	BEIJING JIANGSU PLAZA		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524310	Beijing Sardony Hotel	BEIJING SARDONY HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524483	Beijing National Jade Hotel	BEIJING NATIONAL JADE HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524513	Beijing Jun Wang Fu Hotel	BEIJING JUN WANG FU HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524528	Zhongmei Hotel Beijing	ZHONGMEI HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524584	Ocean Hotel Beijing	OCEAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524585	Beijing Huiqiao Hotel	BEIJING HUIQIAO HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524794	Beijing Great Hotel	BEIJING GREAT HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524915	Zhongyan Hotel Beijing	ZHONGYAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524919	Beijing Hwa Hotel	BEIJING HWA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524920	Beijing River View Hotel	BEIJING RIVER VIEW HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6524924	Beijing Goldsun Hotel	BEIJING GOLDSUN HOTEL		31.1166	121.3666	S	HTL	CN		23				0		6	Asia/Shanghai	2007-04-14
+6524993	Beijing Kang Ming Hotel	BEIJING KANG MING HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525028	Anisun Hotel Beijing	ANISUN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525083	Nirvana Resort Beijing	NIRVANA RESORT BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525097	Beijing Tian Lun Song He Hotel	BEIJING TIAN LUN SONG HE HOTEL		33	104	S	HTL	CN		32				0		3242	Asia/Chongqing	2007-04-14
+6525107	Beijing Oriental Culture Hotel	BEIJING ORIENTAL CULTURE HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525137	Beijing Grand Dynasty Hotel	BEIJING GRAND DYNASTY HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525163	Beijing Jandr Hotel	BEIJING JANDR HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525267	Beijing Ccecc Plaza	BEIJING CCECC PLAZA		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525299	Beijing Millennium Palace	BEIJING MILLENNIUM PALACE		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525303	Cui Ming Zhuang Hotel Beijing	CUI MING ZHUANG HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525339	Beijing Huiyuan Int L Service A	BEIJING HUIYUAN INT L SERVICE A		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525345	Beijing Guizhou Mansion	BEIJING GUIZHOU MANSION		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525346	Beijing Huang Yuan Hotel	BEIJING HUANG YUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6525609	Beijing Chengyuan Plaza	BEIJING CHENGYUAN PLAZA		33	104	S	HTL	CN		32				0		3242	Asia/Chongqing	2007-04-14
+6526168	Scitech Hotel  Beijing	SCITECH HOTEL  BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6526922	Beijing Chang An Grand Hotel	BEIJING CHANG AN GRAND HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6526923	Beijing Ruicheng Hotel	BEIJING RUICHENG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527067	Beijing Jingmin Hotel	BEIJING JINGMIN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527254	Beijing Suyuan Jinjiang Hotel	BEIJING SUYUAN JINJIANG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527359	Beijing Ai Hua Hotel	BEIJING AI HUA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527470	Beijing Fengzeyuan Hotel	BEIJING FENGZEYUAN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527817	Beijing Jilong Hotel	BEIJING JILONG HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527873	Beijing Jianshe Hotel	BEIJING JIANSHE HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6527938	Beijing Zhengyuan Business	BEIJING ZHENGYUAN BUSINESS		30.1166	117.4166	S	HTL	CN		01				0		180	Asia/Shanghai	2007-04-14
+6528204	Beijing San Yuan Jin An Hotel	BEIJING SAN YUAN JIN AN HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6528391	Beijing Huandao Boya Hotel	BEIJING HUANDAO BOYA HOTEL		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6528824	Beijing Zhejiang Building	BEIJING ZHEJIANG BUILDING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6529463	Fujian Hotel Beijing	FUJIAN HOTEL BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6532272	Best Western Premier Beijing	BEST WESTERN PREMIER BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6532628	Ascott Beijing	ASCOTT BEIJING		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Harbin	2007-04-14
+6614401	Beijing Jishuitan Hospital	Beijing Jishuitan Hospital	bei jing ji shui tan yi yuan,北京积水潭医院	39.94432	116.37624	S	HSP	CN		22				0		51	Asia/Harbin	2011-06-06
+6693246	Uncle Ben's Beijing Apartment	Uncle Ben's Beijing Apartment		39.96411	116.29232	S	BLDG	CN		22				0		51	Asia/Harbin	2008-06-13
+6695794	Beijing National Stadium	Beijing National Stadium	Beijing Olympic Stadium,Bird's Nest	39.99142	116.39005	S	STDM	CN		22				0		49	Asia/Harbin	2008-08-10
+6695795	Beijing National Indoor Stadium	Beijing National Indoor Stadium	The Fan	39.99486	116.3839	S	STDM	CN		22				0		49	Asia/Harbin	2008-08-10
+6695796	Beijing National Aquatics Center	Beijing National Aquatics Center	Centre national de natation de Pekin,Centre national de natation de Pékin,Centro Acquatico Nazionale di Pechino,Centro Acuatico Nacional de Beijing,Centro Acuatico Nacional de Pekin,Centro Acuático Nacional de Beijing,Centro Acuático Nacional de Pekín,Centro Aquatico Nacional de Pequim,Centro Aquático Nacional de Pequim,Nacionalni centar za vodene sportove u Pekingu,Nationales Schwimmzentrum Peking,Pekingi Nemzeti Vizi Koezpont,Pekingi Nemzeti Vízi Központ,Pekingin kansallinen vesiurheilukeskus,Pekings Nationella simstadion,Pekinski nacionalen centur po vodni sportove,Pekinskij nacional'nyj plavatel'nyj kompleks,Plywalnia Olimpijska w Pekinie,Pusat Akuatik Nasional Beijing,Pusat Akuatika Nasional Beijing,Pływalnia Olimpijska w Pekinie,Sentrong Pambansa ng Akwatika ng Beijing,Trung tam the thao duoi nuoc quoc gia Bac Kinh,Trung tâm thể thao dưới nước quốc gia Bắc Kinh,Water Cube,bei jing guo jia shui yongsenta,beijing guggasuyeongjang,guo jia you yong zhong xin,Национални центар за водене спортове у Пекингу,Пекински национален център по водни спортове,Пекинский национальный плавательный комплекс,מרכז ענפי ספורט המים הלאומי בייג'ינג,مرکز ملی ورزش‌های آبی پکن,مكعب المياه,პეკინის ეროვნული აკვაცენტრი,北京国家水泳センター,国家游泳中心,베이징 국가수영장	39.99162	116.38386	S	STDM	CN		22				0		45	Asia/Harbin	2008-08-10
+6843934	Beijingtang	Beijingtang	Beijingtang,bei jing tang,北京塘	21.65648	110.0519	P	PPL	CN		30				0		42	Asia/Urumqi	2012-01-20
+6844157	Beijingtang Shuiku	Beijingtang Shuiku	Beijingtang Shuiku,bei jing tang shui ku,北京塘水库	21.63892	110.04835	H	RSV	CN		30				0		33	Asia/Chongqing	2012-01-20
+6941085	EF Mandarin School Beijing	EF Mandarin School Beijing		39.98838	116.40832	S	SCH	CN		22				0		47	Asia/Shanghai	2013-03-29
+6954873	Beijing West Station	Beijing West Station		39.89369	116.31547	S	RSTN	CN		22				0		58	Asia/Shanghai	2009-10-13
+7290289	Asia Hotel Beijing	Asia Hotel Beijing		39.9284	116.416	S	HTL	CN		22				0		52	Asia/Shanghai	2010-05-17
+7290290	Avic Hotel Beijing	Avic Hotel Beijing		39.91	116.452	S	HTL	CN		22				0		50	Asia/Shanghai	2010-05-17
+7290338	Beijing Capital Airport Hotel	Beijing Capital Airport Hotel		40.0709	116.589	S	HTL	CN		22				0		38	Asia/Shanghai	2010-05-18
+7290352	Beijing Commercial Business Hotel	Beijing Commercial Business Hotel		39.9069	116.332	S	HTL	CN		22				0		54	Asia/Shanghai	2010-05-18
+7290353	Beijing Continental Grand	Beijing Continental Grand		39.8013	116.39	S	HTL	CN		22				0		40	Asia/Shanghai	2010-05-18
+7290429	Beijing Dabao Hotel	Beijing Dabao Hotel		39.8497	116.555	S	HTL	CN		22				0		32	Asia/Shanghai	2010-05-19
+7290438	Dadi Garden Hotel Beijing	Dadi Garden Hotel Beijing		39.9829	116.306	S	HTL	CN		22				0		55	Asia/Shanghai	2010-05-20
+7290441	Beijing Dong Fang Hotel	Beijing Dong Fang Hotel		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Shanghai	2010-05-20
+7290443	Beijing Dong Jiao Min Xiang Hotel	Beijing Dong Jiao Min Xiang Hotel		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Shanghai	2010-05-20
+7292539	Far East Hotel Beijing	Far East Hotel Beijing		39.8723	116.352	S	HTL	CN		22				0		48	Asia/Shanghai	2010-05-25
+7292543	Beijing Foreign Experts Building	Beijing Foreign Experts Building		39.9871	116.381	S	HTL	CN		22				0		52	Asia/Shanghai	2010-05-25
+7292549	Beijing Golden Palace Silver Street Hotel	Beijing Golden Palace Silver Street Hotel		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Shanghai	2010-05-25
+7302070	Beijing H Q Ritz Hotel	Beijing H Q Ritz Hotel		39.9123	116.469	S	HTL	CN		22				0		42	Asia/Shanghai	2010-05-26
+7302071	Henan Plaza Hotel Beijing	Henan Plaza Hotel Beijing		40.2356	116.761	S	HTL	CN		22				0		41	Asia/Shanghai	2010-05-26
+7302074	Holiday Inn Chang An West Beijing	Holiday Inn Chang An West Beijing		39.909	116.265	S	HTL	CN		22				0		62	Asia/Shanghai	2010-05-26
+7302076	Holiday Inn Lido Beijing	Holiday Inn Lido Beijing		39.9779	116.479	S	HTL	CN		22				0		43	Asia/Shanghai	2010-05-26
+7302077	Holiday Inn Temple of Heaven Beijing	Holiday Inn Temple of Heaven Beijing		39.8914	116.371	S	HTL	CN		22				0		57	Asia/Shanghai	2010-05-26
+7302091	Huadu Hotel Beijing	Huadu Hotel Beijing		39.9478	116.456	S	HTL	CN		22				0		41	Asia/Shanghai	2010-05-26
+7302095	InterContinental Beijing Financial Street	InterContinental Beijing Financial Street		39.9101	116.357	S	HTL	CN		22				0		52	Asia/Shanghai	2010-05-26
+7302109	Jianguo Qianmen Beijing	Jianguo Qianmen Beijing		39.8723	116.352	S	HTL	CN		22				0		48	Asia/Shanghai	2010-05-27
+7302118	Beijing Jinjiang Fuyuan Hotel	Beijing Jinjiang Fuyuan Hotel		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Shanghai	2010-05-27
+7302178	Longxi Hotspring Resort Hotel Beijing	Longxi Hotspring Resort Hotel Beijing		39.7271	116.341	S	HTL	CN		22				0		41	Asia/Shanghai	2010-05-28
+7302180	Marco Polo Beijing	Marco Polo Beijing		39.9289	116.388	S	HTL	CN		22				0		52	Asia/Shanghai	2010-05-28
+7302188	Beijing New Dragon Hotel	Beijing New Dragon Hotel		39.9169	116.415	S	HTL	CN		22				0		52	Asia/Shanghai	2010-05-28
+7302194	Novotel Peace Hotel Beijing	Novotel Peace Hotel Beijing		39.9284	116.416	S	HTL	CN		22				0		52	Asia/Shanghai	2010-05-28
+7302261	The Peninsula Palace Beijing	The Peninsula Palace Beijing		39.9113	116.408	S	HTL	CN		22				0		51	Asia/Shanghai	2010-06-01
+7302349	Rosedale Hotel And Suite Beijing	Rosedale Hotel And Suite Beijing		39.95756	116.33643	S	HTL	CN		22				0		59	Asia/Shanghai	2010-06-05
+7302351	Schengen International Hotel Beijing	Schengen International Hotel Beijing		40.0209	116.45418	S	HTL	CN		22				0		42	Asia/Shanghai	2010-06-05
+7302353	Shang Yuan Hotel Beijing	Shang Yuan Hotel Beijing		39.9594	116.29842	S	HTL	CN		22				0		52	Asia/Shanghai	2010-06-05
+7302358	Shangri-La's Kerry Centre Hotel Beijing	Shangri-La's Kerry Centre Hotel Beijing		39.9289	116.388	S	HTL	CN		22				0		52	Asia/Shanghai	2010-06-05
+7302360	Shanshui Hotel Beijing	Shanshui Hotel Beijing		39.9106	116.37047	S	HTL	CN		22				0		53	Asia/Shanghai	2010-06-05
+7302361	Beijing Shatan	Beijing Shatan		39.90452	116.39153	S	HTL	CN		22				0		48	Asia/Shanghai	2010-06-05
+7302362	Shenzhen Hotel Beijing	Shenzhen Hotel Beijing		39.89094	116.34677	S	HTL	CN		22				0		53	Asia/Shanghai	2010-06-05
+7302375	Shunyi Hotel Beijing	Shunyi Hotel Beijing		40.3164	116.63654	S	HTL	CN		22				0		49	Asia/Shanghai	2010-06-05
+7302376	Sino Swiss Beijing Airport	Sino Swiss Beijing Airport		40.10058	116.68625	S	HTL	CN		22				0		43	Asia/Shanghai	2010-06-05
+7302379	Sofitel Wanda Beijing	Sofitel Wanda Beijing		39.90772	116.46444	S	HTL	CN		22				0		42	Asia/Shanghai	2010-06-05
+7302415	Radisson Tianhong Plaza Hotel Beijing	Radisson Tianhong Plaza Hotel Beijing		39.97605	116.3176	S	HTL	CN		22				0		58	Asia/Shanghai	2010-06-06
+7302416	Tiantan Hotel Beijing	Tiantan Hotel Beijing		39.88457	116.43108	S	HTL	CN		22				0		47	Asia/Shanghai	2010-06-06
+7302476	Beijing Wangfujing Dawan Hotel	Beijing Wangfujing Dawan Hotel		39.91257	116.41759	S	HTL	CN		22				0		49	Asia/Shanghai	2010-06-08
+7302482	Xijiao Hotel Beijing	Xijiao Hotel Beijing		39.99702	116.34016	S	HTL	CN		22				0		58	Asia/Shanghai	2010-06-08
+7302502	Xinjiang Hotel Beijing	Xinjiang Hotel Beijing		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Shanghai	2010-06-09
+7302504	Xinxing Hotel Beijing	Xinxing Hotel Beijing		39.91066	116.30966	S	HTL	CN		22				0		57	Asia/Shanghai	2010-06-09
+7302507	Hotel Super 8 Beijing Ao Yun Cun	Hotel Super 8 Beijing Ao Yun Cun		39.96864	116.39131	S	HTL	CN		22				0		55	Asia/Shanghai	2010-06-09
+7302509	Yangqiao Hotel Beijing	Yangqiao Hotel Beijing		39.8552	116.38158	S	HTL	CN		22				0		48	Asia/Shanghai	2010-06-09
+7302514	Yongxing Garden Hotel Beijing	Yongxing Garden Hotel Beijing		39.92426	116.32536	S	HTL	CN		22				0		55	Asia/Shanghai	2010-06-09
+7302516	Beijing Yuanshan Hotel	Beijing Yuanshan Hotel		39.9333	116.4	S	HTL	CN		22				0		55	Asia/Shanghai	2010-06-09
+7302517	Yue Xiu Hotel Beijing	Yue Xiu Hotel Beijing		39.94938	116.38701	S	HTL	CN		22				0		52	Asia/Shanghai	2010-06-09
+7302523	Zhongyu Century Grand Hotel Beijing	Zhongyu Century Grand Hotel Beijing		39.9594	116.29842	S	HTL	CN		22				0		52	Asia/Shanghai	2010-06-09
+7304305	Beijing JJL Overseas Education Consulting & Service Company, Ltd.	Beijing JJL Overseas Education Consulting & Service Company, Ltd.		39.90834	116.45153	S	BLDG	CN		22				0		54	Asia/Shanghai	2010-07-31
+7402800	Beijingzi Zhen	Beijingzi Zhen	Beijingzi Zhen,bei jing zi zhen,北井子镇	39.86192	123.88402	A	ADM4	CN		19				0		9	Asia/Shanghai	2012-01-21
+7636037	Beijing	Beijing	Beijing,bei jing,陂迳	29.34644	116.19873	P	PPL	CN		03				0		19	Asia/Shanghai	2012-01-21
+7654055	Beijingling	Beijingling	Beijingling,bei jing ling,背井岭	19.66884	109.98492	P	PPL	CN		31				0		81	Asia/Chongqing	2012-01-21
+7729998	Beijing Nanyuan Airport	Beijing Nanyuan Airport	NAY,ZBNY	39.7828	116.388	S	AIRP	CN		22				0		35	Asia/Shanghai	2011-03-16
+7889476	Beijingzui	Beijingzui	Beijingzui,bei jing ju,北经咀	30.82264	114.04794	P	PPL	CN		12				0		28	Asia/Shanghai	2012-01-21
+8212997	Beijing	Beijing	Beijing,bei jing,陂径	25.07655	114.26569	P	PPL	CN		30				0		119	Asia/Shanghai	2012-02-29
+8384572	Beijing Shi Renmin Zhengfu	Beijing Shi Renmin Zhengfu	Beijing Shi Renmin Zhengfu,bei jing shi ren min zheng fu,北京市人民政府	39.90388	116.40128	S	GOVL	CN		22				0		51	Asia/Shanghai	2012-09-08
+8384618	Beijing Zhongyi Yiyuan	Beijing Zhongyi Yiyuan	Beijing Zhongyi Yiyuan,bei jing zhong yi yi yuan,北京中医医院	39.93091	116.40179	S	HSP	CN		22				0		58	Asia/Shanghai	2012-09-08
+8384646	Beijing Shifan Daxue	Beijing Shifan Daxue	Beijing Shifan Daxue,bei jing shi fan da xue,北京师范大学	39.95826	116.36265	S	SCHC	CN		22				0		55	Asia/Shanghai	2012-09-08
+8384647	Beijing Dongwuyuan	Beijing Dongwuyuan	Beijing Dongwuyuan,bei jing dong wu yuan,北京动物园	39.94	116.33009	S	ZOO	CN		22				0		53	Asia/Shanghai	2012-09-08
+8384657	Beijing Xizhan	Beijing Xizhan	Beijing Xizhan,bei jing xi zhan,北京西站	39.89351	116.31533	S	RSTN	CN		22				0		63	Asia/Shanghai	2012-09-08
+8384762	Beijing Daxue	Beijing Daxue	Beijing Daxue,bei jing da xue,北京大学	39.99013	116.30144	S	SCHC	CN		22				0		55	Asia/Shanghai	2012-09-08
+8384980	Beijing Kongmiao	Beijing Kongmiao	Beijing Kongmiao,bei jing kong miao,北京孔庙	39.94504	116.40831	S	TMPL	CN		22				0		53	Asia/Shanghai	2012-09-08
+8384987	Beijing Guguanxiangtai	Beijing Guguanxiangtai	Beijing Guguanxiangtai,bei jing gu guan xiang tai,北京古观象台	39.90575	116.42802	S	OBS	CN		22				0		50	Asia/Shanghai	2012-09-08
+8385046	Beijing Xicheliangduan	Beijing Xicheliangduan	Beijing Xicheliangduan,bei jing xi che liang duan,北京西车辆段	39.89261	116.28086	R	RYD	CN		22				0		53	Asia/Shanghai	2012-09-08
+8385047	Beijing Dongcheliangduan	Beijing Dongcheliangduan	Beijing Dongcheliangduan,bei jing dong che liang duan,北京东车辆段	39.89316	116.2949	R	RYD	CN		22				0		53	Asia/Shanghai	2012-09-08
+8385791	Beijing Guoji Gao’erfuqiu Julebu	Beijing Guoji Gao'erfuqiu Julebu	Beijing Guoji Gao'erfuqiu Julebu,Beijing Guoji Gao’erfuqiu Julebu,bei jing guo ji gao er fu qiu ju le bu,北京国际高尔夫球俱乐部	40.2728	116.25629	S	RECG	CN		22				0		120	Asia/Shanghai	2012-09-08
+8388190	Beijing Shi Caizhengju	Beijing Shi Caizhengju	Beijing Shi Caizhengju,bei jing shi cai zheng ju,北京市财政局	39.92298	116.31282	S	ADMF	CN		22				0		59	Asia/Shanghai	2012-09-08
+8388193	Beijing Shi Liangshi Kexue Yanjiusuo	Beijing Shi Liangshi Kexue Yanjiusuo	Beijing Shi Liangshi Kexue Yanjiusuo,bei jing shi liang shi ke xue yan jiu suo,北京市粮食科学研究所	39.8884	116.36418	S	ITTR	CN		22				0		52	Asia/Shanghai	2012-09-08
+8388470	Beijing Faguo Guoji Xuexiao	Beijing Faguo Guoji Xuexiao	Beijing Faguo Guoji Xuexiao,bei jing fa guo guo ji xue xiao,北京法国国际学校	39.93827	116.44977	S	SCH	CN		22				0		44	Asia/Shanghai	2012-09-08
+8388506	Beijing Yingguo Xuexiao	Beijing Yingguo Xuexiao	Beijing Yingguo Xuexiao,bei jing ying guo xue xiao,北京英国学校	39.94327	116.4482	S	SCH	CN		22				0		46	Asia/Shanghai	2012-09-08
+8404324	Beijing	Beijing	Beijing,bei jing,北京	30.72608	108.67483	P	PPL	CN		33				0		583	Asia/Chongqing	2012-10-08
+8541175	Beijinglu	Beijinglu	Beijinglu,Beijinglu Jiedao,Jinghu Qu,bei jing lu,bei jing lu jie dao,jing hu qu,北京路,北京路街道,镜湖区	31.32268	118.38506	P	PPLA3	CN		01				0		12	Asia/Shanghai	2013-06-06
+8465606	Mcedo Beijing School	Mcedo Beijing School		-1.26311	36.8556	S	SCH	KE		05				0		1619	Africa/Nairobi	2013-02-10
+6624285	Berlin Crater	Berlin Crater		-76.05	-135.86667	T	MT	AQ						0		3045	Antarctica/McMurdo	2008-01-20
+6624305	Berlindom	Berlindom		-73.56667	164.3	T	PK	AQ						0		2918	Antarctica/McMurdo	2008-01-20
+6624316	Berlininseln	Berlininseln		-62.15	-58.95	T	ISL	AQ						0		17	Antarctica/Palmer	2008-01-20
+6624326	Berlin, Mount	Berlin, Mount	Berlin, Mount	-76.05	-135.86667	T	MT	AQ						0	3500	3045	Antarctica/McMurdo	2008-01-20
+6638676	Berlin Crevasse Field	Berlin Crevasse Field		-76.05	-136.5	H		AQ						0		1604	Antarctica/McMurdo	2008-01-20
+3864303	Berlín	Berlin		-23.08333	-66.6	S	HSE	AR		10				0		4015	America/Argentina/Jujuy	1993-12-21
+3864622	Estancia Barrios Berlín	Estancia Barrios Berlin		-54.3	-68.38333	S	RNCH	AR		23				0		281	America/Argentina/Ushuaia	1993-12-21
+2781846	Berliner Spitze	Berliner Spitze		47	11.85	T	PK	AT		07				0		3053	Europe/Vienna	2001-01-24
+2781847	Berliner Hütte	Berliner Hutte		47.03333	11.8	S	HTL	AT		07				0		2338	Europe/Vienna	1994-01-05
+7628167	Berlinerhütte	Berlinerhuette		47.02447	11.81275	S	HTL	AT		07				0	2042	2032	Europe/Vienna	2011-01-02
+2064245	Old Berlino	Old Berlino	Old Berlino,Old Berlino Homestead	-27.8	138.4	P	PPLQ	AU	AU	05				0		26	Australia/Adelaide	2012-01-18
+2076729	Berlino Hill	Berlino Hill		-27.78333	138.36667	T	HLL	AU		05				0		27	Australia/Adelaide	1993-12-30
+2076730	Berlino	Berlino	Berlino,Berlino Homestead,Berlino Station	-27.6	138.58333	P	PPLQ	AU	AU	05				0		19	Australia/Adelaide	2012-01-18
+2078329	Berlin Rock	Berlin Rock		-34.59167	136.06667	T	RK	AU		05				0	5	-9999	Australia/Adelaide	1994-12-23
+8186921	Berlina Dam	Berlina Dam	Berlina Dam	-30.02147	137.90446	S	DAM	AU		05				0		170	Australia/Adelaide	2012-02-02
+2802147	Berlingen	Berlingen	Wellen (Berlingen)	50.81944	5.31129	P	PPL	BE		VLG	VLI	73	73098	0		59	Europe/Brussels	2011-03-02
+3444507	Estancia Retiro Berlín	Estancia Retiro Berlin		-16.43333	-59	P	PPL	BO		08				0		123	America/La_Paz	1993-12-12
+3909455	Nuevo Berlín	Nuevo Berlin	Nuevo Belen,Nuevo Berlin,Nuevo Berlín	-13.1	-63.8	P	PPL	BO	BO	03				0		137	America/La_Paz	2012-01-18
+3909456	Nuevo Berlín	Nuevo Berlin		-12.68333	-65.1	P	PPL	BO		03				0		144	America/La_Paz	1993-12-12
+3917690	Estancia Berlín	Estancia Berlin		-17.05	-62.75	P	PPL	BO		08				0		261	America/La_Paz	1993-12-12
+3923155	Laguna Berlin	Laguna Berlin		-16.11667	-60.41667	H	LKI	BO		08				0		243	America/La_Paz	1993-12-12
+3923156	Berlín	Berlin	Berlin,Berlín,Estancia Centro Berlin,Estancia Centro Berlín	-18.5877	-68.23989	P	PPL	BO		05				0		3756	America/La_Paz	2013-01-11
+3923157	Berlín	Berlin		-10.78333	-66.33333	P	PPL	BO		06				0		166	America/La_Paz	1993-12-12
+3470063	Berlinque	Berlinque		-13.1	-38.75	P	PPL	BR		05				0		-9999	America/Bahia	1993-12-17
+5898788	Berlinguet	Berlinguet		48.70013	-74.13242	L	AREA	CA		10				0		472	America/Montreal	2006-01-18
+5898789	Berlinguet Inlet	Berlinguet Inlet		71.16802	-85.83342	H	INLT	CA		14				0		-9999	America/Rankin_Inlet	2006-01-18
+5898790	Berlinguet River	Berlinguet River		71.09302	-86.21689	H	STM	CA		14				0		23	America/Rankin_Inlet	2006-01-18
+5898791	Berlin Islands	Berlin Islands		44.58342	-76.31609	T	ISLS	CA		08				0		131	America/Toronto	2006-01-18
+5898792	Berlin Lake	Berlin Lake		58.55001	-101.07385	H	LK	CA		03				0		367	America/Winnipeg	2006-01-18
+5911592	Burlington	Burlington	Berlington,barinton,beollingteon,byrlynjtwn, awntaryw,Берлингтон,Берлінгтон,برلنگٹن,بيرلينجتون، أونتاريو,バーリントン,벌링턴	43.38621	-79.83713	P	PPL	CA		08				164415		165	America/Toronto	2010-09-22
+5945111	East Berlin	East Berlin		44.07366	-64.56111	P	PPL	CA		07				0		7	America/Halifax	2013-07-11
+5945112	East Berlin Bay	East Berlin Bay		44.06686	-64.56547	H	BAY	CA		07				0		-9999	America/Halifax	2006-01-18
+6000357	Lac Berlinguet	Lac Berlinguet		48.68343	-74.11582	H	LK	CA		10				0		463	America/Montreal	2006-01-18
+6000358	Lac-Berlinguet	Lac-Berlinguet		48.68343	-74.11582	A	ADMD	CA		10	04			0		463	America/Montreal	2006-01-18
+6006980	Lac de la Berline	Lac de la Berline		46.63342	-76.49937	H	LK	CA		10				0		271	America/Montreal	2006-01-18
+6097522	Parc Émile-Berliner	Parc Emile-Berliner		45.47588	-73.58948	L	PRK	CA		10				0		21	America/Montreal	2006-01-18
+6129738	Ruisseau Berlinguet	Ruisseau Berlinguet		48.65263	-74.01582	H	STM	CA		10				0		410	America/Montreal	2006-01-18
+6178338	West Berlin	West Berlin		44.07289	-64.58157	P	PPL	CA		07				0		3	America/Halifax	2013-07-11
+6640176	Berlingen	Berlingen		47.67388	9.01969	P	PPL	CH		TG	2012	4801		0		400	Europe/Zurich	2013-03-28
+7285211	Berlingen	Berlingen		47.66665	9.02741	A	ADM3	CH		TG	2012	4801		850		539	Europe/Zurich	2012-09-13
+7669456	Berlincourt	Berlincourt		47.32913	7.22351	P	PPL	CH		JU	2601	6701		0	498	495	Europe/Zurich	2011-02-26
+3898424	Punta Berlín	Punta Berlin		-48.38333	-74.81667	T	PT	CL		02				0		-9999	America/Santiago	1993-12-19
+3688511	Bremen	Bremen	Berlin,Berlín,Bremen	4.39316	-74.76145	P	PPL	CO		33				0		304	America/Bogota	2012-01-19
+3688887	Quebrada Berlín	Quebrada Berlin		7.46906	-74.00016	H	STM	CO		35				0		93	America/Bogota	2011-10-11
+3688888	Playones de Berlín	Playones de Berlin		7.14194	-73.88583	T	PLN	CO		26				0		70	America/Bogota	2002-07-02
+3688889	Berlín	Berlin	Berlin,Berlín	6.28774	-75.55807	P	PPLX	CO		02				0		1524	America/Bogota	2012-05-06
+3688890	Berlín	Berlin	Berlin,Berlín,Hacienda Berlin,Hacienda Berlín	10.14492	-74.34344	P	PPL	CO		38				0		155	America/Bogota	2012-01-19
+3688891	Berlín	Berlin		9.6792	-75.52122	P	PPL	CO		27				0		17	America/Bogota	1993-12-08
+3688892	Berlín	Berlin		9.66193	-74.09933	P	PPL	CO		38				0		106	America/Bogota	1993-12-08
+3688893	Berlín	Berlin		9.31434	-74.37764	P	PPL	CO		38				0		31	America/Bogota	2011-10-11
+3688894	Berlín	Berlin		8.75	-75.91667	P	PPL	CO		12				0		13	America/Bogota	1993-12-08
+3688895	Berlin	Berlin		8.67384	-74.78183	P	PPL	CO		27				0		23	America/Bogota	2011-10-11
+3688896	Berlín	Berlin		8.38389	-75.52945	P	PPL	CO		12				0		67	America/Bogota	2011-10-11
+3688897	Berlín	Berlin		8.31562	-75.73192	P	PPL	CO		12				0		47	America/Bogota	2011-10-11
+3688898	Berlín	Berlin		7.18722	-72.87811	P	PPL	CO		26				0		3304	America/Bogota	2011-10-11
+3688899	Berlín	Berlin		7.11667	-73.91667	P	PPL	CO		26				0		70	America/Bogota	1993-12-08
+3688900	Berlín	Berlin		7.07333	-75.62889	P	PPL	CO		02				0		2115	America/Bogota	1994-03-16
+3688901	Berlín	Berlin		6.5043	-73.23223	P	PPL	CO		26				0		1031	America/Bogota	2011-10-11
+3688902	Berlín	Berlin		5.78333	-74.65	P	PPL	CO		36				0		149	America/Bogota	1993-12-08
+3688903	Berlín	Berlin		5.6755	-74.89948	P	PPL	CO		37				0		772	America/Bogota	2011-10-11
+3688904	Berlin	Berlin		5.47407	-71.71442	S	RNCH	CO		32				0		175	America/Bogota	2011-10-11
+3688905	Berlín	Berlin		5.03333	-73.86667	P	PPL	CO		33				0		2560	America/Bogota	1993-12-08
+3688906	Berlín	Berlin		4.82833	-72.18611	P	PPL	CO		32				0		178	America/Bogota	2002-02-08
+3731655	Quebrada Berlín	Quebrada Berlin		7.05722	-75.62444	H	STM	CO		02				0		1430	America/Bogota	1994-03-16
+3732097	Hacienda Berlín	Hacienda Berlin		7.23361	-73.37778	S	FRM	CO		26				0		177	America/Bogota	1994-03-16
+3732244	Hacienda Berlín	Hacienda Berlin		7.32611	-73.12556	S	FRM	CO		26				0		1019	America/Bogota	1994-03-16
+3733173	Berlín	Berlin		9.37471	-73.6821	P	PPL	CO		10				0		28	America/Bogota	1994-04-13
+3734288	Vereda Berlín	Vereda Berlin	Vereda Berlin,Vereda Berlín	1.32325	-75.92143	L	LCTY	CO		08				0		299	America/Bogota	2012-01-19
+3734326	Berlín	Berlin		2.63942	-72.77392	P	PPL	CO		19				0		185	America/Bogota	2011-10-12
+3735932	Hacienda Berlin	Hacienda Berlin		3.40944	-75.16639	S	FRM	CO		28				0		346	America/Bogota	1994-09-01
+3736256	Berlin	Berlin		3.05361	-75.42361	P	PPL	CO		16				0		599	America/Bogota	2007-02-02
+3737127	Berlín	Berlin		3.13417	-75.58139	P	PPL	CO		16				0		2148	America/Bogota	1994-09-08
+3737128	Loma de Berlín	Loma de Berlin		3.14779	-75.57027	T	HLL	CO		16				0		2210	America/Bogota	1994-09-08
+3737198	Berlín	Berlin		3.23278	-75.63722	P	PPL	CO		28				0		930	America/Bogota	1994-09-08
+3739318	Berlín	Berlin		3.72333	-74.96472	P	PPLL	CO		28				0		292	America/Bogota	1994-11-14
+3739377	Berlín	Berlin		3.77833	-74.9275	P	PPLL	CO		28				0		300	America/Bogota	1994-11-14
+3756346	Berlin	Berlin		0.20983	-71.57917	P	PPL	CO		30				0		173	America/Bogota	2011-10-12
+3768780	Laguna Berlín	Laguna Berlin		4.06028	-75.70361	H	LK	CO		28				0		3459	America/Bogota	2002-01-25
+3768782	Berlín	Berlin		3.7375	-75.67889	P	PPL	CO		28				0		2051	America/Bogota	2002-05-17
+3769395	Hacienda Berlín	Hacienda Berlin		4.06444	-75.68083	S	FRM	CO		28				0		2999	America/Bogota	2002-01-25
+3769403	Quebrada Berlín	Quebrada Berlin		4.06273	-75.67866	H	STM	CO		28				0		2984	America/Bogota	2011-10-13
+3769555	Hacienda Berlín	Hacienda Berlin		4.1075	-75.95639	S	FRM	CO		29				0		2008	America/Bogota	2002-01-25
+3769584	Berlín	Berlin		4.45538	-72.37684	P	PPL	CO		32				0		161	America/Bogota	2002-02-08
+3776117	Berlín	Berlin		5.85889	-73.86278	P	PPL	CO		26				0		2595	America/Bogota	2002-03-11
+3776118	Hacienda Berlín	Hacienda Berlin		5.63833	-73.78722	S	FRM	CO		36				0		2547	America/Bogota	2002-03-11
+3777321	Vereda Berlín	Vereda Berlin		5.90472	-73.94333	L	AREA	CO		26				0		2314	America/Bogota	2002-03-11
+3777322	Vereda Berlín Alto	Vereda Berlin Alto		5.91139	-73.9375	L	AREA	CO		26				0		2446	America/Bogota	2002-03-11
+3778492	Berlin	Berlin		3.65417	-76.38139	P	PPL	CO		29				0		966	America/Bogota	2002-03-15
+3780961	Berlín	Berlin		2.9793	-75.51016	P	PPL	CO		16				0		1814	America/Bogota	2002-03-26
+3780966	Quebrada Berlín	Quebrada Berlin		2.94889	-75.57778	H	STM	CO		16				0		1260	America/Bogota	2002-03-26
+3781616	Berlín	Berlin		4.79736	-73.90962	P	PPL	CO		33				0		2983	America/Bogota	2011-10-13
+3783381	Ciénaga de Berlín	Cienaga de Berlin		8.76528	-75.91806	H	SWMP	CO		12				0		11	America/Bogota	2002-04-11
+3791480	Berlin	Berlin		3.62389	-75.61139	P	PPL	CO		28				0		1460	America/Bogota	2002-05-17
+3792439	Berlín	Berlin	Berlin,Berlín	2.37194	-75.97472	P	PPL	CO		16				0		2180	America/Bogota	2012-01-19
+3792440	Berlín	Berlin		2.19972	-75.56276	P	PPL	CO		16				0		1444	America/Bogota	2011-10-13
+3793831	Finca Berlín	Finca Berlin		8.33198	-76.48161	S	FRM	CO		02				0		100	America/Bogota	2011-10-13
+3829927	Hacienda Berlín	Hacienda Berlin		7.11326	-73.89916	S	FRM	CO		26				0		70	America/Bogota	2011-10-13
+6196798	Berlín	Berlin		5.97806	-71.73444	S	FRM	CO		32				0		212	America/Bogota	2006-02-03
+6197846	Berlin	Berlin		5.16167	-72.01778	S	FRM	CO		32				0		175	America/Bogota	2006-02-03
+6792010	Vereda Alto Berlín	Vereda Alto Berlin		0.95455	-75.80813	L	LCTY	CO		08				0		225	America/Bogota	2009-01-04
+6792011	Vereda Bajo Berlín	Vereda Bajo Berlin		0.92628	-75.78768	L	LCTY	CO		08				0		228	America/Bogota	2009-01-04
+6977760	Vereda Berlín	Vereda Berlin		1.13086	-75.02194	L	LCTY	CO		08				0		265	America/Bogota	2009-11-28
+6978958	Berlín	Berlin		1.77347	-75.22389	S	FRM	CO		08				0		290	America/Bogota	2009-11-28
+6979081	Caserío Berlín	Caserio Berlin		1.68428	-75.36877	P	PPL	CO		08				0		1020	America/Bogota	2009-11-28
+6979189	Hacienda Berlín	Hacienda Berlin		1.83998	-75.06438	S	RNCH	CO		08				0		252	America/Bogota	2009-11-28
+6979364	Vereda Berlín	Vereda Berlin		1.8621	-75.31975	L	LCTY	CO		08				0		1050	America/Bogota	2009-11-28
+6979376	Vereda Alto Berlín	Vereda Alto Berlin		1.72299	-75.33332	L	LCTY	CO		08				0		1282	America/Bogota	2009-11-28
+7013935	Berlín	Berlin		1.64338	-74.80336	S	FRM	CO		08				0		224	America/Bogota	2009-11-28
+7014094	Berlín	Berlin		2.304	-74.92705	S	FRM	CO		08				0		461	America/Bogota	2009-11-28
+7014095	Berlín	Berlin		2.03829	-74.87722	S	FRM	CO		19				0		365	America/Bogota	2009-11-28
+7015502	Caño Berlin	Cano Berlin		3.45098	-74.13587	H	STM	CO		19				0		865	America/Bogota	2009-11-28
+7523648	Quebrada Berlin	Quebrada Berlin	Quebrada Berlin	5.10269	-74.71764	H	STM	CO		33				0		194	America/Bogota	2012-01-21
+7541876	Berlín	Berlin	Berlin,Berlín	1.10273	-75.68389	P	PPL	CO		08				0		236	America/Bogota	2012-01-21
+7551169	Berlín	Berlin	Berlin,Berlín	1.30556	-75.56184	P	PPL	CO		08				0		222	America/Bogota	2012-01-21
+7551526	Hacienda Berlin	Hacienda Berlin	Hacienda Berlin	1.20764	-75.54492	S	FRM	CO		08				0		218	America/Bogota	2012-01-21
+7554252	Berlina	Berlina	Berlina	1.56774	-75.65936	P	PPL	CO		08				0		288	America/Bogota	2012-01-21
+8139361	Berlín	Berlin	Berlin,Berlín	3.88289	-77.00828	P	PPLX	CO		29				0		32	America/Bogota	2012-01-22
+8182113	Berlín	Berlin	Berlin,Berlín	4.74846	-74.12047	P	PPLX	CO		34				0		2544	America/Bogota	2012-02-02
+8184637	Centro de Salud Barrio Berlin Malvinas	Centro de Salud Barrio Berlin Malvinas	Centro de Salud Barrio Berlin Malvinas	1.61365	-75.60236	S	CTRM	CO		08				0		299	America/Bogota	2012-02-02
+8184640	Barrio Berlin Malvinas	Barrio Berlin Malvinas	Barrio Berlin Malvinas	1.61417	-75.60392	P	PPLX	CO		08				0		279	America/Bogota	2012-02-02
+8304845	Berlín	Berlin	Berlin,Berlín	1.32954	-75.92126	S	SCH	CO		08				0		296	America/Bogota	2012-06-07
+8355969	Berlín	Berlin	Berlin,Berlín	1.68433	-75.37742	P	PPL	CO		08				0		1134	America/Bogota	2012-08-05
+8538756	Berlín	Berlin	Berlin,Berlín	1.55335	-75.62216	P	PPL	CO		08				0		264	America/Bogota	2013-06-05
+8560048	Hacienda Berlín	Hacienda Berlin		10.09481	-73.26397	P	PPL	CO		10				0		108	America/Bogota	2013-07-08
+8578282	Hacienda Berlín	Hacienda Berlin	Hacienda Berlin,Hacienda Berlín	3.5657	-73.65064	S	FRMT	CO		19				0		335	America/Bogota	2013-07-08
+3624709	Berlín	Berlin		10.01505	-84.47233	P	PPL	CR		01				0		1341	America/Costa_Rica	2011-04-19
+3624710	Berlín	Berlin		9.43005	-83.75398	P	PPL	CR		08				0		1211	America/Costa_Rica	2011-04-19
+1529666	Bahnhof Grenzau	Bahnhof Grenzau		50.45715	7.66512	S	RSTN	DE		08				0		231	Europe/Berlin	2012-09-06
+2038682	Bahnhof Annaburg	Bahnhof Annaburg	Bahnhof Annaburg,Bahnhof Annaburg West	51.72833	13.33361	S	RSTN	DE		14				0		84	Europe/Berlin	2012-01-18
+2658739	Schiener Bach	Schiener Bach	Schiener Bach	47.68333	8.85	H	STM	DE		00				0		506	Europe/Berlin	2012-05-05
+2659829	Lunkenbach	Lunkenbach	Lunckenbach,Lunkenbach	47.68333	8.85	H	STM	DE		00				0		506	Europe/Berlin	2012-05-05
+2760454	Zugspitze	Zugspitze	Cugshpice,Cugshpitce,Cugspice,Cūgšpicė,Gara Cugshpiceh,Weisskogel,Zugspitz,Zugspitze,Zugspitze Dagi,Zugspitze Dağı,chu ge feng,chukeusyupiche san,tsugaspitse,tsukushupittsu~e,zwgspyzh,Гара Цугшпіцэ,Цугшпитце,Цугшпице,Цугшпітце,צוגשפיצה,تسوگ‌اشپیتسه,سوگسپتزے,त्सुगस्पिट्से,ცუგშპიცე,ツークシュピッツェ,楚格峰,추크슈피체 산	47.42118	10.98635	T	MT	DE		02	091	09180	09180117	0	2962	2905	Europe/Berlin	2013-02-19
+2761463	Wertach	Wertach		48.40405	10.88801	H	STM	DE		02	097			0		462	Europe/Berlin	2010-11-15
+2772288	Loisach	Loisach	Loisach	47.93333	11.45	H	STM	DE		00				0		575	Europe/Berlin	2012-01-18
+2772797	Lech	Lech	Lech	48.73437	10.93601	H	STM	DE		00				0		400	Europe/Berlin	2012-09-06
+2783037	Tiroler Achen	Tiroler Achen	Achen,Die Tiroler Achen,Grossache,Grosse Ache,Großache,Kossner Ache,Kössner Ache,Tiroler Ache,Tiroler Achen	47.85	12.5	H	STM	DE		00				0		517	Europe/Berlin	2012-01-18
+2803460	Märkischer Kreis	Markischer Kreis	Iserlohn,Markischer Kreis,Märkischer Kreis	51.26389	7.74167	A	ADM3	DE		07	059	05962		434031		186	Europe/Berlin	2012-01-18
+2803461	Landkreis Hildesheim	Landkreis Hildesheim	Arrondissement de Hildesheim,Circondario di Hildesheim,Distrikto Hildesheim,Distrito de Hildesheim,HI,Landkreis Hildesheim,Landkreis Hildesheim-Marienburg,Loundkring Hildesheim,Powiat Hildesheim,xi er de si hai mu xian,希尔德斯海姆县	52.12667	9.965	A	ADM3	DE		06	00	03254		284551		80	Europe/Berlin	2012-01-18
+2803462	Leipziger Tieflandsbucht	Leipziger Tieflandsbucht	Halle-Leipzig Tieflandbucht,Leipziger Tieflandsbucht	51.5	12.33333	L	RGN	DE	DE	13				0		100	Europe/Berlin	2012-01-18
+2803463	Landkreis Aichach-Friedberg	Landkreis Aichach-Friedberg	Aichach,Augsburg-Ost,Friedberg,Landkreis Aichach-Friedberg	48.41722	11.05472	A	ADM3	DE		02	097	09771		127859		483	Europe/Berlin	2012-01-18
+2803464	Freiburg Reede	Freiburg Reede	Freiburg Reede,Reede von Freiburg	53.83333	9.33333	R	RD	DE	DE	06				0		0	Europe/Berlin	2012-01-18
+2803465	Franken	Franken	Franconia,Franken,Frankonio	50	9	L	RGN	DE	DE	00				0		133	Europe/Berlin	2012-01-18
+2803466	Hoogeveenkanaal	Hoogeveenkanaal	Echtenskanaal,Hoogeveenkanaal,Hoogeveensche Vaart	52.67732	6.32469	H	CNL	DE	DE	00				0		1	Europe/Berlin	2010-12-13
+2803468	Zyfflich	Zyfflich		51.82342	5.97297	P	PPL	DE		07	051			0		14	Europe/Berlin	2012-12-19
+2803469	Zwuschwitz	Zwuschwitz		51.11667	13.4	P	PPL	DE		13				0		201	Europe/Berlin	1994-01-08
+2803470	Zwötzen	Zwotzen	Gera-Zwotzen,Gera-Zwötzen,Zwotzen,Zwötzen	50.84858	12.08635	P	PPL	DE		15				0		199	Europe/Berlin	2012-09-06
+2803471	Bahnhof Zwotental	Bahnhof Zwotental		50.36222	12.36417	S	RSTN	DE		13				0		679	Europe/Berlin	2002-09-06
+2803472	Zwotental	Zwotental		50.36103	12.36468	P	PPL	DE		13				0		675	Europe/Berlin	2012-09-06
+2803473	Zwota-Bach	Zwota-Bach		50.35292	12.43238	H	STM	DE		13				0		578	Europe/Berlin	2012-09-06
+2803474	Zwota	Zwota		50.38333	12.43333	P	PPLA4	DE		13	145	14523	14523470	1541		744	Europe/Berlin	2011-07-31
+2803475	Zwoschwitz	Zwoschwitz		50.51187	12.08974	P	PPL	DE		13				0		416	Europe/Berlin	2012-09-06
+2803476	Zwönitz	Zwonitz	Cvenic,Cvjonic,Zwonitz,Zwönitz,ci wei ni ci,tswnytz,Цвениц,Цвёниц,تسونیتز,茨韦尼茨	50.63026	12.80999	P	PPL	DE		13				11547		521	Europe/Berlin	2012-06-05
+2803477	Zwölf Pfarren-Wald	Zwolf Pfarren-Wald		47.77731	10.71059	V	FRST	DE		02				0		877	Europe/Berlin	2012-09-06
+2803478	Zwölfling	Zwolfling		48.60715	13.5694	P	PPL	DE		02	092	09275	09275150	0		446	Europe/Berlin	2013-02-19
+2803479	Zwölfhäuser	Zwolfhauser		48.90159	13.58417	P	PPL	DE		02	092	09272	09272134	0		883	Europe/Berlin	2013-02-19
+2803480	Zwölfgehren	Zwolfgehren		51.56667	9.81667	V	FRST	DE		06				0		256	Europe/Berlin	1994-01-08
+2803481	Zwölffüssiger Graben	Zwolffussiger Graben		52.78896	12.32937	H	CNL	DE		00				0		23	Europe/Berlin	2012-07-04
+2803482	Zwölffüssiger Graben	Zwolffussiger Graben		52.77147	12.41445	H	CNL	DE		11				0		25	Europe/Berlin	2012-07-04
+8016380	Berlin	Berlin	Berlin	11.87949	-85.99763	P	PPL	NI		06				0		267	America/Managua	2012-01-21
+6527181	Hotel Kasteel Bloemendal	HOTEL KASTEEL BLOEMENDAL		50.7732	6.0137	S	HTL	NL	NL,DE	05	0981			0		194	Europe/Berlin	2011-06-04
+6544773	Klispoel	Klispoel		51.7825	7.31528	P	PPL	NL		03	0296			0		51	Europe/Berlin	2007-06-07
+2193380	Berlins Creek	Berlins Creek	Berlin Creek	-41.86667	171.83333	H	STM	NZ	NZ	00				0		127	Pacific/Auckland	1993-12-30
+2193381	Berlins Bluff	Berlins Bluff	Berlin Bluff	-41.9	171.83333	T	CLF	NZ	NZ	00				0		628	Pacific/Auckland	1993-12-30
+2193382	Berlins	Berlins		-41.86667	171.83333	P	PPL	NZ		G3	055			0		127	Pacific/Auckland	2011-08-01
+6217484	Berlins	Berlins		-41.85827	171.84015	L	LCTY	NZ		F5				0		44	Pacific/Auckland	2006-03-04
+6217492	Berlins Bluff	Berlins Bluff		-41.88827	171.83015	T	HLL	NZ		F5				0		254	Pacific/Auckland	2006-03-04
+3714152	Quebrada Berlina	Quebrada Berlina	Quebrada Berlina,Quebrada La Berlina	8.36667	-82.5	H	STM	PA	PA	02				0		10	America/Panama	2012-01-19
+3699351	Berlín	Berlin		-5.73452	-74.70948	P	PPL	PE		16	1605	160506		0		114	America/Lima	2012-10-07
+3699352	Berlín	Berlin		-3.83333	-74.4	P	PPL	PE		16	1603	160303		0		126	America/Lima	2012-07-19
+3737522	Nuevo Berlín	Nuevo Berlin		-3.65823	-72.99771	P	PPL	PE		16	1601	160104		0		100	America/Lima	2012-10-07
+3946746	Berlín	Berlin		-17.77164	-70.48266	P	PPL	PE		23	2301	230105		0		569	America/Lima	2012-11-08
+7543760	Berlin	Berlin		-6.85131	-76.56544	P	PPL	PE		22	2202	220205		0		263	America/Lima	2012-07-19
+7544102	Berlín	Berlin		-7.06082	-76.71676	P	PPL	PE		22	2204	220405		0		274	America/Lima	2012-10-08
+2101166	Aitape Road	Aitape Road	Aitape Road,Berlin Road	-3.15	142.41667	H	RDST	PG	PG	18				0		-9999	Pacific/Port_Moresby	2012-01-17
+775122	Brzeźno	Brzezno	Berling,Brzezno,Brzeźno	53.92996	20.13289	P	PPL	PL		85				0		130	Europe/Warsaw	2012-01-19
+776224	Berlinka	Berlinka		50.98275	20.52148	P	PPL	PL		84				0		277	Europe/Warsaw	1993-12-28
+3103824	Barlinek	Barlinek	Barlinek,Barlineka,Berlenko,Berlinchen,Berlinek,Berlënkò,ba er li nei ke,Барлинек,Барлінек,巴爾利內克	52.99464	15.21864	P	PPLA3	PL		87	3210	321001		14385		56	Europe/Warsaw	2010-09-22
+7576182	Berlinek	Berlinek		52.49924	18.28237	P	PPL	PL		73	0409	040902		0		102	Europe/Warsaw	2010-10-15
+7576222	Berlinek	Berlinek		51.9349	16.35907	P	PPL	PL		86	3013	301307		0		89	Europe/Warsaw	2010-10-16
+1510159	Berdin	Berdin	Berdin,Berlin,Berlinskiy,Бердин,Берлин	54	61.18	P	PPL	RU		13				0		231	Asia/Yekaterinburg	2009-07-06
+1538745	Berlinka	Berlinka	Belinka,Berlinka,Берлинка	56.83231	86.55247	P	PPL	RU		75				0		106	Asia/Novosibirsk	2012-08-05
+2722657	Berlin	Berlin		59.3	16.28333	P	PPL	SE		18	0484			0		27	Europe/Stockholm	2011-10-30
+3331918	Barrlind	Barrlind	Barrlind,Berlin	57.93333	11.55	T	ISL	SE	SE	28				0		-9999	Europe/Stockholm	2012-01-19
+6530058	Berling Hotel	BERLING HOTEL		59.3793	13.4994	S	HTL	SE		22	1780			0		59	Europe/Stockholm	2011-10-30
+3584125	Cerro Pelón	Cerro Pelon	Cerro Palon de Berlin,Cerro Palón de Berlín,Cerro Pelon,Cerro Pelon de Berlin,Cerro Pelón	13.48333	-88.51667	T	MT	SV	SV	14				0		1341	America/El_Salvador	2012-01-18
+3587264	Municipio de Berlín	Municipio de Berlin		13.51667	-88.56667	A	ADM3	SV		14		3587264		0		522	America/El_Salvador	1993-12-19
+3587265	Distrito de Berlín	Distrito de Berlin		13.51667	-88.6	A	ADM2	SV		14	3587265			0		340	America/El_Salvador	1993-12-19
+3587266	Berlín	Berlin	Berlin,Berlín	13.5	-88.53333	P	PPL	SV		14				11313		975	America/El_Salvador	2012-01-18
+1644805	Fatuberliu	Fatuberliu	Fatu Berlin,Fatu-Berlio,Fatuberliu,Hato-Berlio,Nova Anadia	-8.94833	125.87028	P	PPL	TL	TL	00				0		550	Asia/Dili	2012-01-17
+706383	Khmelevoye	Khmelevoye	Berlin,Khmelevoye	50.14437	25.07703	P	PPL	UA		15				0		217	Europe/Kiev	2012-01-18
+710943	Chapayevo	Chapayevo	Chapayevo,Vorob'yevo,Vorob'yevo-Berlin,Vorob’yevo,Vorob’yevo-Berlin	47.11302	30.25798	P	PPL	UA		17				0		30	Europe/Kiev	2012-01-18
+712255	Berlintsy Polevyye	Berlintsy Polevyye	Berlintsy,Berlintsy Polevyye	48.82671	27.69338	P	PPL	UA		23				0		234	Europe/Kiev	2012-01-18
+712256	Berlintsy Lesovyye	Berlintsy Lesovyye		48.83333	27.7	P	PPL	UA		23				0		246	Europe/Kiev	1994-03-08
+4047787	Berlin	Berlin		34.18149	-86.74222	P	PPL	US		AL	043			0	258	255	America/Chicago	2010-02-14
+4047789	Berlin	Berlin		32.25931	-87.00832	P	PPL	US		AL	047			0	52	57	America/Chicago	2006-01-15
+4047791	Berlin (historical)	Berlin (historical)		32.7168	-85.14216	S		US		AL	081			0	180	191	America/Chicago	2010-02-14
+4047793	Berlin Baptist Church	Berlin Baptist Church		34.17649	-86.74305	S	CH	US		AL	043			0	246	248	America/Chicago	2006-01-15
+4047795	Berlin Branch	Berlin Branch		32.25042	-87.01082	H	STM	US		AL	047			0	37	41	America/Chicago	2010-02-14
+4047833	Berlin Normal School	Berlin Normal School		32.2007	-86.94915	S	SCH	US		AL	047			0	116	119	America/Chicago	2006-01-15
+4101288	Berlin	Berlin		33.08068	-91.76318	P	PPL	US		AR	003			0	40	47	America/Chicago	2010-09-05
+4147380	Berlin Heliport	Berlin Heliport		30.46302	-81.61482	S	AIRH	US		FL	031			0	3	11	America/New_York	2011-03-10
+4165715	New Berlin	New Berlin		30.39857	-81.55259	P	PPL	US		FL	031			0	1	5	America/New_York	2010-02-15
+4182096	Berlin	Berlin		31.06824	-83.62378	P	PPL	US		GA	071			551	80	79	America/New_York	2011-05-14
+4182097	Berlin Church	Berlin Church		33.25737	-82.02178	S	CH	US		GA	245			0	83	91	America/New_York	2010-02-15
+4182098	Berlin Elementary School	Berlin Elementary School		31.06852	-83.6235	S	SCH	US		GA	071			0	80	82	America/New_York	2010-02-15
+4182099	Berlin Post Office	Berlin Post Office		31.06658	-83.62406	S	PO	US		GA	071			0	79	82	America/New_York	2006-01-15
+4182100	Berlin School (historical)	Berlin School (historical)		33.25792	-82.02206	S	SCH	US		GA	245			0	86	95	America/New_York	2010-02-15
+4233627	Berlin	Berlin		39.75894	-89.90316	P	PPL	US		IL	167			180	194	195	America/Chicago	2011-05-14
+4233628	Berlin Cemetery	Berlin Cemetery		38.90838	-87.93087	S	CMTY	US		IL	033			0	140	137	America/Chicago	2006-01-15
+4233629	Berlin Cemetery	Berlin Cemetery		39.76088	-89.90511	S	CMTY	US		IL	167			0	195	198	America/Chicago	2006-01-15
+4233630	Berlin Congregational Church	Berlin Congregational Church		38.90893	-87.93059	S	CH	US		IL	033			0	140	142	America/Chicago	2006-01-15
+4233631	Berlin School (historical)	Berlin School (historical)		38.90838	-87.92587	S	SCH	US		IL	033			0	139	137	America/Chicago	2006-01-15
+4245481	New Berlin	New Berlin	Novyj Berlin,Новый Берлин	39.72533	-89.91066	P	PPL	US		IL	167			1346	198	199	America/Chicago	2011-05-14
+4245482	New Berlin High School	New Berlin High School		39.72838	-89.91011	S	SCH	US		IL	167			0	198	199	America/Chicago	2006-01-15
+4245483	Township of New Berlin	Township of New Berlin	New Berlin Township	39.71474	-89.90393	A	ADMD	US		IL	167			0	198	197	America/Chicago	2013-03-07
+4254414	Berling Airport	Berling Airport		39.60366	-86.44166	S	AIRP	US		IN	109			0	247	248	America/Indiana/Indianapolis	2010-02-15
+4268177	Berlin	Berlin		37.92143	-94.89608	P	PPL	US		KS	011			0	277	284	America/Chicago	2006-01-15
+4268178	Berlin School (historical)	Berlin School (historical)		37.93393	-94.89747	S	SCH	US		KS	011			0	294	297	America/Chicago	2006-01-15
+4268851	Burlingame	Burlingame	Berlingem,Берлингем	38.75389	-95.83499	P	PPL	US		KS	139			934	327	329	America/Chicago	2011-05-14
+4268854	Burlington	Burlington	Berlington,Берлингтон	38.19447	-95.74276	P	PPLA2	US		KS	031			2674	315	318	America/Chicago	2011-05-14
+4283975	Berlin	Berlin		38.69479	-84.16243	P	PPL	US		KY	023			0	295	296	America/New_York	2006-01-15
+4286281	Burlington	Burlington	Berlington,Берлингтон	39.02756	-84.72411	P	PPLA2	US		KY	015			15926	256	255	America/New_York	2011-05-14
+4348460	Berlin	Berlin		38.32262	-75.21769	P	PPL	US		MD	047			4485	11	13	America/New_York	2011-05-14
+4348461	Berlin Baptist Church	Berlin Baptist Church		38.33289	-75.21436	S	CH	US		MD	047			0	10	15	America/New_York	2010-02-19
+4348462	Berlin Branch Library	Berlin Branch Library		38.32928	-75.22074	S	LIBR	US		MD	047			0	13	13	America/New_York	2006-01-15
+4348463	Berlin Commercial Historic District	Berlin Commercial Historic District		38.32512	-75.21963	L	PRK	US		MD	047			0	13	14	America/New_York	2006-01-15
+4348464	Berlin High School (historical)	Berlin High School (historical)		38.32067	-75.22213	S	SCH	US		MD	047			0	13	12	America/New_York	2006-01-15
+4348465	Berlin Middle School	Berlin Middle School		38.33095	-75.21158	S	SCH	US		MD	047			0	9	9	America/New_York	2006-01-15
+4348466	Berlin Nursing Home	Berlin Nursing Home		38.33643	-75.21031	S	HSP	US		MD	047			0	8	6	America/New_York	2010-02-19
+4348467	Berlin Post Office	Berlin Post Office		38.32345	-75.21908	S	PO	US		MD	047			0	14	14	America/New_York	2010-02-19
+4348468	Berlin Run Shopping Center	Berlin Run Shopping Center		38.33456	-75.21158	S	MALL	US		MD	047			0	8	9	America/New_York	2006-01-15
+4348469	Berlin Shopping Center	Berlin Shopping Center		38.34039	-75.20047	S	MALL	US		MD	047			0	8	10	America/New_York	2006-01-15
+4348470	Berlin Town Hall	Berlin Town Hall		38.32456	-75.2188	S	BLDG	US		MD	047			0	13	14	America/New_York	2006-01-15
+4348471	Berlin West	Berlin West		38.33262	-75.36158	P	PPL	US		MD	045			0	13	13	America/New_York	2010-02-19
+4372517	WOCQ-FM (Berlin)	WOCQ-FM (Berlin)		38.38289	-75.31575	S	TOWR	US		MD	047			0	11	16	America/New_York	2010-02-15
+4376625	Berlin Reservoir	Berlin Reservoir		39.30784	-94.71276	H	RSV	US		MO	165			0	288	289	America/Chicago	2011-12-11
+4438143	New Berlin Landing	New Berlin Landing		33.28401	-90.72121	S		US		MS	133			0	29	33	America/Chicago	2010-02-16
+4458228	Burlington	Burlington	Berlington,Bjorlington,lyngtn, karwlynay shmaly,Берлингтон,Бёрлингтон,لینگتن، کارولینای شمالی	36.09569	-79.4378	P	PPL	US		NC	001			49963	198	197	America/New_York	2011-05-14
+4481681	New Berlin	New Berlin		34.31517	-78.21972	P	PPL	US		NC	047			0	15	15	America/New_York	2010-02-17
+4500771	Berlin	Berlin		39.79123	-74.92905	P	PPL	US		NJ	007			7588	50	50	America/New_York	2011-05-14
+4500772	Berlin Cemetery	Berlin Cemetery		39.80123	-74.94517	S	CMTY	US		NJ	007			0	50	53	America/New_York	2006-01-15
+4500773	Berlin Heights	Berlin Heights		39.81317	-74.89044	P	PPL	US		NJ	005			0	37	40	America/New_York	2006-01-15
+4500774	Berlin Park	Berlin Park		39.78762	-74.9385	L	PRK	US		NJ	007			0	43	55	America/New_York	2006-01-15
+4500775	Berlin Community Elementary School	Berlin Community Elementary School		39.79721	-74.94826	S	SCH	US		NJ	007			0	55	56	America/New_York	2010-02-16
+4500776	Borough of Berlin	Borough of Berlin		39.79137	-74.93731	A	ADMD	US		NJ	007			7588	43	45	America/New_York	2013-03-07
+4500777	Township of Berlin	Township of Berlin	Berlin Township	39.80514	-74.92546	A	ADMD	US		NJ	007			0	51	55	America/New_York	2013-03-07
+4500994	Burlington County	Burlington County	Berlington,Berlington srjan,Bjorlington,Burlingtun,Comte de Burlington,Comté de Burlington,Condado de Burlington,Condado han Burlington,Contea di Burlington,Hrabstwo Burlington,Quan Burlington,Quận Burlington,barlintana ka'unti,bo ling dun jun,Берлінгтон,Бърлингтън,Бёрлингтон,Բերլինգտոն շրջան,برلنگٹن کاؤنٹی,বার্লিংটন কাউন্টি,伯靈頓郡	39.87769	-74.6682	A	ADM2	US		NJ	005			448734	27	30	America/New_York	2013-03-07
+4501604	East Berlin	East Berlin		39.79734	-74.91516	P	PPL	US		NJ	007			0	48	51	America/New_York	2006-01-15
+4504772	West Berlin	West Berlin		39.80873	-74.94128	P	PPL	US		NJ	007			0	51	53	America/New_York	2006-01-15
+4507497	Burlington	Burlington	Berlington,Берлингтон	38.4073	-82.53571	P	PPL	US		OH	087			2676	170	170	America/New_York	2011-05-14
+4517122	Lou Berliner Park	Lou Berliner Park		39.93506	-83.00574	L	PRK	US		OH	049			0	214	214	America/New_York	2006-01-15
+4530350	Berlin	Berlin		35.45061	-99.62538	P	PPL	US		OK	129			0	661	665	America/Chicago	2006-01-15
+4530351	Berlin Cemetery	Berlin Cemetery		35.45755	-99.61232	S	CMTY	US		OK	129			0	650	655	America/Chicago	2006-01-15
+4530352	Township of Berlin	Township of Berlin	Berlin Township	35.48616	-99.69205	A	ADMD	US		OK	129			0	699	700	America/Chicago	2010-07-31
+4531743	Burlington	Burlington	Berlington,Берлингтон	36.90003	-98.42285	P	PPL	US		OK	003			152	372	380	America/Chicago	2011-05-14
+4556518	Berlin	Berlin		39.92064	-78.9578	P	PPL	US		PA	111			2104	710	704	America/New_York	2011-05-14
+4556519	Berlin Junction	Berlin Junction		39.85593	-77.03554	P	PPL	US		PA	001			0	180	184	America/New_York	2006-01-15
+4556520	Borough of Berlin	Borough of Berlin		39.92152	-78.95086	A	ADMD	US		PA	111			2104	700	698	America/New_York	2013-03-08
+4556521	Berlin-Brothersvalley Joint Schools	Berlin-Brothersvalley Joint Schools		39.91647	-78.94252	S	SCH	US		PA	111			0	697	694	America/New_York	2006-01-15
+4557666	East Berlin	East Berlin		39.9376	-76.97859	P	PPL	US		PA	001			1521	131	129	America/New_York	2011-05-14
+4557667	Borough of East Berlin	Borough of East Berlin		39.93692	-76.97939	A	ADMD	US		PA	001			1521	130	130	America/New_York	2013-03-08
+4570700	Berlin	Berlin		33.67376	-81.30371	P	PPL	US		SC	003			0	131	133	America/New_York	2006-01-15
+4570701	Berlin School	Berlin School		33.67487	-81.29677	S	SCH	US		SC	003			0	125	129	America/New_York	2006-01-15
+4570702	Berlin School (historical)	Berlin School (historical)		33.67182	-81.29149	S	SCH	US		SC	003			0	137	139	America/New_York	2006-01-15
+4605635	Berlin	Berlin		35.52979	-86.82444	P	PPL	US		TN	117			0	207	206	America/Chicago	2006-01-15
+4605636	Berlin Hill	Berlin Hill		35.52285	-86.82167	T	MT	US		TN	117			0	241	240	America/Chicago	2006-01-15
+4605637	Berlin Hollow	Berlin Hollow		35.05703	-87.6028	T	VAL	US		TN	181			0	185	190	America/Chicago	2006-01-15
+4605639	Berlin School	Berlin School		35.25619	-88.19253	S	SCH	US		TN	071			0	137	138	America/Chicago	2006-01-15
+4605640	Berlin School (historical)	Berlin School (historical)		35.52702	-86.82389	S	SCH	US		TN	117			0	218	228	America/Chicago	2006-01-15
+4605641	Berlin Spring	Berlin Spring		35.52896	-86.82472	H	SPNG	US		TN	117			0	209	215	America/Chicago	2006-01-15
+4605642	Berlin United Methodist Church	Berlin United Methodist Church		35.53007	-86.82694	S	CH	US		TN	117			0	211	215	America/Chicago	2006-01-15
+4605644	Berlin Prospect	Berlin Prospect		35.0623	-87.61864	S	MN	US		TN	181			0	249	252	America/Chicago	2006-01-15
+4658839	South Berlin	South Berlin		35.50063	-86.83667	P	PPL	US		TN	117			0	242	244	America/Chicago	2006-01-15
+4673607	Berlin	Berlin		30.17133	-96.4458	P	PPL	US		TX	477			0	126	125	America/Chicago	2006-01-15
+4714087	New Berlin	New Berlin	Novyj Berlin,Новый Берлин	29.46412	-98.10112	P	PPL	US		TX	187			511	174	178	America/Chicago	2011-05-14
+4746741	Berlin and Ivor District	Berlin and Ivor District		36.87702	-76.9203	A	ADMD	US		VA	175			0	10	16	America/New_York	2013-03-08
+4746766	Berlin	Berlin		36.85765	-76.97746	P	PPL	US		VA	175			0	26	27	America/New_York	2006-01-15
+4798708	Berlin	Berlin		39.0526	-80.35509	P	PPL	US		WV	041			0	326	326	America/New_York	2006-01-15
+4832606	West Berlin Church	West Berlin Church		42.92058	-82.95577	S	CH	US		MI	147			0	251	252	America/Detroit	2006-01-15
+4833225	East Berlin	East Berlin		41.61843	-72.71371	P	PPL	US		CT	003			0	12	10	America/New_York	2006-01-15
+4841851	Sacred Heart Church of East Berlin	Sacred Heart Church of East Berlin		41.61677	-72.71593	S	CH	US		CT	003			0	22	25	America/New_York	2007-02-14
+4844928	WERB-FM (Berlin)	WERB-FM (Berlin)		41.62177	-72.75315	S	TOWR	US		CT	003			0	24	25	America/New_York	2006-01-15
+4848290	Berlin	Berlin		42.41859	-93.16048	P	PPL	US		IA	083			0	347	342	America/Chicago	2006-01-15
+4848291	Berlin (historical)	Berlin (historical)		42.27749	-92.69242	S		US		IA	171			0	308	306	America/Chicago	2010-02-15
+4848292	Berlin Community Church	Berlin Community Church		42.41776	-93.15881	S	CH	US		IA	083			0	346	352	America/Chicago	2006-01-15
+4848293	Berlin Post Office (historical)	Berlin Post Office (historical)		42.41859	-93.16048	S	PO	US		IA	083			0	347	342	America/Chicago	2006-01-15
+4849826	Burlington	Burlington	BRL,Berlington,Берлингтон	40.80754	-91.11292	P	PPLA2	US		IA	057			25663	185	189	America/Chicago	2011-05-14
+4884569	Berlin School (historical)	Berlin School (historical)		42.35335	-89.47761	S	SCH	US		IL	177			0	272	270	America/Chicago	2006-01-15
+4884570	Township of Berlin	Township of Berlin	Berlin Township	41.45164	-89.33528	A	ADMD	US		IL	011			0	222	219	America/Chicago	2013-03-07
+4886026	Burlington	Burlington	Berlington,Берлингтон	42.0528	-88.54814	P	PPL	US		IL	089			618	282	285	America/Chicago	2011-05-14
+4918005	Berlin Court Grand Ditch	Berlin Court Grand Ditch		41.44671	-85.97528	H	CNL	US		IN	039			0	260	260	America/Indiana/Indianapolis	2010-02-15
+4918548	Burlington	Burlington	Berlington,Берлингтон	40.48031	-86.39472	P	PPL	US		IN	015			603	239	242	America/Indiana/Indianapolis	2011-05-14
+4930431	Berlin	Berlin		42.3812	-71.63701	P	PPL	US		MA	027			2422	100	99	America/New_York	2006-01-17
+4930432	Berlin Landing Area Airport	Berlin Landing Area Airport		42.36788	-71.64275	S	AIRP	US		MA	027			0	87	88	America/New_York	2011-03-10
+4930433	Berlin Memorial School	Berlin Memorial School		42.38065	-71.63979	S	SCH	US		MA	027			0	95	95	America/New_York	2006-01-15
+4930434	Berlin Mountain	Berlin Mountain		42.69175	-73.28566	T	MT	US		MA	003			0	852	846	America/New_York	2006-01-15
+4930435	Berlin Town Hall	Berlin Town Hall		42.38232	-71.63729	S	BLDG	US		MA	027			0	111	115	America/New_York	2006-01-15
+4930436	Town of Berlin	Town of Berlin		42.38378	-71.63552	A	ADMD	US		MA	027			0	100	108	America/New_York	2013-03-07
+4931737	Burlington	Burlington	BBF,Berlington,Bjurlington,Burlingtun,bo ling dun,brlyngtwn, masachwst,Берлингтон,Бърлингтън,Бюрлингтон,برلینگتون، ماساچوست,伯灵顿	42.50482	-71.19561	P	PPL	US		MA	017			24498	67	68	America/New_York	2013-05-16
+4935299	East Berlin	East Berlin		42.38982	-71.59951	P	PPL	US		MA	027			0	102	109	America/New_York	2010-02-15
+4936670	First Parish Church of Berlin	First Parish Church of Berlin		42.38204	-71.63646	S	CH	US		MA	027			0	101	102	America/New_York	2007-02-14
+4951300	South Berlin	South Berlin		42.35982	-71.62868	P	PPL	US		MA	027			0	82	86	America/New_York	2010-02-15
+4954848	West Berlin	West Berlin		42.38815	-71.66062	P	PPL	US		MA	027			0	94	93	America/New_York	2010-02-15
+4959652	Burlington	Burlington	Berlington,Берлингтон	45.20923	-68.42669	P	PPL	US		ME	019			365	156	155	America/New_York	2010-01-29
+4985749	Berlin Center	Berlin Center		42.90059	-85.13417	P	PPL	US		MI	067			0	257	257	America/Detroit	2006-01-15
+4985750	Berlin Oil Field	Berlin Oil Field		42.89947	-82.94576	L	OILF	US		MI	147			0	243	243	America/Detroit	2010-02-19
+4985751	Charter Township of Berlin	Charter Township of Berlin		42.02338	-83.25713	A	ADMD	US		MI	115			0	180	178	America/Detroit	2013-03-08
+4985752	Township of Berlin	Township of Berlin	Berlin Township	42.90773	-85.13185	A	ADMD	US		MI	067			0	255	266	America/Detroit	2013-03-08
+4985753	Township of Berlin	Township of Berlin	Berlin Township	42.9392	-82.926	A	ADMD	US		MI	147			0	241	246	America/Detroit	2013-03-08
+4985754	Berlinski Creek	Berlinski Creek		44.95001	-83.47025	H	STM	US		MI	007			0	187	184	America/Detroit	2006-01-15
+4987409	Burlington	Burlington	Berlington,Берлингтон	42.10671	-85.0797	P	PPL	US		MI	025			261	285	285	America/Detroit	2011-05-14
+4991499	East Berlin Cemetery	East Berlin Cemetery		42.94003	-82.89576	S	CMTY	US		MI	147			0	253	256	America/Detroit	2010-02-19
+5014408	West Berlin Church	West Berlin Church		42.87198	-85.1739	S	CH	US		MI	067			0	253	253	America/Detroit	2006-01-15
+5017976	Berlin Cemetery	Berlin Cemetery		43.90024	-93.3016	S	CMTY	US		MN	147			0	373	368	America/Chicago	2006-01-15
+5017977	Berlin Post Office (historical)	Berlin Post Office (historical)		43.89857	-93.30021	S	PO	US		MN	147			0	382	381	America/Chicago	2006-01-15
+5017978	Township of Berlin	Township of Berlin	Berlin Township	43.89206	-93.34747	A	ADMD	US		MN	147			0	366	364	America/Chicago	2013-03-07
+5017979	Berliner Lake	Berliner Lake		44.8628	-93.899	H	LK	US		MN	019			0	291	287	America/Chicago	2011-12-11
+5054063	Berlin	Berlin		40.05361	-94.35107	P	PPL	US		MO	075			0	307	308	America/Chicago	2006-01-15
+5054064	Berlin Cemetery	Berlin Cemetery		40.04666	-94.35023	S	CMTY	US		MO	075			0	306	305	America/Chicago	2006-01-15
+5058265	Berlin	Berlin		46.37858	-98.48982	P	PPL	US		ND	045			34	448	445	America/Chicago	2010-02-17
+5058266	Berlin (historical)	Berlin (historical)		46.12718	-96.85869	S		US		ND	077			0	304	301	America/Chicago	2010-02-17
+5058267	Berlin Town Hall	Berlin Town Hall		47.00608	-97.02759	S	BLDG	US		ND	017			0	275	272	America/Chicago	2006-01-15
+5058268	City of Berlin	City of Berlin		46.3783	-98.48847	A	ADMD	US		ND	045			34	447	447	America/Chicago	2013-03-08
+5058269	Township of Berlin	Township of Berlin	Berlin Township	47.01932	-97.00961	A	ADMD	US		ND	017			0	274	271	America/Chicago	2013-03-08
+5058270	Township of Berlin	Township of Berlin	Berlin Township	47.37073	-99.58596	A	ADMD	US		ND	103			0	564	559	America/Chicago	2013-03-08
+5063946	Berlin Election Precinct	Berlin Election Precinct		40.74057	-96.06405	A	ADMD	US		NE	131			0	368	367	America/Chicago	2013-03-08
+5063947	Township of Berlin	Township of Berlin	Berlin Township	40.73889	-96.06417	A	ADMD	US		NE	131			0	366	366	America/Chicago	2010-07-31
+5083330	Berlin	Berlin	Berlin,bai lin,beollin,brlyn, nywhmpshayr,Берлин,برلین، نیوهمپشایر,柏林,벌린	44.46867	-71.18508	P	PPL	US		NH	007			10051	311	312	America/New_York	2011-05-14
+5083331	Berlin City Hall	Berlin City Hall		44.47006	-71.18008	S	BLDG	US		NH	007			0	308	310	America/New_York	2006-01-15
+5083332	Berlin Junior High School	Berlin Junior High School		44.47556	-71.18218	S	SCH	US		NH	007			0	336	340	America/New_York	2010-02-20
+5083333	Berlin Municipal Airport	Berlin Municipal Airport	BML,KBML	44.57478	-71.17508	S	AIRP	US		NH	007			0	341	343	America/New_York	2006-10-29
+5083334	Berlin Post Office	Berlin Post Office		44.46756	-71.18508	S	PO	US		NH	007			0	311	310	America/New_York	2006-01-15
+5083335	Berlin Public Library	Berlin Public Library		44.47173	-71.17813	S	LIBR	US		NH	007			0	317	316	America/New_York	2006-01-15
+5083336	Berlin Reservoir	Berlin Reservoir		44.48342	-71.14539	H	RSV	US		NH	007			0	392	393	America/New_York	2011-12-11
+5083337	Berlin Senior High School	Berlin Senior High School		44.48219	-71.18884	S	SCH	US		NH	007			0	330	339	America/New_York	2010-02-20
+5083338	Berlin Ski Jump	Berlin Ski Jump		44.53339	-71.17119	S		US		NH	007			0	387	395	America/New_York	2010-02-20
+5083339	Berlin United Church of Christ	Berlin United Church of Christ		44.47784	-71.17119	S	CH	US		NH	007			0	339	341	America/New_York	2007-02-14
+5083340	City of Berlin	City of Berlin		44.48712	-71.26016	A	ADMD	US		NH	007			10051	437	439	America/New_York	2013-03-07
+5094087	WBRL-AM (Berlin)	WBRL-AM (Berlin)		44.48172	-71.18119	S	TOWR	US		NH	007			0	405	412	America/New_York	2006-01-15
+5094092	WEDB-TV (Berlin)	WEDB-TV (Berlin)		44.37117	-71.21424	S	TOWR	US		NH	007			0	686	689	America/New_York	2006-01-15
+5094133	WMOU-AM (Berlin)	WMOU-AM (Berlin)		44.45895	-71.17063	S	TOWR	US		NH	007			0	453	451	America/New_York	2006-01-15
+5094176	WZPK-FM (Berlin)	WZPK-FM (Berlin)		44.27062	-71.30369	S	TOWR	US		NH	007			0	1916	1908	America/New_York	2006-01-15
+5096075	Burlington	Burlington	Berlington,Burlingtun,barlingtana,Берлингтон,Бърлингтън,बर्लिंग्टन	40.07122	-74.86489	P	PPL	US		NJ	005			9920	7	4	America/New_York	2011-05-14
+5104348	Samuel L Berliner School	Samuel L Berliner School		40.73066	-74.18487	S	SCH	US		NJ	013			0	28	29	America/New_York	2006-01-15
+5108863	Berlin	Berlin		42.69314	-73.37205	P	PPL	US		NY	083			0	256	255	America/New_York	2006-01-15
+5108864	Berlin Mountain	Berlin Mountain		42.69202	-73.28622	T	MT	US		NY	083			0	853	846	America/New_York	2006-01-15
+5108865	Berlin Pass	Berlin Pass		42.70647	-73.29094	T	GAP	US		NY	083			0	674	675	America/New_York	2006-01-15
+5108866	Town of Berlin	Town of Berlin		42.66713	-73.37417	A	ADMD	US		NY	083			0	323	332	America/New_York	2013-03-08
+5112009	Center Berlin	Center Berlin		42.66091	-73.36872	P	PPL	US		NY	083			0	294	295	America/New_York	2006-01-15
+5112010	Center Berlin Cemetery	Center Berlin Cemetery		42.66814	-73.37122	S	CMTY	US		NY	083			0	293	296	America/New_York	2006-01-15
+5124966	Lock Berlin	Lock Berlin		43.07895	-76.94608	P	PPL	US		NY	117			0	123	124	America/New_York	2006-01-15
+5128465	New Berlin	New Berlin	Novyj Berlin,Новый Берлин	42.62424	-75.33156	P	PPL	US		NY	017			1028	339	340	America/New_York	2011-05-14
+5128466	Town of New Berlin	Town of New Berlin		42.58463	-75.39481	A	ADMD	US		NY	017			0	384	385	America/New_York	2013-03-08
+5138935	South New Berlin	South New Berlin		42.52952	-75.38518	P	PPL	US		NY	017			0	321	324	America/New_York	2006-01-15
+5147132	Berlin	Berlin		40.56117	-81.7943	P	PPL	US		OH	075			898	391	387	America/New_York	2011-05-14
+5147133	Berlin	Berlin		41.60949	-84.7544	P	PPL	US		OH	171			0	287	284	America/New_York	2006-01-15
+5147134	Berlin Airpark	Berlin Airpark		40.98172	-81.04204	S	AIRP	US		OH	099			0	322	321	America/New_York	2010-09-05
+5147135	Berlin Center	Berlin Center		41.0245	-80.94759	P	PPL	US		OH	099			0	327	329	America/New_York	2006-01-15
+5147136	Berlin Center Station	Berlin Center Station		41.01034	-80.94426	S		US		OH	099			0	336	335	America/New_York	2013-03-08
+5147137	Berlin Church	Berlin Church		40.49506	-82.48405	S	CH	US		OH	083			0	380	384	America/New_York	2006-01-15
+5147138	Berlin Dam	Berlin Dam		41.04589	-81.00259	S	DAM	US		OH	133			0	295	313	America/New_York	2006-01-15
+5147139	Berlin Elementary School	Berlin Elementary School		40.56117	-81.80152	S	SCH	US		OH	075			0	380	381	America/New_York	2006-01-15
+5147140	Berlin Heights	Berlin Heights		41.32533	-82.49323	P	PPL	US		OH	043			714	237	239	America/New_York	2011-05-14
+5147141	Berlin Heights Baptist Cemetery	Berlin Heights Baptist Cemetery		41.32644	-82.49045	S	CMTY	US		OH	043			0	238	237	America/New_York	2006-01-15
+5147142	Berlin Heights Baptist Church	Berlin Heights Baptist Church		41.32505	-82.486	S	CH	US		OH	043			0	241	242	America/New_York	2006-01-15
+5147143	Berlin Heights Post Office	Berlin Heights Post Office		41.32505	-82.49295	S	PO	US		OH	043			0	238	239	America/New_York	2006-01-15
+5147144	Berlin Heights Station	Berlin Heights Station		41.35283	-82.49406	P	PPL	US		OH	043			0	190	188	America/New_York	2010-09-05
+5147145	Berlin Lake	Berlin Lake		41.00612	-81.04736	H	RSV	US		OH	133			0	310	310	America/New_York	2011-12-11
+5147146	Berlin Mennonite Church	Berlin Mennonite Church		40.56256	-81.79097	S	CH	US		OH	075			0	380	378	America/New_York	2006-01-15
+5147147	Berlin Methodist Episcopal Cemetery	Berlin Methodist Episcopal Cemetery		40.49534	-82.48405	S	CMTY	US		OH	083			0	381	384	America/New_York	2006-01-15
+5147148	Berlin Post Office	Berlin Post Office		40.56117	-81.7943	S	PO	US		OH	075			0	391	387	America/New_York	2006-01-15
+5147149	Berlin Station Landing Strip Airport	Berlin Station Landing Strip Airport		40.25693	-83.01236	S	AIRP	US		OH	041			0	291	289	America/New_York	2013-03-08
+5147150	Berlin Township Cemetery	Berlin Township Cemetery		40.56312	-81.79902	S	CMTY	US		OH	075			0	390	386	America/New_York	2006-01-15
+5147151	Berlin Township Public Library	Berlin Township Public Library		41.32561	-82.49295	S	LIBR	US		OH	043			0	237	236	America/New_York	2006-01-15
+5147152	Township of Berlin	Township of Berlin	Berlin Township	40.24915	-82.98501	A	ADMD	US		OH	041			0	278	287	America/New_York	2013-03-08
+5147153	Township of Berlin	Township of Berlin	Berlin Township	41.33023	-82.49298	A	ADMD	US		OH	043			0	220	219	America/New_York	2013-03-08
+5147154	Township of Berlin	Township of Berlin	Berlin Township	40.55765	-81.81104	A	ADMD	US		OH	075			0	362	360	America/New_York	2013-03-08
+5147155	Township of Berlin	Township of Berlin	Berlin Township	40.52013	-82.49944	A	ADMD	US		OH	083			0	338	336	America/New_York	2013-03-08
+5147156	Township of Berlin	Township of Berlin	Berlin Township	41.02496	-80.95384	A	ADMD	US		OH	099			0	319	319	America/New_York	2013-03-08
+5147157	Berlin-Milan Middle School	Berlin-Milan Middle School		41.32422	-82.491	S	SCH	US		OH	043			0	240	242	America/New_York	2010-09-05
+5147158	Berlinville	Berlinville		41.30255	-82.51462	P	PPL	US		OH	043			0	237	236	America/New_York	2010-09-05
+5147159	Berlinville Cemetery	Berlinville Cemetery		41.30227	-82.52073	S	CMTY	US		OH	043			0	235	234	America/New_York	2006-01-15
+5147160	Berlinville Post Office (historical)	Berlinville Post Office (historical)		41.30283	-82.51517	S	PO	US		OH	043			0	233	236	America/New_York	2006-01-15
+5164676	North Berlin Cemetery	North Berlin Cemetery		41.05256	-80.94731	S	CMTY	US		OH	099			0	318	319	America/New_York	2010-09-05
+5176149	West Berlin	West Berlin		40.25562	-83.01268	P	PPL	US		OH	041			0	291	292	America/New_York	2006-01-15
+5176150	West Berlin Cemetery	West Berlin Cemetery		41.02422	-80.95731	S	CMTY	US		OH	099			0	319	319	America/New_York	2010-09-05
+5176151	West Berlin Post Office (historical)	West Berlin Post Office (historical)		40.25562	-83.01241	S	PO	US		OH	041			0	291	292	America/New_York	2006-01-15
+5180061	Berlin Center	Berlin Center		41.5912	-75.22406	S		US		PA	127			0	324	330	America/New_York	2010-02-17
+5180062	Berlin Church	Berlin Church		41.59342	-75.22323	S	CH	US		PA	127			0	328	338	America/New_York	2006-01-15
+5180063	Berlin Fork	Berlin Fork		41.5559	-79.27838	H	STM	US		PA	053			0	455	471	America/New_York	2010-09-05
+5180065	Berlinsville	Berlinsville		40.76871	-75.5738	P	PPL	US		PA	095			0	176	175	America/New_York	2006-01-15
+5180069	Township of Berlin	Township of Berlin	Berlin Township	41.58178	-75.15894	A	ADMD	US		PA	127			0	398	406	America/New_York	2013-03-08
+5182428	Burlington	Burlington	Berlington,Берлингтон	41.7798	-76.60745	P	PPL	US		PA	015			156	272	275	America/New_York	2011-05-14
+5187766	East Berlin	East Berlin		41.59148	-75.096	P	PPL	US		PA	127			0	362	369	America/New_York	2006-01-15
+5203103	New Berlin	New Berlin	Novyj Berlin,Новый Берлин	40.87897	-76.98692	P	PPL	US		PA	119			873	166	171	America/New_York	2011-05-14
+5203104	Borough of New Berlin	Borough of New Berlin		40.8805	-76.98427	A	ADMD	US		PA	119			873	167	171	America/New_York	2013-03-08
+5203105	New Berlinville	New Berlinville		40.34537	-75.63296	P	PPL	US		PA	011			1368	119	124	America/New_York	2011-05-14
+5226265	Township of Berlin	Township of Berlin	Berlin (historical) Township	43.47082	-98.17397	A	ADMD	US		SD	043			0	474	474	America/Chicago	2010-07-31
+5233777	Berlin Armory Heliport	Berlin Armory Heliport		44.22089	-72.56511	S	AIRH	US		VT	023			0	289	291	America/New_York	2011-03-10
+5233778	Berlin Cemetery	Berlin Cemetery		44.20617	-72.57733	S	CMTY	US		VT	023			0	326	321	America/New_York	2006-01-15
+5233779	Berlin Elementary School	Berlin Elementary School		44.2145	-72.57173	S	SCH	US		VT	023			0	299	296	America/New_York	2010-02-18
+5233780	Berlin Corners	Berlin Corners		44.21006	-72.57594	P	PPL	US		VT	023			0	313	311	America/New_York	2006-01-15
+5233781	Berlin Volunteer Fire Department - Berlin Corner Station	Berlin Volunteer Fire Department - Berlin Corner Station		44.21441	-72.57344	S	BLDG	US		VT	023			0	294	296	America/New_York	2011-01-10
+5233782	Berlin Mall Shopping Center	Berlin Mall Shopping Center		44.21617	-72.56483	S	MALL	US		VT	023			0	310	298	America/New_York	2006-01-15
+5233783	Berlin Municipal Building	Berlin Municipal Building		44.21062	-72.57816	S	BLDG	US		VT	023			0	313	307	America/New_York	2006-01-15
+5233784	Berlin Municipal Forest	Berlin Municipal Forest		44.16589	-72.59594	V	FRST	US		VT	023			0	348	356	America/New_York	2006-01-15
+5233785	Berlin Pond	Berlin Pond		44.19112	-72.58769	H	RSV	US		VT	023			0	297	299	America/New_York	2011-12-12
+5233786	Berlin Pond Dam	Berlin Pond Dam		44.19034	-72.58789	S	DAM	US		VT	023			0	297	299	America/New_York	2006-01-15
+5233787	Berlin Shopping Plaza Shopping Center	Berlin Shopping Plaza Shopping Center		44.232	-72.55233	S	MALL	US		VT	023			0	171	167	America/New_York	2006-01-15
+5233788	Town of Berlin	Town of Berlin		44.20941	-72.60397	A	ADMD	US		VT	023			0	383	398	America/New_York	2013-03-08
+5234372	Burlington	Burlington	BTV,Berlington,Bjorlington,Borlington,Burlington,Burlingtun,barinton,beollingteon,bo ling dun,brlynghtwn, fyrmwnt,brlyngtwn,Берлингтон,Берлінгтон,Бърлингтън,Бёрлингтон,Бӧрлингтон,برلينغتون، فيرمونت,برلینگتون,バーリントン,伯靈頓,벌링턴	44.47588	-73.21207	P	PPLA2	US		VT	007			42417	61	61	America/New_York	2011-05-14
+5242634	West Berlin	West Berlin		44.20006	-72.63289	P	PPL	US		VT	023			0	175	185	America/New_York	2006-01-15
+5242635	West Berlin School	West Berlin School		44.20284	-72.63789	S	SCH	US		VT	023			0	188	196	America/New_York	2006-01-15
+5245497	Berlin	Berlin		43.96804	-88.94345	P	PPL	US		WI	047			5524	246	250	America/Chicago	2011-05-14
+5245498	Berlin Baptist Church	Berlin Baptist Church		43.96804	-88.93956	S	CH	US		WI	047			0	243	249	America/Chicago	2006-01-15
+5245500	Berlin City Hall	Berlin City Hall		43.96887	-88.94873	S	BLDG	US		WI	047			0	237	237	America/Chicago	2006-01-15
+5245501	Berlin Fen State Natural Area	Berlin Fen State Natural Area		43.96248	-88.90511	L	PRK	US		WI	047			0	234	235	America/Chicago	2010-02-20
+5245502	Berlin Field Airport	Berlin Field Airport		43.99136	-88.96309	S	AIRF	US		WI	137			0	235	233	America/Chicago	2012-04-09
+5245503	Berlin Gospel Tabernacle	Berlin Gospel Tabernacle		43.96776	-88.94456	S	CH	US		WI	047			0	245	245	America/Chicago	2007-02-14
+5245504	Berlin Grade School (historical)	Berlin Grade School (historical)		43.96887	-88.939	S	SCH	US		WI	047			0	250	252	America/Chicago	2006-01-15
+5245505	Berlin High School	Berlin High School		43.97676	-88.94127	S	SCH	US		WI	047			0	238	240	America/Chicago	2013-03-08
+5245506	Berlin Lock Number One	Berlin Lock Number One		43.95193	-88.95873	S	DAM	US		WI	047			0	231	240	America/Chicago	2010-02-19
+5245507	Berlin Memorial Hospital	Berlin Memorial Hospital		43.97848	-88.94137	S	HSP	US		WI	047			0	240	244	America/Chicago	2013-03-08
+5245508	Berlin Post Office	Berlin Post Office		43.96748	-88.94761	S	PO	US		WI	047			0	238	238	America/Chicago	2006-01-15
+5245509	Berlin Public Library	Berlin Public Library		43.9697	-88.94734	S	LIBR	US		WI	047			0	243	245	America/Chicago	2006-01-15
+5245510	City of Berlin	City of Berlin		43.97058	-88.95029	A	ADMD	US		WI	047			5524	239	241	America/Chicago	2013-03-08
+5245511	Town of Berlin	Town of Berlin		43.93502	-88.94344	A	ADMD	US		WI	047			0	275	274	America/Chicago	2013-03-08
+5245512	Town of Berlin	Town of Berlin		45.0763	-89.78567	A	ADMD	US		WI	073			0	404	404	America/Chicago	2013-03-08
+5247214	Burlington	Burlington	Berlington,Берлингтон	42.67807	-88.2762	P	PPL	US		WI	101			10464	234	236	America/Chicago	2011-05-14
+5252586	Federated Church of Berlin	Federated Church of Berlin		43.96831	-88.94317	S	CH	US		WI	047			0	247	250	America/Chicago	2007-02-14
+5252726	New Berlin Fire Department Station 1	New Berlin Fire Department Station 1		42.97121	-88.11696	S	BLDG	US		WI	133			0	283	284	America/Chicago	2013-03-08
+5252738	New Berlin Fire Department Station 2	New Berlin Fire Department Station 2		43.01211	-88.08823	S	BLDG	US		WI	133			0	258	259	America/Chicago	2013-03-08
+5264381	New Berlin	New Berlin		42.9764	-88.10842	P	PPL	US		WI	133			39584	281	281	America/Chicago	2011-05-14
+5264382	New Berlin Cemetery	New Berlin Cemetery		42.95751	-88.1387	S	CMTY	US		WI	133			0	277	281	America/Chicago	2006-01-15
+5264384	New Berlin Middle / High School	New Berlin Middle / High School		42.98958	-88.14608	S	SCH	US		WI	133			0	275	278	America/Chicago	2013-03-08
+5264385	New Berlin Hills Golf Course	New Berlin Hills Golf Course		43.00362	-88.0737	S	RECG	US		WI	133			0	241	240	America/Chicago	2006-01-15
+5264386	New Berlin Industrial Park	New Berlin Industrial Park		42.99974	-88.11759	L	INDS	US		WI	133			0	257	261	America/Chicago	2010-02-20
+5264387	New Berlin Memorial Hospital (historical)	New Berlin Memorial Hospital (historical)		42.98751	-88.08564	S	HSP	US		WI	133			0	260	263	America/Chicago	2007-02-14
+5264388	New Berlin Plaza Shopping Center	New Berlin Plaza Shopping Center		42.97918	-88.10676	S	MALL	US		WI	133			0	283	282	America/Chicago	2006-01-15
+5264389	New Berlin Public Library	New Berlin Public Library		42.99751	-88.09814	S	LIBR	US		WI	133			0	268	267	America/Chicago	2006-01-15
+5264390	City of New Berlin	City of New Berlin		42.97259	-88.12914	A	ADMD	US		WI	133			39584	268	270	America/Chicago	2013-03-08
+5277441	WISS-AM (Berlin)	WISS-AM (Berlin)		43.94859	-88.98595	S	TOWR	US		WI	047			0	241	238	America/Chicago	2006-01-15
+5277442	WISS-FM (Berlin)	WISS-FM (Berlin)		43.94859	-88.98595	S	TOWR	US		WI	047			0	241	238	America/Chicago	2006-01-15
+5282239	Berlin Fish and Game Pond Dam	Berlin Fish and Game Pond Dam		41.44343	-72.41453	S	DAM	US		CT	007			0	91	99	America/New_York	2006-01-15
+5282243	Berlin Fish and Game Pond	Berlin Fish and Game Pond		41.44343	-72.41453	H	RSV	US		CT	007			0	91	99	America/New_York	2006-01-15
+5282244	Berlin	Berlin	Berlin,Gmina Berlin,Берлин	41.62149	-72.74565	P	PPL	US		CT	003			0	28	34	America/New_York	2006-01-15
+5282245	Berlin Congregational Church	Berlin Congregational Church		41.61927	-72.74621	S	CH	US		CT	003			0	41	43	America/New_York	2006-01-15
+5282247	Berlin Station	Berlin Station		41.6351	-72.75982	S		US		CT	003			0	15	18	America/New_York	2013-03-07
+5282248	Berlin Free Library	Berlin Free Library		41.61815	-72.74621	S	LIBR	US		CT	003			0	42	45	America/New_York	2006-01-15
+5282249	Berlin High School	Berlin High School		41.62177	-72.75315	S	SCH	US		CT	003			0	24	25	America/New_York	2006-01-15
+5282251	Town of Berlin	Town of Berlin		41.61139	-72.77582	A	ADMD	US		CT	003			0	47	48	America/New_York	2013-03-07
+5282252	Berlin-Peck Memorial Library	Berlin-Peck Memorial Library		41.62871	-72.77121	S	LIBR	US		CT	003			0	30	32	America/New_York	2006-01-15
+5331920	Burlingame	Burlingame	Berlingejm,Berlingem,Burlingejm,beolling-geim,bo ling ge mu,brlyngym, kalyfrnya,bwrlynghamy, san matyw, kalyfwrnya,Берлингем,Берлингејм,Бърлингейм,برلینگیم، کالیفرنیا,بورلينغامي، سان ماتيو، كاليفورنيا,伯灵格姆,벌링게임	37.5841	-122.36608	P	PPL	US		CA	081			28806	12	12	America/Los_Angeles	2011-05-14
+5415502	Burlington	Burlington	Berlington,Берлингтон	39.30611	-102.26936	P	PPLA2	US		CO	063			4254	1271	1273	America/Denver	2011-05-14
+5457160	Berlin Tank	Berlin Tank		32.04942	-104.93761	H	RSVT	US		NM	035			0	1471	1475	America/Denver	2011-12-11
+5457161	Berlin Well	Berlin Well		35.52088	-103.16606	H	WLL	US		NM	059			0	1241	1241	America/Denver	2006-01-15
+5499945	Berlin	Berlin		38.88187	-117.6076	P	PPL	US		NV	023			0	2059	2066	America/Los_Angeles	2006-01-15
+5499946	Berlin Canyon	Berlin Canyon		38.72104	-116.99286	T	VAL	US		NV	023			0	2197	2200	America/Los_Angeles	2006-01-15
+5499948	Berlin Mine	Berlin Mine		38.8802	-117.60621	S	MN	US		NV	023			0	2096	2105	America/Los_Angeles	2006-01-15
+5499949	Berlin Post Office (historical)	Berlin Post Office (historical)		38.88187	-117.6076	S	PO	US		NV	023			0	2059	2066	America/Los_Angeles	2006-01-15
+5499950	Berlin-Ichthyosaur State Park	Berlin-Ichthyosaur State Park		38.87465	-117.58982	L	PRK	US		NV	023			0	2126	2126	America/Los_Angeles	2006-01-15
+5499954	Berlin Canyon	Berlin Canyon		38.88159	-117.60871	T	VAL	US		NV	023			0	2045	2053	America/Los_Angeles	2006-01-15
+5585372	Berlin Flats	Berlin Flats		47.79298	-115.95378	S		US		ID	079			0	848	857	America/Los_Angeles	2010-02-15
+5585373	Berlin Gulch	Berlin Gulch		47.78909	-115.95628	T	VAL	US		ID	079			0	844	880	America/Los_Angeles	2006-01-15
+5639626	Berlin Mine	Berlin Mine		45.67298	-112.70253	S	MN	US		MT	001			0	1612	1616	America/Denver	2006-01-15
+5687929	Berlin Cemetery	Berlin Cemetery		47.7525	-100.22069	S	CMTY	US		ND	083			0	522	517	America/Chicago	2006-01-15
+5687930	Berlin School Number 1	Berlin School Number 1		47.68778	-100.11263	S	SCH	US		ND	083			0	502	498	America/Chicago	2006-01-15
+5687931	Berlin School Number 2	Berlin School Number 2		47.73194	-100.10096	S	SCH	US		ND	083			0	503	499	America/Chicago	2006-01-15
+5687932	Berlin School Number 3	Berlin School Number 3		47.73861	-100.16569	S	SCH	US		ND	083			0	510	507	America/Chicago	2010-02-17
+5687933	Berlin School Number 4	Berlin School Number 4		47.70305	-100.16652	S	SCH	US		ND	083			0	510	505	America/Chicago	2006-01-15
+5687934	Township of Berlin	Township of Berlin	Berlin Township	47.71711	-100.13394	A	ADMD	US		ND	083			0	510	503	America/Chicago	2013-03-08
+5688259	Burlington	Burlington	Berlington,Берлингтон	48.27529	-101.42878	P	PPL	US		ND	101			1060	490	489	America/Chicago	2011-05-14
+5701447	Berlin Mine	Berlin Mine		40.19714	-116.57619	S	MN	US		NV	011			0	1748	1784	America/Los_Angeles	2006-01-15
+5713705	Berlin	Berlin		44.4979	-122.74786	P	PPL	US		OR	043			0	149	145	America/Los_Angeles	2006-01-15
+5713706	Berlin Cemetery	Berlin Cemetery		44.4829	-122.7437	S	CMTY	US		OR	043			0	196	204	America/Los_Angeles	2006-01-15
+5713707	Berlin Post Office (historical)	Berlin Post Office (historical)		44.4979	-122.74786	S	PO	US		OR	043			0	149	145	America/Los_Angeles	2006-01-15
+5713708	Berlin School (historical)	Berlin School (historical)		44.49873	-122.74786	S	SCH	US		OR	043			0	157	150	America/Los_Angeles	2010-02-17
+5713709	Berlin Union Church	Berlin Union Church		44.49179	-122.75731	S	CH	US		OR	043			0	150	152	America/Los_Angeles	2006-01-15
+5724650	East Berlin School (historical)	East Berlin School (historical)		44.51929	-122.7162	S	SCH	US		OR	043			0	176	175	America/Los_Angeles	2010-02-17
+5787014	Berlin	Berlin		46.47432	-117.55658	S		US		WA	023			0	598	599	America/Los_Angeles	2010-02-18
+5788539	Burlington	Burlington	Berlington,Берлингтон	48.47566	-122.32544	P	PPL	US		WA	057			8388	11	10	America/Los_Angeles	2011-05-14
+5818483	Berlin Draw	Berlin Draw		43.05885	-108.38066	T	VAL	US		WY	013			0	1510	1512	America/Denver	2006-01-15
+5820107	Burlington	Burlington	Berlington,Берлингтон	44.44718	-108.43234	P	PPL	US		WY	003			288	1352	1355	America/Denver	2011-05-14
+6329230	Berlin McKinney Elementary School	Berlin McKinney Elementary School		37.68756	-81.62442	S	SCH	US		WV	109			0	393	390	America/New_York	2010-02-20
+6329925	Yeshiva Rabbi Chaim Berlin	Yeshiva Rabbi Chaim Berlin		40.62722	-73.96333	S	SCH	US		NY	047			0	11	16	America/New_York	2007-02-16
+6330036	Mesivta and Yeshiva Rabbi Chaim Berlin	Mesivta and Yeshiva Rabbi Chaim Berlin		40.61889	-73.96389	S	SCH	US		NY	047			0	10	14	America/New_York	2007-02-16
+6340483	East Berlin Community Library	East Berlin Community Library		39.9369	-76.9801	S	LIBR	US		PA	001			0	133	129	America/New_York	2007-02-16
+6341783	Town of Berlin Police Department	Town of Berlin Police Department		38.54639	-75.37361	S	BLDG	US		MD	047			0	14	14	America/New_York	2007-02-16
+6342411	Worcester County Fire Department Station 600 Berlin Fire Company	Worcester County Fire Department Station 600 Berlin Fire Company		38.32852	-75.22081	S	BLDG	US		MD	047			0	13	15	America/New_York	2011-01-10
+6350638	Berlin Cemetery	Berlin Cemetery		38.8798	-117.6137	S	CMTY	US		NV	023			0	1996	2003	America/Los_Angeles	2007-02-16
+6463835	La Quinta Inn & Suites Milwaukee SW/New Berlin	La Quinta Inn & Suites Milwaukee SW/New Berlin		42.9517	-88.1055	S	HTL	US		WI	133			0		268	America/Chicago	2007-04-13
+6503562	Budget Inn Berlin Nr White MT	Budget Inn Berlin Nr White MT		44.466	-71.1853	S	HTL	US		NH	007			0		299	America/New_York	2007-04-14
+6532068	Comfort Suites Berlin	COMFORT SUITES BERLIN		40.5611	-81.7944	S	HTL	US		OH	075			0		387	America/New_York	2007-04-14
+7126450	New Berlin City Hall	New Berlin City Hall		42.97528	-88.11972	S	BLDG	US		WI	133			0	287	285	America/Chicago	2010-01-31
+7131635	Berlin Volunteer Fire Department - Riverton Station	Berlin Volunteer Fire Department - Riverton Station		44.19989	-72.6345	S	BLDG	US		VT	023			0	180	182	America/New_York	2010-01-31
+7132888	Berlin Township Hall	Berlin Township Hall		40.24	-82.99611	S	BLDG	US		OH	041			0	289	288	America/New_York	2010-01-31
+7136797	Maryland State Police Barrack V - Berlin	Maryland State Police Barrack V - Berlin		38.34387	-75.22482	S	BLDG	US		MD	047			0	11	20	America/New_York	2010-01-31
+7153650	Berlin Post Office (historical)	Berlin Post Office (historical)		38.69429	-84.16243	S	PO	US		KY	023			0	296	295	America/New_York	2010-02-01
+7161769	Village of New Berlin	Village of New Berlin		42.62398	-75.33532	A	ADMD	US		NY	017			1028	349	356	America/New_York	2011-05-14
+7165842	Village of Berlin	Village of Berlin		39.75765	-89.90266	A	ADMD	US		IL	167			180	195	196	America/Chicago	2013-03-08
+7165843	Village of Berlin Heights	Village of Berlin Heights		41.32043	-82.49042	A	ADMD	US		OH	043			714	230	237	America/New_York	2013-03-08
+7167112	Village of New Berlin	Village of New Berlin		39.72592	-89.91345	A	ADMD	US		IL	167			1346	199	198	America/Chicago	2013-03-08
+7168698	West Berlin Fire and Rescue	West Berlin Fire and Rescue		39.81087	-74.9428	S	BLDG	US		NJ	007			0	52	54	America/New_York	2011-03-10
+7168803	Borough of Berlin Volunteer Fire Department	Borough of Berlin Volunteer Fire Department		39.79067	-74.92768	S	BLDG	US		NJ	007			0	48	50	America/New_York	2011-03-10
+7168943	Berlin Fire Company Number 1	Berlin Fire Company Number 1		39.7907	-74.92775	S	BLDG	US		NJ	007			0	48	50	America/New_York	2010-02-03
+7169618	City of Berlin	City of Berlin		31.06802	-83.62316	A	ADMD	US		GA	071			551	81	82	America/New_York	2013-03-08
+7173939	City of New Berlin	City of New Berlin		29.46525	-98.10126	A	ADMD	US		TX	187			511	173	174	America/Chicago	2013-03-08
+7178625	Berlin Town Emergency Management Office	Berlin Town Emergency Management Office		41.62749	-72.77025	S	BLDG	US		CT	003			0	21	26	America/New_York	2010-02-05
+7178637	Berlin Fire Department	Berlin Fire Department		41.60622	-72.74995	S	BLDG	US		CT	003			0	43	45	America/New_York	2010-02-05
+7178646	East Berlin Fire Department	East Berlin Fire Department		41.61581	-72.71826	S	BLDG	US		CT	003			0	26	29	America/New_York	2010-02-05
+7188329	Berlin Township Library	Berlin Township Library		41.99583	-83.28472	S	LIBR	US		MI	115			0	177	179	America/Detroit	2010-07-31
+7212584	New Berlin Road Baptist Church	New Berlin Road Baptist Church		30.46517	-81.59266	S	CH	US		FL	031			0	5	6	America/New_York	2010-02-06
+7223007	New Berlin Municipal Building	New Berlin Municipal Building		42.62361	-75.3325	S	BLDG	US		NY	017			0	340	344	America/New_York	2010-02-06
+7223008	New Berlin Fire Department	New Berlin Fire Department		42.62345	-75.33276	S	BLDG	US		NY	017			0	340	344	America/New_York	2013-03-08
+7223009	New Berlin Central School (historical)	New Berlin Central School (historical)		42.62278	-75.33417	S	SCH	US		NY	017			0	352	360	America/New_York	2010-02-06
+7223016	New Berlin Library	New Berlin Library		42.62389	-75.33194	S	LIBR	US		NY	017			0	339	340	America/New_York	2010-07-31
+7224901	Lock Berlin Cemetery	Lock Berlin Cemetery		43.0797	-76.9472	S	CMTY	US		NY	117			0	128	126	America/New_York	2010-02-06
+7228528	Berlin Wastewater Treatment Plant	Berlin Wastewater Treatment Plant		38.31651	-75.20436	S	SWT	US		MD	047			0	6	9	America/New_York	2011-01-10
+7234861	Seventh Day Baptist Church of Berlin	Seventh Day Baptist Church of Berlin		42.69583	-73.37472	S	CH	US		NY	083			0	262	260	America/New_York	2010-02-06
+7244973	Berlin Township Fire Department	Berlin Township Fire Department		41.02428	-80.94949	S	BLDG	US		OH	099			0	326	329	America/New_York	2010-02-07
+7245047	Berlin Township Fire Department	Berlin Township Fire Department		41.31492	-82.49382	S	BLDG	US		OH	043			0	240	238	America/New_York	2010-02-07
+7245063	Berlin Township Fire Department	Berlin Township Fire Department		40.24002	-82.98785	S	BLDG	US		OH	041			0	284	281	America/New_York	2010-02-07
+7252849	Berlin Quarry	Berlin Quarry		39.75139	-74.92194	S	MN	US		NJ	007			0	49	39	America/New_York	2010-02-07
+7304934	New Berlin Volunteer Fire Department Station 1	New Berlin Volunteer Fire Department Station 1		29.46642	-98.10053	S	BLDG	US		TX	187			0	174	176	America/Chicago	2011-01-10
+7305046	Berlin - Mill Creek - Zionsville Volunteer Fire Department	Berlin - Mill Creek - Zionsville Volunteer Fire Department		30.17507	-96.46454	S	BLDG	US		TX	477			0	126	127	America/Chicago	2011-01-10
+7305289	New Berlin Volunteer Fire Department Station 2	New Berlin Volunteer Fire Department Station 2		29.44441	-98.03359	S	BLDG	US		TX	187			0	164	166	America/Chicago	2011-01-10
+7307975	Berlin Baptist Church	Berlin Baptist Church		43.03667	-85.82556	S	CH	US		MI	139			0	206	206	America/Detroit	2010-08-06
+7314216	Worcester County Fire Department Station 600 Berlin Fire Company 2	Worcester County Fire Department Station 600 Berlin Fire Company 2		38.29272	-75.1504	S	BLDG	US		MD	047			0	3	3	America/New_York	2011-01-10
+7314368	West Berlin Cemetery	West Berlin Cemetery		42.9225	-82.95611	S	CMTY	US		MI	147			0	250	250	America/Detroit	2010-08-06
+7712429	Berlin Fire Department	Berlin Fire Department		44.4714	-71.1789	S	BLDG	US		NH	007			0	315	318	America/New_York	2011-03-12
+7720570	Berlin Township Fire Department	Berlin Township Fire Department		42.91534	-82.94506	S	BLDG	US		MI	147			0	249	250	America/Detroit	2011-03-12
+7720656	Berlin Charter Township Fire Department Station 2	Berlin Charter Township Fire Department Station 2		42.05515	-83.26104	S	BLDG	US		MI	115			0	178	179	America/Detroit	2011-03-12
+7720736	Berlin Charter Township Fire Department Station 1	Berlin Charter Township Fire Department Station 1		42.00002	-83.30104	S	BLDG	US		MI	115			0	179	177	America/Detroit	2011-03-12
+8082745	Berlin United Methodist Church	Berlin United Methodist Church		42.69006	-73.37087	S	CH	US		NY	083			0	264	267	America/New_York	2011-12-12
+8084362	Berlin Free Town Library	Berlin Free Town Library		42.69151	-73.37219	S	LIBR	US		NY	083			0	262	268	America/New_York	2011-12-12
+8084569	South New Berlin Free Library	South New Berlin Free Library		42.52999	-75.38441	S	LIBR	US		NY	017			0	323	323	America/New_York	2011-12-12
+8085215	South New Berlin Post Office	South New Berlin Post Office		42.52977	-75.38591	S	PO	US		NY	017			0	321	325	America/New_York	2011-12-12
+8087291	Berlin - Orange Fire Department	Berlin - Orange Fire Department		42.92926	-85.0786	S	BLDG	US		MI	067			0	247	244	America/Detroit	2011-12-12
+8089474	New Berlin - Island Grove Fire Protection District	New Berlin - Island Grove Fire Protection District		39.72452	-89.9136	S	BLDG	US		IL	167			0	199	201	America/Chicago	2011-12-12
+8092373	Berlin Fire Department	Berlin Fire Department		39.92152	-78.95479	S	BLDG	US		PA	111			0	700	699	America/New_York	2011-12-13
+8096817	Kenneth E Berlinn Memorial Park	Kenneth E Berlinn Memorial Park		42.15917	-83.39472	L	PRK	US		MI	163			0	193	197	America/Detroit	2011-12-13
+8097568	Berlin Fire Department	Berlin Fire Department		35.53017	-86.82795	S	BLDG	US		TN	117			0	211	216	America/Chicago	2011-12-13
+8101079	Berlin Volunteer Fire Association	Berlin Volunteer Fire Association		35.45104	-99.62761	S	BLDG	US		OK	129			0	666	669	America/Chicago	2011-12-13
+8101506	Berlin Emergency Medical Services	Berlin Emergency Medical Services		44.46793	-71.1761	S	BLDG	US		NH	007			0	316	315	America/New_York	2011-12-13
+8101778	Berlin Town Fire Department	Berlin Town Fire Department		42.38062	-71.6402	S	BLDG	US		MA	027			0	94	95	America/New_York	2011-12-13
+8102475	Exceptional Medical Transportation West Berlin	Exceptional Medical Transportation West Berlin		39.7952	-74.91206	S	BLDG	US		NJ	007			0	48	49	America/New_York	2011-12-13
+8102683	Berlin Emergency Medical Services	Berlin Emergency Medical Services		39.80082	-74.93796	S	BLDG	US		NJ	007			0	47	49	America/New_York	2011-12-13
+8114109	West Berlin Presbyterian Church	West Berlin Presbyterian Church		40.25619	-83.00878	S	CH	US		OH	041			0	291	291	America/New_York	2011-12-13
+8117290	Berlin Volunteer Fire Department Station 2	Berlin Volunteer Fire Department Station 2		34.13946	-86.7393	S	BLDG	US		AL	043			0	219	224	America/Chicago	2011-12-13
+8117354	Berlin Volunteer Fire Department Station 1	Berlin Volunteer Fire Department Station 1		34.17893	-86.74369	S	BLDG	US		AL	043			0	251	251	America/Chicago	2011-12-13
+8482302	New Berlin Fire Company 1	New Berlin Fire Company 1		40.88007	-76.98612	S	BLDG	US		PA	119			0	169	168	America/New_York	2013-03-08
+8484604	New Berlin Fire Department Station 5	New Berlin Fire Department Station 5		42.9971	-88.12731	S	BLDG	US		WI	133			0	270	269	America/Chicago	2013-03-08
+8484656	New Berlin Fire Department Station 4	New Berlin Fire Department Station 4		42.95049	-88.08992	S	BLDG	US		WI	133			0	287	286	America/Chicago	2013-03-08
+8485078	Berlin Volunteer Fire Department / Berlin Emergency Medical Services	Berlin Volunteer Fire Department / Berlin Emergency Medical Services		43.9645	-88.94375	S	BLDG	US		WI	047			0	234	233	America/Chicago	2013-03-08
+8485319	New Berlin Fire Department Station 3	New Berlin Fire Department Station 3		42.95125	-88.15743	S	BLDG	US		WI	133			0	287	289	America/Chicago	2013-03-08
+8493036	Berlin Middle School	Berlin Middle School		43.96919	-88.93869	S	SCH	US		WI	047			0	250	250	America/Chicago	2013-03-08
+8493785	Berlin Fire Company	Berlin Fire Company		42.69227	-73.36949	S	BLDG	US		NY	083			0	256	257	America/New_York	2013-03-08
+8494955	Berlin Area Ambulance Association	Berlin Area Ambulance Association		39.92179	-78.95343	S	BLDG	US		PA	111			0	697	697	America/New_York	2013-03-08
+3441476	Nuevo Berlín	Nuevo Berlin	Nuevo Berlin,Nuevo Berlín	-32.98333	-58.05	P	PPL	UY		12				2461		24	America/Montevideo	2012-01-18
+3487789	Berlín	Berlin		8.25722	-68.54611	P	PPLL	VE		05				0		65	America/Caracas	1998-03-19
+3648302	Berlín	Berlin		11.91995	-70.12934	P	PPL	VE		11				0		40	America/Caracas	2011-10-10
+3648303	Berlín	Berlin		8.86667	-72.01667	P	PPL	VE		23				0		5	America/Caracas	1993-12-23
+3648304	Berlín	Berlin		8.36667	-68.43333	P	PPL	VE		05				0		63	America/Caracas	1993-12-23
+3648305	Berlín	Berlin		10.83333	-71.78333	L	LCTY	VE		23				0		44	America/Caracas	1993-12-23
+3748779	Berlín	Berlin		9.66716	-69.87598	P	PPL	VE		13				0		890	America/Caracas	2011-07-10
+3757613	Hacienda Berlín	Hacienda Berlin		8.54228	-72.29824	S	FRM	VE		23				0		30	America/Caracas	1996-12-19
+3757885	Hacienda Berlín	Hacienda Berlin		10.02778	-72.61111	S	FRM	VE		23				0		97	America/Caracas	1997-01-29
+3766758	Berlín	Berlin		8.25139	-68.54917	P	PPL	VE		05				0		75	America/Caracas	1999-06-17
+3785613	Berlín	Berlin		10.84912	-70.70236	P	PPL	VE		11				0		171	America/Caracas	2011-10-13
+3788187	Hacienda Berlín	Hacienda Berlin		9.88535	-72.34657	S	FRM	VE		23				0		30	America/Caracas	2011-10-13
+3788188	Hacienda Berlín	Hacienda Berlin		10.72557	-71.94547	S	FRM	VE		23				0		67	America/Caracas	2002-05-15
+3788189	Hacienda Berlín	Hacienda Berlin		10.2584	-71.84622	S	FRM	VE		23				0		2	America/Caracas	2011-10-13
+3788190	Hacienda Berlín	Hacienda Berlin		9.00378	-71.72912	S	FRM	VE		23				0		5	America/Caracas	2002-05-15
+3788191	Hacienda Berlín	Hacienda Berlin		9.98329	-72.09789	S	FRM	VE		23				0		11	America/Caracas	2011-10-13
+3788192	Hacienda Berlín	Hacienda Berlin		10.50417	-72.09891	S	FRM	VE		23				0		92	America/Caracas	2011-10-13
+3788193	Matera Berlín	Matera Berlin		9.13807	-71.22542	S	FRM	VE		23				0		1	America/Caracas	2002-05-15
+3788194	Vaquera Berlín	Vaquera Berlin		10.23944	-71.84222	S	FRM	VE		23				0		-1	America/Caracas	2002-05-15
+3797002	Berlín	Berlin		10.63842	-62.64167	P	PPL	VE		19				0		228	America/Caracas	2002-10-09
+3797003	Berlín	Berlin		10.39383	-63.493	P	PPL	VE		19				0		429	America/Caracas	2011-07-10
+3798858	Matera Berlín	Matera Berlin		9.13807	-71.22542	S	EST	VE		14				0		1	America/Caracas	2002-10-22
+1019879	Berlin Staatsbos	Berlin Staatsbos	Berlin Forest Reserve,Berlin Staatsbos	-25.53712	30.73045	V	FRST	ZA		07				0		1293	Africa/Johannesburg	2012-01-18
+1019880	Berlin Mission	Berlin Mission	Berlin,Berlin Mission	-27.8	24.61667	S	MSSN	ZA	ZA	10	DC39	NW394		0		1138	Africa/Johannesburg	2012-07-11
+1019881	Berlin Kop	Berlin Kop		-32.88333	27.61667	T	HLL	ZA		05	BUF	BUF		0		475	Africa/Johannesburg	2012-07-12
+1019882	Berlin Bosbounedersetting	Berlin Bosbounedersetting		-25.56667	30.71667	S	STNF	ZA		07	DC32	MP322		0		1320	Africa/Johannesburg	2012-07-12
+1019883	Berlin	Berlin		-32.88309	27.58122	P	PPL	ZA		05	BUF	BUF		0		503	Africa/Johannesburg	2012-07-12
+1019884	Berlin	Berlin		-29.03201	26.50657	P	PPL	ZA		03	MAN	MAN		0		1354	Africa/Johannesburg	2012-07-11
+1019885	Berlin	Berlin	Berlin,Berlin Mission,Berlinsending	-25.55	28.33333	S	MSSN	ZA	ZA	06	TSH	TSH		0		1149	Africa/Johannesburg	2012-07-11
+1019886	Berlin	Berlin	Berlin,Berlin Mission	-23.96667	29.41667	S	MSSN	ZA	ZA	09	DC35	LIM354		0		1357	Africa/Johannesburg	2012-07-11
+1019887	Berlin	Berlin	Berlin,Berlin Mission	-23.83333	29.88333	S	MSSN	ZA	ZA	09	DC35	LIM354		0		1506	Africa/Johannesburg	2012-07-12
+1019888	Berlin	Berlin		-25.55567	30.73718	S	FRMT	ZA		07	DC32	MP322		0		1483	Africa/Johannesburg	2012-07-12
+1019889	Berlin	Berlin		-25.05716	30.44446	S	FRMT	ZA		07	DC32	MP321		0		1336	Africa/Johannesburg	2012-07-12
+1019890	Berlin	Berlin		-24.9	28.58333	S	FRMT	ZA		09	DC36	LIM366		0		1075	Africa/Johannesburg	2012-07-12
+1019891	Berlin	Berlin		-24.35629	30.94211	S	FRMT	ZA		09	DC33	LIM335		0		538	Africa/Johannesburg	2012-07-12
+1019892	Berlin	Berlin		-22.6289	28.62685	S	FRMT	ZA		09	DC35	LIM351		0		732	Africa/Johannesburg	2012-07-11
+1019893	Berlin	Berlin		-32.85	27.55	S	FRM	ZA		05	BUF	BUF		0		458	Africa/Johannesburg	2012-07-12
+1019894	Berlin	Berlin		-29.24204	30.72213	S	FRM	ZA		02	DC22	KZN221		0		986	Africa/Johannesburg	2012-07-11
+1019895	Berlin	Berlin		-28.80749	25.78735	S	FRM	ZA		03	DC18	FS182		0		1230	Africa/Johannesburg	2012-07-11
+1019896	Berlin	Berlin		-28.49168	28.48786	S	FRM	ZA		03	DC19	FS192		0		1917	Africa/Johannesburg	2012-07-12
+1019897	Berlin	Berlin		-27.90166	30.99106	S	FRM	ZA		02	DC26	KZN263		0		1048	Africa/Johannesburg	2012-07-11
+1019898	Berlin	Berlin		-27.8478	29.55537	S	FRM	ZA		03	DC19	FS195		0		1930	Africa/Johannesburg	2012-07-12
+1019899	Berlin	Berlin		-25.53759	30.75482	S	FRM	ZA		07	DC32	MP322		0		1583	Africa/Johannesburg	2012-07-12
+1019900	Berlin	Berlin		-24.9	28.6	S	FRM	ZA		09	DC36	LIM366		0		1071	Africa/Johannesburg	2012-07-12
+1019901	Berlin	Berlin		-24.33333	30.93333	S	FRM	ZA		09	DC33	LIM335		0		548	Africa/Johannesburg	2012-07-12
+1019902	Berlin	Berlin		-22.64013	28.61848	S	FRM	ZA		09	DC35	LIM351		0		739	Africa/Johannesburg	2012-07-11
+4031360	Berlin Seamount	Berlin Seamount		32.85	-166	U	SMU			00				0		-9999	America/Yakutat	2005-04-25
+8030641	EEA Member Countries (EEA32)	EEA Member Countries (EEA32)		48.5166	12.2168	L	AREA							0		507	Europe/Berlin	2011-10-10
+1268795	Juhu	Juhu	Juhu,Juhu Beach, Mumbai	19.10259	72.82425	P	PPL	IN		16				0		1	Asia/Kolkata	2011-01-10
+1275339	Mumbai	Mumbai	Asumumbay,BOM,Bombai,Bombaim,Bombaj,Bombay,Bombaya,Bombej,Bombejus,Bombėjus,Bumbaj,Bůmbaj,Dakbayan sa Bombay,Gorad Mumbai,Lungsod ng Mumbai,Moembaai,Mumbai,Mumbai - मुम़बई,Mumbaj,Mumbaja,Mumbajo,Mumbajus,Mumbay,Mumbaî,Numbai,Vomvai,bamba'i,bmbyy,gretara mumba'i,meng mai,mmbay,mmbyy,mu0bai,muba'i,mum bi,mumba'i,mumbai,mumpai,munbai,mwmbay,mwmbyy,mymbais,pullapa mumba'i,Βομβάη,Бомбай,Бомбей,Горад Мумбаі,Мумбаи,Мумбай,Мумбаі,Мумбаї,Мумбај,Մումբայ,מומבאי,מומביי,بمبئی,بَمبَے,ممبئي,ممبئی,ممبای,مومباى,مومباي,مومبای,މުންބާއީ,ग्रेटर मुम्बई,बम्बई,मुंबई,मुम्बई,পুল্লাপ মুম্বাই,মুম্বই,মুম্বাই,ਮੁੰਬਈ,મુંબઈ,ମୁମ୍ବାଇ,மும்பை,ముంబై,ಮುಂಬೈ,ಮು೦ಬೈ,മുംബൈ,มุมไบ,འབོམ་སྦེ,မွမ်ဘိုင်းမြို့,მუმბაი,ムンバイ,孟买,뭄바이	19.07283	72.88261	P	PPLA	IN		16	8131499			12691836		8	Asia/Kolkata	2012-07-23
+6355196	Gateway of India	Gateway of India	Gateway of India, Colaba, Mumbai	18.92188	72.83468	S	MNMT	IN		16				0		3	Asia/Kolkata	2007-11-07
+6463686	Renaissance Mumbai Hotel And Convention Center	Renaissance Mumbai Hotel And Convention Center		19.1318	72.9005	S	HTL	IN		16				0		34	Asia/Kolkata	2007-04-13
+6480894	The Oberoi Mumbai	The Oberoi Mumbai		18.9239	72.8193	S	HTL	IN		16				0		12	Asia/Kolkata	2007-04-12
+6483811	Hilton Towers Mumbai	Hilton Towers Mumbai		18.926	72.8208	S	HTL	IN		16				0		12	Asia/Kolkata	2007-04-12
+6494682	Hyatt Regency Mumbai	Hyatt Regency Mumbai		19.0985	72.8724	S	HTL	IN		16				0		11	Asia/Kolkata	2007-04-14
+6495756	Park Plaza Royal Palms, Mumbai	Park Plaza Royal Palms, Mumbai		19.1512	72.8879	S	HTL	IN		16				0		106	Asia/Kolkata	2007-04-14
+6498282	Residency Hotel - Fort - Mumbai	Residency Hotel - Fort - Mumbai		18.9334	72.8325	S	HTL	IN		16				0		14	Asia/Kolkata	2007-04-14
+6500547	Grand Hyatt Mumbai	Grand Hyatt Mumbai		19.0765	72.8491	S	HTL	IN		16				0		7	Asia/Kolkata	2007-04-14
+6505743	Exec Apts Lakeside Chalet Mumbai	EXEC APTS LAKESIDE CHALET MUMBA		18.9666	72.8333	S	HTL	IN		16				0		10	Asia/Kolkata	2007-04-13
+6505784	Jw Marriott Mumbai	JW MARRIOTT MUMBAI		19.0877	72.8273	S	HTL	IN		16				0		11	Asia/Kolkata	2007-04-13
+6505860	The Taj Mahal Palace & Tower	The Taj Mahal Palace & Tower	The Taj,The Taj Hotel, Bombay,The Taj Hotel, Mumbai,The Taj Palace Hotel, Mumbai	18.92169	72.83312	S	HTL	IN		16				0		15	Asia/Kolkata	2008-01-28
+6507168	Sun N Sand Hotel Mumbai	SUN N SAND HOTEL MUMBAI		19.1	72.8166	S	HTL	IN		16				0		-9999	Asia/Kolkata	2007-04-13
+6518265	The Park Navi Mumbai	THE PARK NAVI MUMBAI		18.9666	72.8333	S	HTL	IN		16				0		10	Asia/Kolkata	2007-04-15
+6619196	radio club	radio club	Radio club, Colaba, Mumbai, Bombay	18.91809	72.83177	S	STNR	IN		16				0		11	Asia/Kolkata	2007-11-07
+6619198	Marine Drive, Mumbai	Marine Drive, Mumbai	Marine Drive, Bombay	18.9341	72.82365	R	RD	IN		16				0		5	Asia/Kolkata	2007-11-07
+6619347	Navi Mumbai	Navi Mumbai	Marathi, Maharashtra,Navi Moembaai,Navi Mumbai,Navi Mumbaj,Novmumbajo,bmbyy nw,na'oyi mumba'i,nabimumbai,nabimunbai,narai mumba'i,navi mumba'i,navi mumbai,navi mumbayi,navi mumpai,nwy mmbyy,xin meng mai,Нави Мумбаи,Нави Мумбај,נבי מומבאי,بمبئی نو,نوی ممبئی,नवि मुम्बई,नवी मुंबई,নাওয়ি মুম্বাই,নৱি মুম্বাই,நவி மும்பை,ನವೀ ಮುಂಬಯಿ,നവി മുംബൈ,ナビムンバイ,新孟買,나비뭄바이	19.03681	73.01582	P	PPLX	IN		16				2600000		14	Asia/Kolkata	2012-04-02
+6619351	Brabourne Stadium, Mumbai	Brabourne Stadium, Mumbai	Indian Cricket Club, Mumbai	18.93158	72.82438	S	STDM	IN		16				0		9	Asia/Kolkata	2007-11-08
+6619700	Mumbai Town Hall	Mumbai Town Hall		18.9319	72.83617	S	BLDG	IN		16				0		12	Asia/Kolkata	2007-11-21
+6619701	Bombay Stock Exchange	Bombay Stock Exchange	Bolsa de Valores de Bombaim,Bombejskaja fondovaja birzha,Bourse de Bombay,Effectenbeurs van Bombay,Gielda Papierow Wartosciowych w Bombaju,Giełda Papierów Wartościowych w Bombaju,Mumbai Financial District,PHIROZE JEEJEEBHOY TOWERS,bamba'i stoka eksacenja,bambe stak ekschenj,beambe srreakk ekscenc,bonbei zheng quan qu yin suo,bwrst bwmbay,meng mai zheng quan jiao yi suo,mumba'i se'ara bajara,mumba'i sera bajara,mumbai serupete,mumpai pankuc cantai,Бомбейн Хөрөнгийн Бирж,Бомбейская фондовая биржа,بورصة بومباي,बंबई स्टॉक एक्सचेंज,मुंबई शेअर बाजार,મુંબઈ શેર બજાર,மும்பை பங்குச் சந்தை,బాంబే స్టాక్ ఎక్స్ఛేంజ్,ಮುಂಬೈ ಷೇರುಪೇಟೆ,ബോംബെ സ്റ്റോക്ക് എക്സ്ചേഞ്ച്,ボンベイ証券取引所,孟买证券交易所	18.92988	72.8332	S	BLDG	IN		16				0		17	Asia/Kolkata	2007-11-21
+6619858	Colaba Causeway, Mumbai	Colaba Causeway, Mumbai		18.92261	72.83122	R	RD	IN		16				0		12	Asia/Kolkata	2007-11-26
+8030132	Mumbai TV Tower	Mumbai TV Tower		19.00725	72.82012	S	TOWR	IN		16				0		16	Asia/Kolkata	2011-09-26
+8030643	Fort	Fort	Fort Mumbai	18.93357	72.83867	P	PPL	IN		16				0		11	Asia/Kolkata	2012-06-11
+8347322	Mumbai Suburban	Mumbai Suburban		19.18473	72.96012	A	ADM3	IN		16	8131499	8347322		0		15	Asia/Kolkata	2012-07-09
+6943055	London Crown 1 Hotel Apartmen	LONDON CROWN 1 HOTEL APARTMEN		25.259	55.2958	S	HTL	AE		03				0		15	Asia/Dubai	2009-07-06
+6943056	London Crown 2 Hotel Apartment	LONDON CROWN 2 HOTEL APARTMENT		25.24068	55.23255	S	HTL	AE		03				0		-9999	Asia/Dubai	2009-07-06
+3347881	Londongue	Londongue	Londongue,Lundongo	-12.22545	15.34829	H	STM	AO		08				0		1531	Africa/Luanda	2012-01-17
+3347882	Londongo	Londongo		-11.43333	14.88333	T	RK	AO		06				0		1346	Africa/Luanda	1994-01-31
+3349490	Chitongo	Chitongo	Chitongo,Londongo	-11.98336	14.85446	P	PPLW	AO		06				0		1740	Africa/Luanda	2012-01-17
+7901715	Londondo	Londondo		-11.75822	17.08401	P	PPL	AO		02				0		1701	Africa/Luanda	2011-07-11
+7903402	Londongo	Londongo		-11.5348	16.96286	H	STM	AO		02				0		1635	Africa/Luanda	2011-07-11
+2067525	Cape Londonderry	Cape Londonderry		-13.75	126.91667	T	CAPE	AU		08				0		-9999	Australia/Perth	1993-12-30
+2067526	Londonderry	Londonderry		-31.08333	121.13333	P	PPL	AU		08	51960			0		382	Australia/Perth	2011-06-04
+2159711	London Tank	London Tank		-34.41667	146.88333	H	RSVT	AU		02				0		204	Australia/Sydney	1993-12-30
+2159712	London Marsh Rivulet	London Marsh Rivulet		-42.18333	146.56667	H	STM	AU		06				0		775	Australia/Hobart	1993-12-30
+2159713	London Creek	London Creek		-15.91667	142.05	H	STM	AU		04				0		31	Australia/Brisbane	1993-12-30
+2207570	London Bridge	London Bridge		-38.33111	144.69	T	RK	AU		07				0		1	Australia/Melbourne	1997-12-22
+8156977	London Bridge Flora Reserve	London Bridge Flora Reserve	London Bridge Flora Reserve	-29.8485	152.2012	L	RES	AU		02				0		1004	Australia/Sydney	2012-01-22
+8157470	London Reserve	London Reserve	London Reserve	-33.7457	151.17349	L	RES	AU		02				0		94	Australia/Sydney	2012-01-22
+8172229	Londonderry Public School	Londonderry Public School	Londonderry Public School	-33.6485	150.8179	S	SCH	AU		02				0		24	Australia/Sydney	2012-01-22
+8172230	Londonderry Road Public School	Londonderry Road Public School	Londonderry Road Public School	-33.6485	150.8179	S	SCH	AU		02				0		24	Australia/Sydney	2012-01-22
+8211941	London Lakes	London Lakes	London Lakes	-42.14	146.52	H	LK	AU		06				0		779	Australia/Hobart	2012-02-29
+8237799	London Group	London Group	London Group	-30.63065	121.0345	S	MN	AU		08				0		432	Australia/Perth	2012-04-06
+8310735	Londonderry	Londonderry	Londonderry	-33.64656	150.73515	P	PPL	AU		02				0		23	Australia/Sydney	2012-06-07
+6478051	London Othon Flat Hotel	London Othon Flat Hotel		-23.5695	-46.6524	S	HTL	BR		27	3550308			0		813	America/Sao_Paulo	2012-08-03
+6525180	Parthenon London	PARTHENON LONDON		-23.5333	-46.6166	S	HTL	BR		27	3550308			0		736	America/Sao_Paulo	2012-08-03
+3572020	London Creek	London Creek		24.91667	-77.93333	H	INLT	BS		47				0		5	America/Nassau	2011-11-05
+3581797	London	London		17.98333	-88.43333	P	PPL	BZ		04				0		15	America/Belize	1993-12-18
+6058559	London	London		43.08339	-81.29975	L	AREA	CA		08				0		281	America/Toronto	2006-01-18
+6058560	London	London	London,Londonas,Londono,YXU,leondeon,lndn,lndn, antaryw,londoni,lun dui,lun dun,lwndwn,rondon,Лондон,לונדון,لندن,لندن، انتاریو,لندن، اونٹاریو,ლონდონი,ロンドン,伦敦,런던	42.98339	-81.23304	P	PPL	CA		08				346765		252	America/Toronto	2012-08-19
+6058561	London Brook	London Brook		44.28346	-65.0988	H	STM	CA		07				0		102	America/Halifax	2006-01-18
+6058562	London Creek	London Creek		49.51661	-116.06885	H	STM	CA		02				0		1496	America/Edmonton	2006-01-18
+6058563	Londonderry	Londonderry		45.48345	-63.5987	P	PPL	CA		07				0		144	America/Halifax	2012-01-17
+6058564	Londonderry	Londonderry		45.58314	-65.39923	P	PPL	CA		04				0		397	America/Moncton	2013-07-11
+6058565	Londonderry	Londonderry		47.5501	-81.51646	L	AREA	CA		08				0		383	America/Toronto	2006-01-18
+6058566	Londonderry Creek	Londonderry Creek		50.03316	-117.75226	H	STM	CA		02				0		1067	America/Vancouver	2006-01-18
+6058567	Londonderry Lake	Londonderry Lake		47.5668	-81.54976	H	LK	CA		08				0		373	America/Toronto	2006-01-18
+6058568	Londonderry Station	Londonderry Station		45.45963	-63.5715	P	PPL	CA		07				0		111	America/Halifax	2013-07-11
+6058569	London Gulch	London Gulch		48.14299	-52.80224	H	COVE	CA		05				0		64	America/St_Johns	2006-01-18
+6058570	London Lake	London Lake		50.06679	-91.0002	H	LK	CA		08				0		428	America/Winnipeg	2006-01-18
+6058571	London Point	London Point		50.76633	-126.11971	T	PT	CA		02				0		-9999	America/Vancouver	2006-01-18
+6058572	London Pond	London Pond		47.73319	-53.26478	H	PND	CA		05				0		72	America/St_Johns	2006-01-18
+6058573	London Pond	London Pond		48.14019	-52.79804	H	PND	CA		05				0		72	America/St_Johns	2006-01-18
+6058574	London Ridge	London Ridge		50.06656	-117.2189	T	RDGE	CA		02				0		1977	America/Vancouver	2006-01-18
+6058575	London Rock	London Rock		63.71737	-91.71662	U	SHSU	CA		14				0		-9999	America/Rankin_Inlet	2006-01-18
+6058576	London Settlement	London Settlement		45.65583	-66.02809	P	PPL	CA		04				0		99	America/Moncton	2013-07-11
+6058577	London Slough	London Slough		49.09966	-123.16934	H	LK	CA		02				0		2	America/Vancouver	2006-01-18
+6081605	Mount London	Mount London		59.0327	-134.3704	T	MT	CA		02				0		1914	America/Vancouver	2006-01-18
+6087663	New London	New London		46.46683	-63.51541	P	PPLL	CA		09				0		23	America/Halifax	2006-01-18
+6087664	New London	New London		45.64754	-72.07844	P	PPL	CA		10	05			0		134	America/Montreal	2013-07-11
+6087665	New London Bay	New London Bay		46.50013	-63.4487	H	BAY	CA		09				0		-9999	America/Halifax	2006-01-18
+6097846	Parc London	Parc London		45.50758	-73.84729	L	PRK	CA		10				0		28	America/Montreal	2006-01-18
+6168123	Tower of London Range	Tower of London Range		58.29964	-124.83635	T	MT	CA		02				0		1851	America/Vancouver	2006-01-18
+6296323	London, Ont.	London, Ont.	CYXU,YXU	43.03333	-81.15	S	AIRP	CA						0	278	275	America/Toronto	2007-03-30
+6470986	Travelodge London (South)	Travelodge London (South)		42.926	-81.2147	S	HTL	CA		08				0		264	America/Toronto	2007-04-13
+6473139	Residence Inn London Ontario	Residence Inn London Ontario		42.9852	-81.2388	S	HTL	CA		08				0		254	America/Toronto	2007-04-13
+6474748	Four Points London	Four Points London		42.9303	-81.2201	S	HTL	CA		08				0		266	America/Toronto	2007-04-13
+6475434	Hilton London Ontario	Hilton London Ontario		42.9841	-81.2432	S	HTL	CA		08				0		257	America/Toronto	2007-04-13
+6476269	Executive Suites - London	Executive Suites - London		42.986	-81.2414	S	HTL	CA		08				0		254	America/Toronto	2007-04-13
+6477420	Comfort Inn London - Wellington Road	Comfort Inn London - Wellington Road		42.9299	-81.2198	S	HTL	CA		08				0		266	America/Toronto	2007-04-13
+6478963	Howard Johnson Hotel - London	Howard Johnson Hotel - London		42.9268	-81.2175	S	HTL	CA		08				0		263	America/Toronto	2007-04-12
+6479259	Days Inn London	Days Inn London		42.9331	-81.2226	S	HTL	CA		08				0		268	America/Toronto	2007-04-12
+6480163	Quality Suites London	Quality Suites London		42.9304	-81.2196	S	HTL	CA		08				0		266	America/Toronto	2007-04-12
+6482025	Radisson Hotel & Suites London	Radisson Hotel & Suites London		42.9433	-81.2257	S	HTL	CA		08				0		275	America/Toronto	2007-04-12
+6488799	Delta London Armouries Hotel	Delta London Armouries Hotel		42.9857	-81.2429	S	HTL	CA		08				0		250	America/Toronto	2007-04-12
+6489407	Ramada Inn London	Ramada Inn London		42.9263	-81.2127	S	HTL	CA		08				0		263	America/Toronto	2007-04-12
+6492302	Country Inn & Suites by Carlson London	Country Inn & Suites by Carlson London		42.9621	-81.226	S	HTL	CA		08				0		263	America/Toronto	2007-04-15
+6503971	Knights Inn London	Knights Inn London		43.0025	-81.1849	S	HTL	CA		08				0		266	America/Toronto	2007-04-14
+6531987	Econo Lodge London	ECONO LODGE LONDON		42.9866	-81.2295	S	HTL	CA		08				0		254	America/Toronto	2007-04-14
+7288838	Rosewood Bistro	Rosewood Bistro		43.53965	-79.66295	S	REST	CA		08				0		127	Europe/London	2010-04-23
+211394	Landondo	Landondo	Landondo,Londondo	-1.35759	24.14804	H	STM	CD		00				0		413	Africa/Lubumbashi	2012-12-05
+2661811	London	London	Allondon,L'Allondon,La London Riviere,La London Rivière,London	46.16667	6.01667	H	STM	CH		00				0		427	Europe/Zurich	2012-01-17
+3882564	Islas Londonderry	Islas Londonderry		-55.07042	-70.67168	T	ISLS	CL		10				0		153	America/Santiago	2013-01-11
+3882565	Isla Londonderry	Isla Londonderry		-55.04669	-70.78078	T	ISL	CL		10				0		191	America/Santiago	2013-01-11
+3882566	Isla London	Isla London		-54.6479	-71.98705	T	ISL	CL		10				0		344	America/Santiago	2013-01-11
+3893683	Isla Cook	Isla Cook	Isla Cook,Isla London	-54.96374	-70.34826	T	ISL	CL		10				0		195	America/Santiago	2013-01-11
+3780047	Quebrada Londoño	Quebrada Londono		7.10111	-75.39278	H	STM	CO		02				0		984	America/Bogota	2002-03-19
+8017169	Londoño	Londono		6.39017	-75.69432	P	PPL	CO		02				0		1820	America/Bogota	2011-09-13
+3575739	Londonderry Bay	Londonderry Bay		15.55	-61.3	H	BAY	DM		02				0		39	America/Dominica	1993-12-22
+3654647	Londoño	Londono		-0.96002	-75.22814	P	PPL	EC		24				0		191	America/Guayaquil	2013-01-11
+2204286	Londoni	Londoni		-17.73333	178.55	P	PPL	FJ		01				0		5	Pacific/Fiji	1993-12-22
+6474424	London	London		48.8715	2.337	S	HTL	FR		A8	75	751	75056	0		51	Europe/Paris	2012-05-17
+2633322	Vale of White Horse	Vale of White Horse	Vale of White Horse,White Horse Vale	51.61667	-1.51667	T	VAL	GB	GB	ENG				0		75	Europe/London	2012-01-17
+2633323	Zone Point	Zone Point	Zone Point,Zoze Point	50.13333	-5.01667	T	PT	GB	GB	ENG				0		-9999	Europe/London	2012-01-17
+2633324	Zennor	Zennor	Zennor	50.19057	-5.56614	P	PPL	GB		ENG	C6	00HE213		0		109	Europe/London	2011-03-03
+2633325	Zelah	Zelah		50.32332	-5.07897	P	PPL	GB		ENG	C6	00HE129		0		76	Europe/London	2011-03-03
+2633326	Zeals	Zeals	Zeal,Zeals	51.08558	-2.3123	P	PPL	GB		ENG	P8	00HY259		0		145	Europe/London	2011-03-03
+2633327	Zeal Monachorum	Zeal Monachorum	Zeal Monachorum	50.82117	-3.81898	P	PPL	GB		ENG	D4	18UD		0		136	Europe/London	2011-03-03
+2633328	Ythsie	Ythsie		57.36667	-2.18333	P	PPL	GB		SCT	T6			0		49	Europe/London	2004-10-06
+2633329	River Ythan	River Ythan	River Ythan	57.3	-2	H	STM	GB		SCT	T6			0		11	Europe/London	2012-01-17
+2633330	Afon Ystwyth	Afon Ystwyth	Afon Ystwyth,River Ystwith,Ystwyth,Ystwyth River	52.40559	-4.08932	H	STM	GB		WLS	X6			0		7	Europe/London	2009-08-20
+2633331	Ystradowen	Ystradowen	Ystradowen	51.49056	-3.42194	P	PPL	GB		WLS	Z3			0		67	Europe/London	2012-01-17
+2633332	Ystrad Mynach	Ystrad Mynach		51.64276	-3.2362	P	PPLA2	GB		WLS	X4	00PK012		0		115	Europe/London	2011-03-03
+2633333	Ystrad-Meurig	Ystrad-Meurig	Ystrad-Meurig,Ystradmeuric	52.28333	-3.91667	P	PPL	GB	GB	WLS	X6			0		210	Europe/London	2013-07-11
+2633334	Ystradgynlais	Ystradgynlais	Ystradgunlais,Ystradgynlais	51.76667	-3.76667	P	PPLA3	GB	GB	WLS	Y8	00NN110		0		68	Europe/London	2011-07-31
+2633335	Ystrad-ffin	Ystrad-ffin	Capel Ystradffin,Ystrad-ffin	52.1	-3.76667	P	PPL	GB	GB	WLS	X7			0		399	Europe/London	2013-07-11
+2633336	Ystradfellte	Ystradfellte	Ystradfellte	51.80897	-3.55299	P	PPL	GB		WLS	Y8	00NN109		0		252	Europe/London	2011-03-03
+2633337	Ystalyfera	Ystalyfera	Ystalfera,Ystalyfera	51.76716	-3.78082	P	PPL	GB		WLS	Y5	00NZ031		10218		74	Europe/London	2011-03-03
+2633338	Yspytty-Ystwyth	Yspytty-Ystwyth		52.33333	-3.86667	P	PPL	GB		WLS	X6			0		165	Europe/London	2013-07-11
+2633339	Yspytty-Ifan	Yspytty-Ifan	Yspytty Evan,Yspytty-Ifan	53.01667	-3.73333	P	PPL	GB	GB	WLS	Y2			0		246	Europe/London	2007-06-16
+2633340	Yspytty Cynfyn	Yspytty Cynfyn	Yspytty Cyfyn,Yspytty Cynfyn	52.4	-3.83333	P	PPL	GB	GB	WLS	X6			0		212	Europe/London	2013-07-11
+2633341	Yr Eifl Head	Yr Eifl Head		52.98333	-4.46667	T	HDLD	GB		WLS				0		-9999	Europe/London	1994-01-13
+2633342	Yr Eifl	Yr Eifl	Rivel Mountain,The Rivals,Yr Eifl	52.98333	-4.43333	T	MT	GB	GB	WLS	Y2			0		158	Europe/London	2013-07-11
+2633343	Yr Aran	Yr Aran	Yr Aran	53.03333	-4.08333	T	MT	GB		WLS	Y2			0		319	Europe/London	2013-07-11
+2633344	Yoxford	Yoxford	Yoxford	52.26819	1.50681	P	PPL	GB		ENG	N5	42UG		0		16	Europe/London	2011-03-03
+2633345	Yoxall	Yoxall	Yoxall	52.76659	-1.79068	P	PPL	GB		ENG	M9	41UC		0		66	Europe/London	2011-03-03
+2633346	Youlgreave	Youlgreave		53.17399	-1.69044	P	PPL	GB		ENG	D3	17UF		0		187	Europe/London	2010-11-07
+2633347	Yorton	Yorton	Yorton	52.80921	-2.73854	P	PPL	GB		ENG	L6	00GG130		0		87	Europe/London	2011-03-03
+2633348	Yorkshire Dales National Park	Yorkshire Dales National Park	Yorkshire Dales National Park,yorkshire dales	54.26667	-2.08333	L	PRK	GB		ENG				0		512	Europe/London	2007-09-04
+2633349	Yorkshire	Yorkshire	Conteth Evrek,Eoferwicscir,Eoferwicscīr,Isuria,Jorkshir,Jorksiro,Jorkŝiro,Swydd Efrog,York,Yorkshire,Yorkshire konderria,yarkshayr,yokeusyeo,yokusha,yorkasayara,yue ke jun,ywrkshayr,ywrqsyyr,yxrkh chex r,Йоркшир,יורקשייר,يوركشاير,یارکشائر,यॉर्कशायर,ಯಾರ್ಕ್‌ಷೈರ್,ยอร์คเชอร์,იორკშირი,ヨークシャー,約克郡,요크셔	54	-1.5	A	ADMD	GB	GB	ENG				3978484		87	Europe/London	2012-04-02
+2633350	York Road Station	York Road Station	York Street Station	54.62304	-5.92067	S	RSTN	GB	GB	NIR				0		4	Europe/London	2009-10-09
+2633351	City of York	City of York	YOR,York,York City	53.96396	-1.09142	A	ADM2	GB	GB	ENG	Q5			0		13	Europe/London	2011-01-06
+2633352	York	York	Aebura,Eabhrac,Eabhraig,Eboracum,Efrog,Eoforwic,Everoui,Evrek,Giork,Gorad Jork,Jork,Jorka,Jorkas,Jorvik,Jórvík,QQY,York,yark,yokeu,yoku,yorka,yue ke,ywrk,ywrq,yxrk,Évèroui,Γιορκ,Јорк,Горад Ёрк,Йорк,Յորք,יורק,يورك,یارک,یورک,یۆرک,यॉर्क,யார்க்,ยอร์ก,იორკი,ヨーク,約克,요크	53.95763	-1.08271	P	PPLA2	GB		ENG	Q5			144202		17	Europe/London	2012-03-30
+2633353	Yons Nab	Yons Nab		54.24111	-0.33861	T	PT	GB		ENG	J7	36UG		0		26	Europe/London	2013-07-11
+2633354	Yokefleet	Yokefleet		53.70805	-0.75738	P	PPL	GB		ENG	E1	00FB018		0		5	Europe/London	2011-03-03
+2633355	Yockleton	Yockleton	Yockleton	52.68547	-2.88917	P	PPL	GB		ENG	L6	00GG187		0		98	Europe/London	2011-03-03
+2633357	Ynys Lochtyn	Ynys Lochtyn	Ynys Fach,Ynys Lochtyn,Yuys Fach	52.16667	-4.46667	T	RK	GB	GB	WLS				0		53	Europe/London	2012-01-17
+2633359	Y Llethr	Y Llethr	Llethr,Y Lethr,Y Llethr	52.81667	-4	T	MT	GB	GB	WLS	Y2			0		437	Europe/London	2013-07-11
+2633360	Yinstay Head	Yinstay Head		58.98333	-2.85	T	CAPE	GB		SCT	V9			0		3	Europe/London	2004-09-24
+2633361	Yinstay Bay	Yinstay Bay		58.98333	-2.83333	H	BAY	GB		SCT	V9			0		1	Europe/London	2004-09-24
+2633362	Skerry of Yinstay	Skerry of Yinstay	Skerry of Yinstay,Yinstay Skerrys	58.98333	-2.85	T	RK	GB	GB	SCT	V9			0		3	Europe/London	2012-01-17
+2633363	Yiewsley	Yiewsley		51.51326	-0.47297	P	PPL	GB		ENG	GLA	F9		0		33	Europe/London	2010-05-24
+2633364	Y Garn	Y Garn	Y Garn	52.78333	-3.93333	T	MT	GB		WLS	Y2			0		523	Europe/London	2013-07-11
+2633365	Yewbarrow	Yewbarrow	Yewbarrow	54.46625	-3.27624	T	MT	GB		ENG	C9	16UE		0	628	596	Europe/London	2010-05-24
+2633366	Yetminster	Yetminster	Yetminster	50.89579	-2.57959	P	PPL	GB		ENG	D6	19UH		0		62	Europe/London	2011-03-03
+2633367	Yetlington	Yetlington		55.3819	-1.96856	P	PPL	GB		ENG	J6	00EM031		0		190	Europe/London	2011-03-03
+2633368	Yetholm Loch	Yetholm Loch	Yetholm Loch	55.55	-2.31667	H	LK	GB		SCT				0		110	Europe/London	2012-05-05
+2633369	Yes Tor	Yes Tor	Yes Tor	50.68333	-4.01667	T	MT	GB		ENG	D4	18UL		0		584	Europe/London	2012-01-17
+2633370	Yerbeston	Yerbeston		51.746	-4.80767	P	PPL	GB		WLS	Y7	00NS026		0		63	Europe/London	2011-03-03
+2633371	Yeovilton	Yeovilton	YEO	51.00359	-2.64898	P	PPL	GB		ENG	M3	40UD		0		19	Europe/London	2011-03-03
+2633372	Yeovil Junction	Yeovil Junction	YVJ	50.9247	-2.6132	S	RSTN	GB		ENG	M3	40UD		0		41	Europe/London	2010-05-24
+2633373	Yeovil	Yeovil	Giuela,Jeovil',Jouvil,Jouvilis,Yeovil,yobil,Йеовиль,Йоувил,요빌	50.94159	-2.63211	P	PPL	GB		ENG	M3	40UD		43733		55	Europe/London	2011-03-03
+2633374	Congresbury Yeo	Congresbury Yeo	Congresbury Yeo,River Yeo	51.39611	-2.91111	H	STM	GB	GB	ENG	J4			0		6	Europe/London	2012-01-17
+2633375	Yeoford	Yeoford		50.77607	-3.7273	P	PPL	GB		ENG	D4	18UD		0		68	Europe/London	2011-03-03
+2633376	River Yeo	River Yeo		51.08333	-4.06667	H	STM	GB		ENG				0		5	Europe/London	1994-01-13
+2633377	River Yeo	River Yeo		51.03167	-2.82167	H	STM	GB		ENG	M3			0		6	Europe/London	2004-09-22
+2633378	River Yeo	River Yeo		51.01667	-3.83333	H	STM	GB		ENG				0		131	Europe/London	1994-01-13
+2633379	River Yeo	River Yeo		51	-4.2	H	STM	GB		ENG				0		42	Europe/London	1994-01-13
+2633380	River Yeo	River Yeo	River Yeo	50.86667	-3.81667	H	STM	GB		ENG				0		115	Europe/London	2012-02-01
+2633381	Yelverton	Yelverton	Yelverton,Yervilton	52.56667	1.36667	P	PPL	GB		ENG	I9	33UH		186		44	Europe/London	2012-05-05
+2633382	Yelverton	Yelverton		50.4929	-4.08382	P	PPL	GB		ENG	D4	18UL		1001		193	Europe/London	2012-04-12
+2633383	Yelvertoft	Yelvertoft	Yelvertoft	52.37335	-1.12154	P	PPL	GB		ENG	J1	34UC		0		116	Europe/London	2011-03-03
+2633384	Yell Sound	Yell Sound		60.53333	-1.25	H	SD	GB		SCT	W3			0		-9999	Europe/London	2004-09-24
+2633385	Yelling	Yelling	Yelling	52.2462	-0.15321	P	PPL	GB		ENG	C3	12UE		0		51	Europe/London	2010-05-24
+2633386	Yell Baa	Yell Baa		60.48333	-1.1	H	RF	GB		SCT	W3			0		-9999	Europe/London	2004-09-24
+2633387	Yell	Yell	Yell,Yell Island	60.6	-1.1	T	ISL	GB	GB	SCT	W3			0		44	Europe/London	2012-01-17
+2633388	Yelford	Yelford	Yelford	51.73333	-1.48333	P	PPL	GB		ENG	K2	38UF		0		65	Europe/London	2012-01-17
+2633389	Yelden	Yelden		52.29299	-0.51584	P	PPL	GB		ENG	Z5			0		67	Europe/London	2013-07-11
+2633390	Yedingham	Yedingham	Yedingham	54.2	-0.61667	P	PPL	GB		ENG	J7	36UF		0		21	Europe/London	2012-02-01
+2633391	Yeavering Bell	Yeavering Bell	Yeavering Bell	55.55	-2.1	T	MT	GB		ENG	J6			0		297	Europe/London	2013-07-11
+2633392	Yeaveley	Yeaveley		52.96017	-1.72278	P	PPL	GB		ENG	D3	17UF		0		150	Europe/London	2011-03-03
+2633393	Yearby	Yearby	Yearby	54.58042	-1.07254	P	PPL	GB		ENG	K9			0		30	Europe/London	2009-10-09
+2633394	Yealmpton	Yealmpton	Yealmpton	50.34856	-3.99877	P	PPL	GB		ENG	D4	18UG		1621		36	Europe/London	2011-03-03
+2633395	Yealm Head	Yealm Head		50.3	-4.06667	T	CAPE	GB		ENG				0		-9999	Europe/London	1994-01-13
+2633396	River Yealm	River Yealm	River Yealm	50.35	-4	H	STM	GB		ENG				0		61	Europe/London	2012-01-17
+2633397	Yeadon	Yeadon		53.86437	-1.68743	P	PPL	GB		ENG	H3			37379		165	Europe/London	2013-07-11
+2633398	Yazor	Yazor	Yazor	52.11667	-2.86667	P	PPLA3	GB		ENG	F7	00GA238		0		194	Europe/London	2011-07-31
+2633399	Yaxley	Yaxley	Yaxley	52.51768	-0.25852	P	PPL	GB		ENG	C3	12UE		7578		23	Europe/London	2011-02-13
+2633400	Yaxley	Yaxley	Yaxley	52.3228	1.11065	P	PPL	GB		ENG	N5	42UE		0		47	Europe/London	2010-05-24
+2633401	Yaxham	Yaxham		52.65567	0.96598	P	PPL	GB		ENG	I9	33UB		0		51	Europe/London	2010-05-24
+2633402	Yatton Keynell	Yatton Keynell	Yatton Keynell	51.48612	-2.19337	P	PPL	GB		ENG	P8	00HY258		0		128	Europe/London	2011-03-03
+2633403	Yatton	Yatton		51.96667	-2.53333	P	PPLA3	GB		ENG	F7	00GA237		7356		134	Europe/London	2011-07-31
+2633404	Yatton	Yatton	Yatton	51.38333	-2.81667	P	PPLA3	GB		ENG	J4	00HC037		0		14	Europe/London	2011-07-31
+2633405	Yatesbury	Yatesbury	Yatesbury,Yatsbury	51.44195	-1.90796	P	PPL	GB		ENG	P8	00HY050		0		164	Europe/London	2011-03-03
+2633406	Yate	Yate		51.54074	-2.41839	P	PPL	GB		ENG	M6	00HD044		21789		80	Europe/London	2012-03-26
+2633407	River Yarty	River Yarty		50.76667	-3.01667	H	STM	GB		ENG				0		22	Europe/London	1994-01-13
+2633408	Yarrow Water	Yarrow Water	Yarrow,Yarrow Water	55.51667	-2.9	H	STM	GB	GB	SCT				0		243	Europe/London	2012-01-17
+2633409	Loch of Yarrows	Loch of Yarrows	Loch of Yarrows,Yarehouse Loch	58.38333	-3.18333	H	LK	GB	GB	SCT	V3			0		100	Europe/London	2012-01-17
+2633410	Yarrow	Yarrow		55.51667	-3.05	P	PPL	GB		SCT	T9			0		225	Europe/London	2007-06-16
+2633411	Yarpole	Yarpole	Yarpole	52.27972	-2.78134	P	PPL	GB		ENG	F7	00GA054		0		103	Europe/London	2011-03-03
+2633412	Yarnton	Yarnton	Yarnton	51.80986	-1.30694	P	PPL	GB		ENG	K2	38UB		2579		62	Europe/London	2011-02-21
+2633413	Yarmouth Roads	Yarmouth Roads	Yarmouth Road,Yarmouth Roads	52.58333	1.78333	H	ANCH	GB	GB	ENG	I9			0		-9999	Europe/London	2012-01-17
+2633414	Yarmouth	Yarmouth	Jarmut,Yarmouth,Ярмут	50.70529	-1.49929	P	PPLA3	GB		ENG	G2	00MW026		855		2	Europe/London	2011-07-31
+2633415	Yarm	Yarm	Yarm,Yarm on Tees	54.50364	-1.35793	P	PPLA3	GB		ENG	N3	00EF018		0		24	Europe/London	2011-07-31
+2633416	Yarlington	Yarlington		51.0611	-2.49325	P	PPL	GB		ENG	M3	40UD		0		85	Europe/London	2011-03-03
+2633417	River Yare	River Yare	River Yare	52.6	1.75	H	STM	GB		ENG	I9			0		-9999	Europe/London	2012-01-17
+2633418	Yardley Hastings	Yardley Hastings	Yardley Hastings	52.2055	-0.73488	P	PPL	GB		ENG	J1	34UG		0		79	Europe/London	2011-02-16
+2633419	Yardley	Yardley		52.46662	-1.81028	P	PPLX	GB		ENG	A7	00CT005		0		123	Europe/London	2011-03-03
+2633420	Yarcombe	Yarcombe		50.86828	-3.07425	P	PPL	GB		ENG	D4	18UB		0		148	Europe/London	2011-03-03
+2633421	Yarburgh	Yarburgh		53.41718	0.02954	P	PPL	GB		ENG	H7	32UC		0		12	Europe/London	2011-03-03
+2633422	Yapton	Yapton	Yapton	50.8209	-0.613	P	PPL	GB		ENG	P6	45UC		0		6	Europe/London	2010-05-24
+2633423	Yanworth	Yanworth		51.82196	-1.89186	P	PPL	GB		ENG	E6	23UC		0		183	Europe/London	2011-03-03
+2633424	Yalding	Yalding	Yalding	51.22608	0.43194	P	PPL	GB		ENG	G5	29UH		0		19	Europe/London	2010-05-24
+2633425	Yair House	Yair House	Yair,Yair House	55.58333	-2.86667	S	EST	GB	GB	SCT	T9			0		187	Europe/London	2013-07-11
+2633426	Yafforth	Yafforth		54.34526	-1.47357	P	PPL	GB		ENG	J7	36UC		0		40	Europe/London	2011-03-03
+2633427	Wyvis Lodge	Wyvis Lodge		57.71667	-4.53333	S	BLDG	GB		SCT	V3			0		552	Europe/London	2004-09-22
+2633428	Ben Wyvis	Ben Wyvis	Ben Wyvis	57.7	-4.58333	T	MT	GB		SCT	V3			0		658	Europe/London	2012-01-17
+2633429	Wyverstone	Wyverstone		52.27051	0.99033	P	PPL	GB		ENG	N5	42UE		0		61	Europe/London	2011-03-03
+2633430	Wyton	Wyton		53.7824	-0.21713	P	PPL	GB		ENG	E1	00FB015		0		8	Europe/London	2011-03-03
+2633431	Wyton	Wyton		52.33333	-0.11667	P	PPL	GB		ENG	C3	12UE		0		12	Europe/London	2010-05-24
+2633432	Wythenshawe	Wythenshawe	Wythenshawe,Wythenshawe Estate	53.38027	-2.2654	P	PPL	GB		ENG	I2	00BN001		0		64	Europe/London	2011-03-03
+2633433	Wythburn	Wythburn		54.50678	-3.04278	P	PPL	GB		ENG	C9	16UB		0		236	Europe/London	2010-05-24
+2633434	Wytham	Wytham	Wytham	51.77496	-1.31252	P	PPL	GB		ENG	K2	38UC		0		66	Europe/London	2011-02-21
+2633435	Wysall	Wysall		52.84011	-1.10361	P	PPL	GB		ENG	J9	37UJ		0		77	Europe/London	2010-05-24
+2633436	Wyre Sound	Wyre Sound	Viera Sound,Wyre Sound	59.11667	-3	H	SD	GB	GB	SCT	V9			0		-9999	Europe/London	2012-01-17
+2633437	Wyre Forest District	Wyre Forest District		52.35	-2.36667	A	ADM3	GB		ENG	Q4	47UG		0		137	Europe/London	2008-01-16
+2633438	Wyre Forest	Wyre Forest	Wyre Forest	52.38333	-2.35	V	FRST	GB		ENG				0		87	Europe/London	2012-01-17
+2633439	Wyre District	Wyre District		53.91667	-2.96667	A	ADM3	GB		ENG	H2	30UQ		0		17	Europe/London	2008-01-16
+2633440	River Wyre	River Wyre	River Wyre	53.89857	-3.00098	H	STM	GB		ENG				0		-9999	Europe/London	2011-10-19
+2633441	Afon Wyre	Afon Wyre	Afon Wyre,River Wayrai,River Wyrai,Wyre	52.31667	-4.16667	H	STM	GB	GB	WLS				0		-9999	Europe/London	2012-01-17
+2633442	Wyre	Wyre	Viera,Wyre	59.11667	-2.96667	T	ISL	GB	GB	SCT	V9			0		17	Europe/London	2012-01-17
+2633443	Wraysbury	Wraysbury	Wraysbury,Wyrardisbury	51.45863	-0.5403	P	PPL	GB		ENG	P9	00ME015		0		22	Europe/London	2011-02-14
+2633444	Wynnstay	Wynnstay		52.96667	-3.03333	P	PPL	GB		WLS	Z4			0		127	Europe/London	2013-07-11
+2633445	Wymondham	Wymondham		52.75978	-0.74055	P	PPL	GB		ENG	H5	31UG		11674		108	Europe/London	2010-05-24
+2633446	Wymondham	Wymondham		52.57012	1.11623	P	PPL	GB		ENG	I9	33UH		0		42	Europe/London	2010-05-24
+2633447	Wymington	Wymington		52.26829	-0.60077	P	PPL	GB		ENG	Z5	00KB047		0		76	Europe/London	2011-03-03
+2633448	Wymeswold	Wymeswold	Wimeswould,Wymeswold	52.80536	-1.11288	P	PPL	GB		ENG	H5	31UC		0		76	Europe/London	2010-08-03
+2633449	River Wylye	River Wylye		51.08333	-1.85	H	STM	GB		ENG				0		76	Europe/London	1994-01-13
+2633450	Wylye	Wylye	Wylye	51.13715	-1.98946	P	PPL	GB		ENG	P8	00HY257		0		76	Europe/London	2011-03-03
+2633451	Wylfa Head	Wylfa Head	Mynyddy Wylfa,Wulfa Head,Wylfa Head	53.41667	-4.46667	T	HDLD	GB	GB	WLS				0		-9999	Europe/London	2012-01-17
+2633452	Wylde Green	Wylde Green	Wylde Green	52.53333	-1.81667	P	PPL	GB		ENG	A7			0		106	Europe/London	2012-01-17
+2633453	Wylam	Wylam	Wylam	54.97654	-1.82187	P	PPL	GB		ENG	J6	00EM164		1584		26	Europe/London	2011-03-03
+2633454	Wyke Regis	Wyke Regis		50.59112	-2.47327	P	PPL	GB		ENG	D6	19UJ		0		13	Europe/London	2011-03-03
+2633455	Wyken	Wyken	Wyken	52.41667	-1.46667	P	PPL	GB		ENG	C7			0		94	Europe/London	2013-07-11
+2633456	Wykeham	Wykeham	Wykeham	54.23333	-0.51667	P	PPL	GB		ENG	J7	36UG		0		31	Europe/London	2012-01-17
+2633457	Wyke	Wyke	Wyke	53.73333	-1.76667	P	PPL	GB		ENG	B4			0		167	Europe/London	2013-07-11
+2633458	River Wye	River Wye	Gwy,River Wye	53.18333	-1.61667	H	STM	GB		ENG				0		103	Europe/London	2010-08-03
+2633459	River Wye	River Wye	Afon Gwy,River Wye	51.61333	-2.66056	H	STM	GB	GB	00				0		0	Europe/London	2012-01-17
+2633460	Wye	Wye		51.18249	0.93678	P	PPL	GB		ENG	G5	29UB		2112		43	Europe/London	2010-05-24
+2633461	Wyddial	Wyddial		51.96452	-0.00369	P	PPL	GB		ENG	F8	26UD		0		125	Europe/London	2010-05-24
+2633462	Wycombe	Wycombe		51.58333	-0.9	A	ADM3	GB		ENG	B9	11UF		0		159	Europe/London	2008-01-16
+2633463	Wycliffe	Wycliffe	Wycliffe,Wyclitffe	54.52278	-1.81824	P	PPL	GB		ENG	J7			0		120	Europe/London	2010-08-03
+2633464	Wyck Rissington	Wyck Rissington	Rissington Wick,Wyck Rissington	51.89218	-1.72386	P	PPL	GB		ENG	E6	23UC		0		150	Europe/London	2011-03-03
+2633465	Wych Cross	Wych Cross	Wych Cross,Wytch Cross	51.06826	0.02472	P	PPL	GB	GB	ENG	E2	21UH		0		192	Europe/London	2011-02-03
+2633466	Wybunbury	Wybunbury		53.04542	-2.45207	P	PPL	GB		ENG	Z7	00EQ143		0		62	Europe/London	2011-03-03
+2633467	Wyberton	Wyberton	Wyberton	52.95164	-0.04137	P	PPL	GB		ENG	H7	32UB		0		5	Europe/London	2010-08-03
+2633468	Wrynose Pass	Wrynose Pass	Wrynose Gap,Wrynose Pass	54.41667	-3.11667	T	PASS	GB	GB	ENG	C9	16UE		0		422	Europe/London	2013-07-11
+2633471	Wroxton	Wroxton	Wroxton	52.07282	-1.39709	P	PPL	GB		ENG	K2	38UB		0		148	Europe/London	2010-08-03
+2633472	Wroxham	Wroxham		52.70692	1.40222	P	PPL	GB		ENG	I9	33UC		0		14	Europe/London	2010-05-24
+2633473	Wroxeter	Wroxeter	Wroxeter	52.67042	-2.64759	P	PPL	GB		ENG	L6	00GG202		0		57	Europe/London	2011-03-03
+2633474	Wroxall	Wroxall		52.33791	-1.66898	P	PPL	GB		ENG	P3	44UF		1927		131	Europe/London	2011-03-07
+1648060	Brenggolo	Brenggolo	Bangkok,Brenggolo	-7.85	112.13333	P	PPL	ID	ID	00				0		173	Asia/Jakarta	2012-01-17
+1648213	Gunung Bangkok	Gunung Bangkok	Goenoeng Bongkok,Gunung Bangkok,Gunung Bongkok	-7.2305	108.2532	T	MT	ID		30				0		1417	Asia/Jakarta	2012-01-17
+1648218	Gunung Bangkok	Gunung Bangkok	Gunung Bangkok,Gunung Bongkok	-6.60167	107.3375	T	MT	ID		30				0		925	Asia/Jakarta	2012-01-17
+1961834	Bongkok Wetan	Bongkok Wetan	Bangkok-wetan,Bongkok Wetan	-6.84694	107.56278	P	PPL	ID		30				0		932	Asia/Jakarta	2012-01-20
+1970024	Bangkok	Bangkok	Bangkok	-7.0969	112.5128	P	PPL	ID		08				0		7	Asia/Jakarta	2012-01-20
+1972929	Bangkok	Bangkok		-7.33194	110.66333	P	PPL	ID		07				0		225	Asia/Jakarta	2006-03-06
+1973398	Bangkok Satu	Bangkok Satu	Bangkok 1,Bangkok Satu	-7.33472	110.65972	P	PPL	ID	ID	07				0		253	Asia/Jakarta	2012-01-20
+6253624	Desa Bangkok	Desa Bangkok		-7.33083	110.66167	A	ADM4	ID		07				0		220	Asia/Jakarta	2006-03-06
+6562248	Bangkok	Bangkok	Bangkok	-7.18194	109.38056	P	PPL	ID		07				0		626	Asia/Jakarta	2012-01-20
+6761338	Bangkok	Bangkok	Bangkok	-7.1099	107.7565	P	PPL	ID		30				0		998	Asia/Jakarta	2012-01-20
+6767306	Desa Bangkok	Desa Bangkok	Desa Bangkok	-7.1019	112.5142	A	ADM4	ID		08				0		4	Asia/Jakarta	2012-01-20
+6841866	Bangkok	Bangkok	Bangkok	-7.7591	112.2401	P	PPL	ID		08				0		156	Asia/Jakarta	2012-01-20
+6856955	Kali Bangkok	Kali Bangkok	Kali Bangkok	-7.54936	112.68934	H	STM	ID		08				0		7	Asia/Jakarta	2013-01-08
+6857056	Bangkok	Bangkok	Bangkok	-7.5919	112.695	P	PPL	ID		08				0		39	Asia/Jakarta	2012-01-20
+6866220	Bangkok	Bangkok	Bangkok	-7.118	111.7791	P	PPL	ID		08				0		25	Asia/Jakarta	2012-01-20
+6882192	Bangkok	Bangkok	Bangkok	-7.2199	112.0395	P	PPL	ID		08				0		33	Asia/Jakarta	2012-01-20
+7863483	Wai Bangkok	Wai Bangkok	Wai Bangkok	-5.58436	104.3186	H	STM	ID		15				0		20	Asia/Jakarta	2012-01-21
+8068659	Bangkok	Bangkok	Bangkok	-6.6952	111.5409	P	PPL	ID		07				0		319	Asia/Jakarta	2012-01-22
+8364954	Air Bengkok	Air Bengkok	Air Bangkok,Air Bengkok	-4.30986	103.56387	H	STM	ID		32				0		1386	Asia/Jakarta	2012-08-06
+8423674	Sungai Bangkok	Sungai Bangkok	Sungai Bangkok	0.9116	118.2137	H	STM	ID		14				0		8	Asia/Makassar	2012-11-10
+1222499	Salat Changchong Chong	Salat Changchong Chong	Chong Salat Changchong,Lang Kavi Sound,Lankawi Sound,Salat Changchong Chong,Selat Chinchin,Selat Cincin	6.4707	99.65382	H	CHNM	MY		00				0		-9999	Asia/Bangkok	2012-01-17
+1597065	Bukit Mudin Besar	Bukit Mudin Besar		6.04624	101.07288	T	MT	MY		02				0	1027	1011	Asia/Bangkok	2009-03-04
+1605029	Bukit Wehi	Bukit Wehi	Buket Wia,Bukit Wai,Bukit Weh,Bukit Wehi	6.4377	100.1343	T	HLL	MY		08				0	87	272	Asia/Bangkok	2012-01-16
+1605120	Khao Wang Mu	Khao Wang Mu	Bukit Wang Mu,Khao Wang Mu,khea wang hmu,เขาวังหมู	6.60158	100.18105	T	MT	MY		00				0	544	521	Asia/Bangkok	2012-01-16
+1608987	Bukit Luat Lantai	Bukit Luat Lantai	Buket Luat Lantae,Bukit Luat Lantai	5.91519	101.60918	T	MT	MY		00				0		568	Asia/Bangkok	2012-01-16
+1610596	Gunong Ulu Makar	Gunong Ulu Makar	Gunong Ulu Makar,Khao Hulu Mara,Kunung Hulu Maka	5.8835	101.49678	T	MT	MY	MY	00				0		1468	Asia/Bangkok	2012-01-16
+1621026	Bukit Arang	Bukit Arang	Bukit Arang,Khao Arang	6.56321	100.35363	T	HLL	MY		00				0		82	Asia/Bangkok	2012-01-16
+1736271	Padang Besar	Padang Besar	Padang Besar	6.6623	100.31419	P	PPL	MY		08				0		64	Asia/Bangkok	2012-05-05
+1736540	Sungai Bengkoka	Sungai Bengkoka	Bangkoka River,Ben Koka River,Bengkoka River,Sungai Bengkoka	6.8402	117.0601	H	STM	MY		16				0		30	Asia/Kuching	2012-01-17
+1768502	Kampong Kedondong	Kampong Kedondong		6.13333	102.03333	P	PPL	MY		03				0		2	Asia/Bangkok	1994-02-10
+1775020	Kampung Gaong Bangkok	Kampung Gaong Bangkok	Gaong Bangkong,Kampung Gaong Bangkok	2.3125	102.4636	P	PPL	MY		04				0		50	Asia/Kuala_Lumpur	2012-01-17
+1781406	Sungai Bangkuk	Sungai Bangkuk	Sungai Bangkok,Sungai Bangkuk	3.1504	102.9297	H	STM	MY		06				0		39	Asia/Kuala_Lumpur	2012-01-17
+6798624	Kampung Melayu	Kampung Melayu	Kampung Melayu	6.65897	100.32275	P	PPL	MY		08				0		73	Asia/Bangkok	2012-01-20
+6798762	Guar Petai	Guar Petai	Guar Petai,Khuan Tok	6.69938	100.25603	T	HLL	MY		08				0		85	Asia/Bangkok	2012-01-20
+6803627	Hutan Rizab Bukit Kayu Hitam	Hutan Rizab Bukit Kayu Hitam	Hutan Rizab Bukit Kayu Hitam	6.5285	100.39691	L	RESF	MY		08				0		78	Asia/Bangkok	2012-01-20
+6854598	Puchok Ayer Kalir	Puchok Ayer Kalir	Puchok Ayer Kalir,Yawt Nam Sirui	6.26328	100.87522	T	PK	MY		02				0	414	388	Asia/Bangkok	2012-01-20
+6957721	Gunong China	Gunong China	Buket China,Gunong China,Gunong Ching,Khao Chin,Khao China,Khao Jin	6.72256	100.18875	T	MT	MY		00				0	741	714	Asia/Bangkok	2012-01-17
+6957724	Gunong Hulu Dakang	Gunong Hulu Dakang	Gunong Hulu Dakang,Kunung Dakang,Kunung Hulu Dakang	5.93064	101.57627	T	MT	MY		00				0	864	872	Asia/Bangkok	2012-01-17
+7115614	Novotel Bangkok on Siam Square	Novotel Bangkok on Siam Square		13.8337	13.8337	S	HTL	TD		07				0		276	Africa/Ndjamena	2009-12-27
+1115049	Khlong Sai On	Khlong Sai On	Khlong Pha La,Khlong Sai On	10.73333	98.98333	H	STM	TH	TH	58				0		79	Asia/Bangkok	2012-01-16
+1115050	Ban Tha Raeng Tok	Ban Tha Raeng Tok	Ban Tha Raeng Ok,Ban Tha Raeng Tok	13.15	99.96667	P	PPL	TH	TH	56				0		2	Asia/Bangkok	2012-01-16
+1115051	Ban Mong Klua	Ban Mong Klua	Ban Mong Khwa,Ban Mong Klua	15.7	98.68333	P	PPL	TH	TH	08				0		423	Asia/Bangkok	2010-08-09
+1115052	Lan Krabu	Lan Krabu	Ban Lan Krabu,Lan Krabu	16.6	99.86667	P	PPL	TH	TH	11				0		53	Asia/Bangkok	2010-08-09
+1115054	Khao Yung Khao	Khao Yung Khao	Khao Yung Khao,khea yung khaw,เขายุ้งข้าว	8.88897	98.61344	T	MT	TH		60				0		465	Asia/Bangkok	2012-06-05
+1115055	Khlong Yuan Yang	Khlong Yuan Yang		7.78333	99.53333	H	STM	TH		65				0		23	Asia/Bangkok	1994-04-10
+1115056	Khao Yuan Thao	Khao Yuan Thao	Khao Yuan Thao,เขาญวนเฒ่า	8.89322	99.59119	T	MT	TH		64				0		607	Asia/Bangkok	2012-04-05
+1115057	Khlong Yuan	Khlong Yuan		8	98.96667	H	STM	TH		63				0		7	Asia/Bangkok	1994-04-10
+1115058	Nam Mae Yuam	Nam Mae Yuam		18.8	97.9	H	STM	TH		01				0		502	Asia/Bangkok	1994-04-10
+1115059	Doi Khun Yuam	Doi Khun Yuam	Doi Khun Yuam,dxy khunywm,ดอยขุนยวม	18.84294	98.08308	T	MT	TH		00				0	1476	1454	Asia/Bangkok	2012-01-16
+1115060	Huai Yuak	Huai Yuak	Huai Yuak,Huai Yuak Luang,hwy hywk hlwng,ห้วยหยวกหลวง	18.92427	97.86301	H	STM	TH		01				0		522	Asia/Bangkok	2012-01-16
+1115061	Huai Yuak	Huai Yuak	Huai Yuak,hwy hywk,ห้วยหยวก	18.5549	97.90922	H	STM	TH		01				0		341	Asia/Bangkok	2012-01-16
+1115062	Huai Yuai	Huai Yuai	Huai Yuai,hwy ywy,ห้วยยวย	14.28652	98.9979	H	STMI	TH		50				0		82	Asia/Bangkok	2012-01-16
+1115063	Khao Yot Phen	Khao Yot Phen	Khao Yot Phen,khea yxd phel,เขายอดเพล	8.4705	99.78947	T	MT	TH		64				0		850	Asia/Bangkok	2012-04-05
+1115064	Khao Yot Lek	Khao Yot Lek	Khao Yot Lek,khea yxd helk,เขายอดเหล็ก	16.72614	99.38181	T	HLL	TH		11				0		246	Asia/Bangkok	2012-09-05
+1115065	Khao Yot Lek	Khao Yot Lek	Khao Yot Lek,khea yxd helk,เขายอดเหล็ก	16.62814	99.54758	T	HLL	TH		11				0		148	Asia/Bangkok	2012-09-05
+1115066	Nam Mae Yot	Nam Mae Yot	Nam Mae Yot,น้ำแม่หยอด	18.69394	98.31926	H	STM	TH		02				0		571	Asia/Bangkok	2012-01-16
+1115067	Huai Mae Yot	Huai Mae Yot		18.63361	98.36861	H	STM	TH		02				0		512	Asia/Bangkok	1999-10-18
+1115068	Laem Yong Sata	Laem Yong Sata	Laem Yong Sata,แหลมหยงสตาร์	7.11545	99.66743	T	PT	TH		65				0		30	Asia/Bangkok	2012-04-05
+1115069	Doi Yong Ku	Doi Yong Ku	Doi Yong Ku,dxy yxng ku,ดอยยองกู	18.01511	98.29433	T	MT	TH		02				0	1311	1296	Asia/Bangkok	2012-01-16
+1115070	Nam Yian	Nam Yian		19.26667	99.83333	H	STM	TH		41				0		389	Asia/Bangkok	1994-04-10
+1115071	Khlong Yian	Khlong Yian		8.53333	99.16667	H	STM	TH		60				0		22	Asia/Bangkok	1994-04-10
+1115072	Khlong Yi	Khlong Yi		9.06667	98.58333	H	STM	TH		60				0		88	Asia/Bangkok	1994-04-10
+1115073	Huai Yek Ye	Huai Yek Ye		12.76667	99.31667	H	STM	TH		56				0		416	Asia/Bangkok	1994-04-10
+1115074	Nong Yao	Nong Yao		9.03333	99.11667	H	MRSH	TH		60				0		47	Asia/Bangkok	1994-04-10
+1115075	Khao Ya	Khao Ya	Khao Ya,Khao Yao,khea ya,เขายา	9.11142	98.56136	T	MT	TH		60				0		753	Asia/Bangkok	2012-06-05
+1115076	Huai Yao	Huai Yao	Huai Yao	19.13333	98.45	H	STM	TH		01				0		783	Asia/Bangkok	2012-01-16
+1115077	Doi Yao	Doi Yao	Doi Yao,dxy yaw,ดอยยาว	18.66967	98.35803	T	MT	TH		02				0	806	796	Asia/Bangkok	2012-01-16
+1115078	Khao Yang Taek	Khao Yang Taek	Khao Yang Taek,Thiu Khao Yang Taek	7.66667	99.86667	T	HLL	TH	TH	66				0		455	Asia/Bangkok	2012-01-16
+1115079	Huai Yang Taek	Huai Yang Taek		7.6	99.73333	H	STM	TH		65				0		133	Asia/Bangkok	1994-04-10
+6472630	Marriott Moscow Royal Aurora Hotel	Marriott Moscow Royal Aurora Hotel		55.7623	37.6177	S	HTL	RU						0		148	Europe/Moscow	2007-04-13
+6474323	Marriott Moscow Grand Hotel	Marriott Moscow Grand Hotel		55.7682	37.5993	S	HTL	RU						0		168	Europe/Moscow	2007-04-13
+6475814	Le Meridien Moscow Country Club	Le Meridien Moscow Country Club		55.7641	37.5996	S	HTL	RU						0		161	Europe/Moscow	2007-04-12
+6481477	Hotel Savoy Moscow	Hotel Savoy Moscow		55.766	37.626	S	HTL	RU						0		160	Europe/Moscow	2007-04-12
+6494223	The Ritz-Carlton Moscow	The Ritz-Carlton Moscow		55.76	37.6	S	HTL	RU						0		156	Europe/Moscow	2007-04-14
+6503023	Novotel Moscow Centre	Novotel Moscow Centre		55.7822	37.5982	S	HTL	RU						0		163	Europe/Moscow	2007-04-14
+6514729	Metropol Moscow Hotel	METROPOL MOSCOW HOTEL		55.75	37.5833	S	HTL	RU						0		138	Europe/Moscow	2007-04-12
+6515216	Aerostar Hotel Moscow	AEROSTAR HOTEL MOSCOW		55.75	37.5833	S	HTL	RU						0		138	Europe/Moscow	2007-04-12
+6524779	Courtyard Moscow City Center	COURTYARD MOSCOW CITY CENTER		55.75	37.5833	S	HTL	RU						0		138	Europe/Moscow	2007-04-14
+6531645	Ararat Park Hyatt Moscow	ARARAT PARK HYATT MOSCOW		55.75998	37.62159	S	HTL	RU						0		149	Europe/Moscow	2009-01-22
+6494255	Moscow Hotel	Moscow Hotel		25.288	55.322	S	HTL	AE		03				0		1	Asia/Dubai	2007-04-14
+6639573	Moscow University Ice Shelf	Moscow University Ice Shelf	Moscow University Ice Shelf,Moskovskogo Universiteta, shel'fovyj lednik	-67	121	H		AQ						0		-9999	Antarctica/Casey	2008-01-20
+2156820	Moscow	Moscow		-22.83333	143.61667	S	FRM	AU		04	34710			0		229	Australia/Brisbane	2011-06-04
+8167345	Moscow Top	Moscow Top	Moscow Top	-31.1152	152.1346	T	MT	AU		02				0		946	Australia/Sydney	2012-01-22
+8353088	Moscow	Moscow	Moscow	-31.66627	116.4195	S	HMSD	AU		08				0		236	Australia/Perth	2012-07-21
+6079048	Moscow	Moscow		44.42972	-76.80694	P	PPL	CA		08				0		148	America/Toronto	2013-07-11
+6079049	Moscow Creek	Moscow Creek		50.23326	-115.48537	H	STM	CA		02				0		1240	America/Edmonton	2006-01-18
+500137	Ozero Ryamen-Yarvi	Ozero Ryamen-Yarvi	Ozero Ryamen-Yarvi,Raemeenjaervi,Rämeenjärvi	62.10067	30.53822	H	LK	FI		00				0		99	Europe/Moscow	2012-11-02
+504222	Ozero Pukalusyarvi	Ozero Pukalusyarvi	Ozero Pukalusyarvi,Pukalus,Pukalusjaervi,Pukalusjärvi	60.74792	28.16208	H	LK	FI		00				0		22	Europe/Moscow	2011-12-19
+507276	Tervajoki	Tervajoki	Polevaja,Polevaya,Reka Terva-Yoki,Tervajoki,Полевая	60.67579	28.50676	H	STM	FI		00				0		1	Europe/Moscow	2012-01-17
+510657	Santajoki	Santajoki	Eanta-Ioki,Peschanaja,Peschanaya,Reka Sanda Pukki,Reka Santa-Yoki,Santajoki,Песчаная	60.56667	28.23333	H	STM	FI		00				0		1	Europe/Moscow	2013-01-02
+546653	Kokkojärvi	Kokkojaervi	Kokkojarvi,Kokkojärvi,Ozero Kokko-Yarvi,Suuri Kokkojarvi,Suuri Kokkojärvi	63.40505	30.78918	H	LK	FI		00				0		145	Europe/Moscow	2012-11-05
+552547	Karelia	Karelia	Carelia,Carèlia,Karelen,Karelia,Karelija,Kareliya,Karjala,Карелия	64	32	L	RGN	FI		00				0		148	Europe/Moscow	2013-04-03
+563770	Kuurunjoki	Kuurunjoki	Dymovka,Kurunjoki,Kuurunjoki,Reka Kurui-Yoki,Дымовка	61.10009	29.41039	H	STM	FI		00				0		34	Europe/Moscow	2012-01-17
+569003	Mustajoki	Mustajoki	Chernaya,Chjornaja,Chërnaya,Mustajoki,Reka Musta-Yoki,Чёрная	60.87109	28.61638	H	STM	FI		00				0		40	Europe/Moscow	2012-01-17
+8435970	Korpijärvi	Korpijaervi		61.72071	29.9489	H	LK	FI		05				0		82	Europe/Moscow	2012-12-15
+8435974	Suojärvi	Suojaervi		61.73852	29.99165	H	LK	FI		05				0		72	Europe/Moscow	2012-12-15
+3376832	Moscow Creek	Moscow Creek		4.75	-58.23333	H	STM	GY		18				0		96	America/Guyana	1993-12-15
+3302528	Moscow	Moscow		52.86389	-7.10194	L	LCTY	IE		L	15			0		183	Europe/Dublin	2010-08-14
+3355441	Moscow	Moscow		-25.1	19.21667	S	FRMT	NA		30				0		1078	Africa/Windhoek	1994-01-12
+8550693	Moscow	Moscow		14.29038	121.00234	R	ST	PH		40	20			0		187	Asia/Manila	2013-06-06
+451747	Zyabrikovo	Zyabrikovo		56.84664	34.7048	P	PPL	RU		77				0		204	Europe/Moscow	2011-07-09
+451748	Znamenka	Znamenka		56.74087	34.02323	P	PPL	RU		77				0		215	Europe/Moscow	2011-07-09
+451749	Zhukovo	Zhukovo		57.26429	34.20956	P	PPL	RU		77				0		237	Europe/Moscow	2011-07-09
+451750	Zhitovo	Zhitovo		57.29693	34.41848	P	PPL	RU		77				0		247	Europe/Moscow	2011-07-09
+451751	Zhitnikovo	Zhitnikovo		57.20064	34.57831	P	PPL	RU		77				0		198	Europe/Moscow	2011-07-09
+451752	Zhelezovo	Zhelezovo		57.02591	34.51886	P	PPL	RU		77				0		192	Europe/Moscow	2011-07-09
+451753	Zelëntsyno	Zelentsyno		56.73452	34.92011	P	PPL	RU		77				0		159	Europe/Moscow	2011-07-09
+451754	Zelënaya Niva	Zelenaya Niva		57.1711	34.76977	P	PPL	RU		77				0		160	Europe/Moscow	2011-07-09
+451755	Zasten’ye	Zasten'ye		57.27055	34.73	P	PPL	RU		77				0		184	Europe/Moscow	2011-07-09
+451756	Zarech’ye	Zarech'ye		56.68265	34.70984	P	PPL	RU		77				0		178	Europe/Moscow	2011-07-09
+451757	Zamush’ye	Zamush'ye		57.22984	34.77983	P	PPL	RU		77				0		182	Europe/Moscow	2011-07-09
+451758	Zaleden’ye	Zaleden'ye		57.12851	34.26788	P	PPLQ	RU		77				0		278	Europe/Moscow	2011-07-09
+451759	Urochishche Zakaznik	Urochishche Zakaznik		56.89212	34.56952	L	LCTY	RU		77				0		219	Europe/Moscow	2011-07-09
+451760	Zador’ye	Zador'ye		56.85239	34.49864	P	PPL	RU		77				0		224	Europe/Moscow	2011-07-09
+451761	Zabolot’ye	Zabolot'ye		56.74771	34.84792	P	PPL	RU		77				0		190	Europe/Moscow	2011-07-09
+451762	Yeskino	Yeskino		57.07916	34.78913	P	PPL	RU		77				0		189	Europe/Moscow	2011-07-09
+451763	Yereshkino	Yereshkino		57.22681	34.58422	P	PPL	RU		77				0		218	Europe/Moscow	2011-07-09
+451764	Yeremeyki	Yeremeyki		56.81639	34.92389	P	PPL	RU		77				0		160	Europe/Moscow	1998-05-01
+451765	Yelizavetino	Yelizavetino		56.7813	34.49321	P	PPL	RU		77				0		242	Europe/Moscow	2011-07-09
+451766	Urochishche Yegur’yevo	Urochishche Yegur'yevo		57.17701	34.47458	L	LCTY	RU		77				0		273	Europe/Moscow	2011-07-09
+451767	Yegor’ye	Yegor'ye		57.02174	34.29403	P	PPL	RU		77				0		268	Europe/Moscow	2011-07-09
+451768	Yefremovo	Yefremovo		57.06001	34.74787	P	PPL	RU		77				0		188	Europe/Moscow	2011-07-09
+451769	Yavidovo	Yavidovo	Javidovo,Yavidovo,Явидово	56.87068	34.51994	P	PPL	RU		77				0		217	Europe/Moscow	2012-01-16
+451770	Yasnaya Polyana	Yasnaya Polyana		56.93054	34.54696	P	PPL	RU		77				0		214	Europe/Moscow	2011-07-09
+451771	Yasnaya Polyana	Yasnaya Polyana		56.90599	34.97556	P	PPL	RU		77				0		185	Europe/Moscow	2011-07-09
+451772	Yakutino	Yakutino		56.99404	34.9857	P	PPL	RU		77				0		159	Europe/Moscow	2011-07-09
+451773	Yakshino	Yakshino		57.08518	34.60434	P	PPL	RU		77				0		188	Europe/Moscow	2011-07-09
+451774	Yakovlevo	Yakovlevo		57.3122	34.12509	P	PPL	RU		77				0		280	Europe/Moscow	2011-07-09
+451775	Yakimovo	Yakimovo		57.14907	34.60264	P	PPL	RU		77				0		193	Europe/Moscow	2011-07-09
+451776	Vysokoye	Vysokoye		56.98226	34.43519	P	PPL	RU		77				0		202	Europe/Moscow	2011-07-09
+451777	Vysokoye	Vysokoye		56.8213	34.52753	P	PPL	RU		77				0		244	Europe/Moscow	2011-07-09
+451778	Vyshgorod	Vyshgorod		56.9323	34.36491	P	PPL	RU		77				0		210	Europe/Moscow	2011-07-09
+451779	Vyalets	Vyalets		57.19192	34.10974	H	STM	RU		77				0		240	Europe/Moscow	2011-07-09
+451780	Urochishche Vtoraya Molozha	Urochishche Vtoraya Molozha		56.71654	34.0446	L	LCTY	RU		77				0		235	Europe/Moscow	2011-07-09
+451781	Vpered	Vpered		56.94095	34.43464	P	PPL	RU		77				0		219	Europe/Moscow	2011-07-09
+451782	Vostsy	Vostsy		57.15375	34.82483	P	PPL	RU		77				0		199	Europe/Moscow	2011-07-09
+451783	Voronovo	Voronovo		57.02926	34.46772	P	PPL	RU		77				0		211	Europe/Moscow	2011-07-09
+451784	Voronovo	Voronovo		56.78582	34.03805	P	PPL	RU		77				0		229	Europe/Moscow	2011-07-09
+451785	Vorob’yevo	Vorob'yevo		57.16933	34.90437	P	PPL	RU		77				0		161	Europe/Moscow	2011-07-09
+451786	Urochishche Voraksikha	Urochishche Voraksikha		56.87934	34.23175	L	LCTY	RU		77				0		247	Europe/Moscow	2011-07-09
+451787	Volosovo	Volosovo		57.04292	34.56479	P	PPL	RU		77				0		203	Europe/Moscow	2011-07-09
+451788	Voloshnya	Voloshnya		56.9381	34.35494	H	STM	RU		77				0		211	Europe/Moscow	2011-07-09
+451789	Volochagino	Volochagino		56.70458	34.42898	P	PPL	RU		77				0		258	Europe/Moscow	2011-07-09
+451790	Vladychno	Vladychno		57.27655	34.47071	P	PPL	RU		77				0		212	Europe/Moscow	2011-07-09
+451791	Vishenki	Vishenki		56.81603	34.61915	P	PPL	RU		77				0		216	Europe/Moscow	2011-07-09
+451792	Prud Verkhov’ye	Prud Verkhov'ye		57.10892	34.02429	H	PND	RU		77				0		256	Europe/Moscow	2011-07-09
+451793	Verevochka	Verevochka		57.32222	34.59678	H	STM	RU		77				0		156	Europe/Moscow	2011-07-09
+451794	Vel’ya	Vel'ya		57.00873	34.7347	H	STM	RU		77				0		174	Europe/Moscow	2011-07-09
+451795	Velikosel’ye	Velikosel'ye		56.76512	34.85882	P	PPL	RU		77				0		199	Europe/Moscow	2011-07-09
+451796	Velemozh’ye	Velemozh'ye		57.10735	34.43741	P	PPL	RU		77				0		197	Europe/Moscow	2011-07-09
+451797	Vechernyaya Zarya	Vechernyaya Zarya		56.93608	34.42266	P	PPL	RU		77				0		223	Europe/Moscow	2011-07-09
+451798	Vasil’yevo	Vasil'yevo	Vasil'evo,Vasil'yevo,Vasiljevo,Vasil’yevo,Васильево	56.77807	34.65301	P	PPL	RU		77				0		221	Europe/Moscow	2012-01-16
+451799	Upryshkino	Upryshkino		57.0886	34.50424	P	PPL	RU		77				0		221	Europe/Moscow	2011-07-09
+451800	Ul’yanovo	Ul'yanovo		57.08376	34.34988	P	PPL	RU		77				0		259	Europe/Moscow	2011-07-09
+451801	Ulitkino	Ulitkino		57.27638	34.5553	P	PPL	RU		77				0		204	Europe/Moscow	2011-07-09
+451802	Udal’tsovo	Udal'tsovo		57.19599	34.55373	P	PPL	RU		77				0		203	Europe/Moscow	2011-07-09
+451803	Tveretskiy	Tveretskiy		57.26385	34.82953	P	PPL	RU		77				0		155	Europe/Moscow	2011-07-09
+451804	Turlayevo	Turlayevo		57.23878	34.34752	P	PPL	RU		77				0		244	Europe/Moscow	2011-07-09
+451805	Turkovo	Turkovo		56.74924	34.15238	P	PPL	RU		77				0		226	Europe/Moscow	2011-07-09
+451806	Tsapushevo	Tsapushevo		56.80252	34.68958	P	PPL	RU		77				0		203	Europe/Moscow	2011-07-09
+451807	Tryasna	Tryasna		56.86448	34.16633	H	STM	RU		77				0		232	Europe/Moscow	2011-07-09
+451808	Tryasënka	Tryasenka		57.01356	34.72476	H	STM	RU		77				0		171	Europe/Moscow	2011-07-09
+451809	Treskovo	Treskovo		57.0205	34.45992	P	PPL	RU		77				0		209	Europe/Moscow	2011-07-09
+451810	Treshchatina	Treshchatina		56.79145	34.85697	H	STM	RU		77				0		170	Europe/Moscow	2011-07-09
+451811	Timoshkino	Timoshkino		57.19533	34.87121	P	PPL	RU		77				0		176	Europe/Moscow	2011-07-09
+451812	Timonino	Timonino		56.8097	34.91776	P	PPL	RU		77				0		160	Europe/Moscow	2011-07-09
+451813	Timofeyevo	Timofeyevo		57.0061	34.60744	P	PPL	RU		77				0		219	Europe/Moscow	2011-07-09
+451814	Telyakovka	Telyakovka		57.01868	34.39307	H	STM	RU		77				0		219	Europe/Moscow	2011-07-09
+451815	Telitsyno	Telitsyno		57.19886	34.8971	P	PPL	RU		77				0		153	Europe/Moscow	2011-07-09
+451816	Vodokhranilishche Taraskovskoye	Vodokhranilishche Taraskovskoye		57.02253	33.98684	H	RSV	RU		77				0		243	Europe/Moscow	2011-07-09
+451817	Talets	Talets		57.04366	34.44042	H	STM	RU		77				0		205	Europe/Moscow	2011-07-09
+451818	Syrkovo	Syrkovo		57.00358	34.51981	P	PPL	RU		77				0		209	Europe/Moscow	2011-07-09
+451819	Svoboda	Svoboda		56.96613	34.19721	P	PPL	RU		77				0		243	Europe/Moscow	2011-07-09
+451820	Sverchkovo	Sverchkovo		56.82755	34.61065	P	PPL	RU		77				0		221	Europe/Moscow	2011-07-09
+451821	Sutoki	Sutoki		57.17889	34.27454	P	PPL	RU		77				0		219	Europe/Moscow	2011-07-09
+451822	Sukhoy Ruchey	Sukhoy Ruchey	Sukhoj Ruchej,Sukhoy Ruchey,Сухой Ручей	56.99787	34.38928	P	PPL	RU		77				0		219	Europe/Moscow	2012-01-16
+451823	Stupnevo	Stupnevo	Stupnevo,Ступнево	57.08113	34.57708	P	PPL	RU		77				0		196	Europe/Moscow	2012-01-16
+451824	Stukshino	Stukshino	Stukshino,Стукшино	56.68851	34.78528	P	PPL	RU		77				0		175	Europe/Moscow	2012-01-16
+451825	Strubishche	Strubishche	Strubishche,Strubishhe,Струбище	57.16038	34.64929	P	PPL	RU		77				0		180	Europe/Moscow	2012-01-16
+6494255	Moscow Hotel	Moscow Hotel		25.288	55.322	S	HTL	AE		03				0		1	Asia/Dubai	2007-04-14
+6639573	Moscow University Ice Shelf	Moscow University Ice Shelf	Moscow University Ice Shelf,Moskovskogo Universiteta, shel'fovyj lednik	-67	121	H		AQ						0		-9999	Antarctica/Casey	2008-01-20
+2156820	Moscow	Moscow		-22.83333	143.61667	S	FRM	AU		04	34710			0		229	Australia/Brisbane	2011-06-04
+8167345	Moscow Top	Moscow Top	Moscow Top	-31.1152	152.1346	T	MT	AU		02				0		946	Australia/Sydney	2012-01-22
+8353088	Moscow	Moscow	Moscow	-31.66627	116.4195	S	HMSD	AU		08				0		236	Australia/Perth	2012-07-21
+6079048	Moscow	Moscow		44.42972	-76.80694	P	PPL	CA		08				0		148	America/Toronto	2013-07-11
+6079049	Moscow Creek	Moscow Creek		50.23326	-115.48537	H	STM	CA		02				0		1240	America/Edmonton	2006-01-18
+3376832	Moscow Creek	Moscow Creek		4.75	-58.23333	H	STM	GY		18				0		96	America/Guyana	1993-12-15
+3302528	Moscow	Moscow		52.86389	-7.10194	L	LCTY	IE		L	15			0		183	Europe/Dublin	2010-08-14
+3355441	Moscow	Moscow		-25.1	19.21667	S	FRMT	NA		30				0		1078	Africa/Windhoek	1994-01-12
+8550693	Moscow	Moscow		14.29038	121.00234	R	ST	PH		40	20			0		187	Asia/Manila	2013-06-06
+524901	Moscow	Moscow	Gorad Maskva,MOW,Maeskuy,Maskav,Maskava,Maskva,Mat-xco-va,Matxcova,Matxcơva,Mosca,Moscfa,Moscha,Mosco,Moscou,Moscova,Moscovo,Moscow,Moscoƿ,Moscu,Moscua,Moscòu,Moscó,Moscù,Moscú,Mosk"va,Moska,Moskau,Mosko,Moskokh,Moskou,Moskov,Moskova,Moskow,Moskowa,Mosku,Moskuas,Moskva,Moskvo,Moskwa,Moszkva,Muskav,Musko,Mát-xcơ-va,Mòskwa,Məskəү,masko,maskw,mo si ke,moseukeuba,mosko,mosukuwa,mskw,mwskva,mwskw,mwsqbh,mx s ko,Μόσχα,Горад Масква,Мæскуы,Маскав,Москва,Москова,Москох,Москъва,Мускав,Муско,Мәскәү,Մոսկվա,מאָסקװע,מאסקווע,מוסקבה,ماسکو,مسکو,موسكو,موسكۋا,ܡܘܣܩܒܐ,मास्को,मॉस्को,মস্কো,மாஸ்கோ,มอสโก,མོ་སི་ཁོ།,მოსკოვი,ሞስኮ,モスクワ,莫斯科,모스크바	55.75222	37.61556	P	PPLC	RU		48				10381222		144	Europe/Moscow	2012-08-19
+7284521	TEC-23 Moscow	TEC-23 Moscow		55.82117	37.77152	S	PS	RU		47				0		162	Europe/Moscow	2010-03-30
+7284524	TEC-27 Moscow	TEC-27 Moscow		55.91596	37.69103	S	PS	RU		47				0		156	Europe/Moscow	2010-03-30
+7289610	Moscow Kremlin	Moscow Kremlin	Kremlin	55.75167	37.61778	S	BLDG	RU		47				0		146	Europe/Moscow	2010-04-29
+6505144	Moscow Hotel	MOSCOW HOTEL		44.9499	34.1	S	HTL	UA		11				0		254	Europe/Simferopol	2007-04-15
+4077241	Moscow	Moscow		33.86983	-88.10281	P	PPL	US		AL	075			0	126	129	America/Chicago	2010-10-12
+4077242	Moscow	Moscow		32.43792	-87.99613	P	PPL	US		AL	091			0	27	31	America/Chicago	2006-01-15
+4077243	Moscow Cemetery	Moscow Cemetery		33.8715	-88.10475	S	CMTY	US		AL	075			0	126	130	America/Chicago	2010-10-12
+4077244	Moscow Church	Moscow Church		33.84622	-88.09559	S	CH	US		AL	075			0	149	154	America/Chicago	2010-10-12
+4077245	Moscow Church (historical)	Moscow Church (historical)		32.42569	-87.98613	S	CH	US		AL	091			0	27	36	America/Chicago	2007-02-14
+4077246	Moscow Ferry (historical)	Moscow Ferry (historical)		32.43097	-88.03446	R	RDJCT	US		AL	091			0	10	22	America/Chicago	2010-02-14
+4077247	Moscow Gas Field	Moscow Gas Field		33.87372	-88.08892	L	OILF	US		AL	075			0	144	144	America/Chicago	2010-10-12
+4077248	Moscow Landing (historical)	Moscow Landing (historical)		32.43153	-88.0353	S		US		AL	119			0	13	17	America/Chicago	2010-02-14
+4077249	Moscow Providence Church	Moscow Providence Church		32.44181	-87.98363	S	CH	US		AL	091			0	29	38	America/Chicago	2006-01-15
+4122279	Moscow	Moscow		34.14649	-91.79513	P	PPL	US		AR	069			0	59	59	America/Chicago	2010-09-05
+4122280	Moscow Church	Moscow Church		33.7765	-93.36656	S	CH	US		AR	099			0	85	95	America/Chicago	2010-09-05
+4244891	Moscow	Moscow		37.41144	-89.05257	P	PPL	US		IL	181			0	131	127	America/Chicago	2006-01-15
+4261635	Moscow	Moscow		39.48533	-85.55664	P	PPL	US		IN	139			0	271	272	America/Indiana/Indianapolis	2010-02-15
+4275764	Moscow School (historical)	Moscow School (historical)		37.33419	-96.8067	S	SCH	US		KS	035			0	420	422	America/Chicago	2006-01-15
+4301424	Moscow	Moscow		36.607	-89.03618	P	PPL	US		KY	105			0	100	104	America/Chicago	2006-01-15
+4362860	Moscow	Moscow		39.5437	-79.00503	P	PPL	US		MD	001			240	408	405	America/New_York	2011-05-14
+4362861	Moscow Mills Cemetery	Moscow Mills Cemetery		39.54453	-79.00419	S	CMTY	US		MD	001			0	415	412	America/New_York	2006-01-15
+4362862	Moscow School (historical)	Moscow School (historical)		39.54231	-79.00447	S	SCH	US		MD	001			0	410	412	America/New_York	2006-01-15
+4399152	Moscow	Moscow		39.16639	-94.5419	P	PPLX	US		MO	047			0	270	274	America/Chicago	2007-02-14
+4399153	Moscow Mills	Moscow Mills		38.94783	-90.91819	P	PPL	US		MO	113			2509	164	162	America/Chicago	2011-05-14
+4399154	Moscow School (historical)	Moscow School (historical)		38.94033	-90.92486	S	SCH	US		MO	113			0	165	164	America/Chicago	2011-12-11
+4399155	Moscow School (historical)	Moscow School (historical)		39.16306	-94.52745	S	SCH	US		MO	047			0	256	261	America/Chicago	2010-10-12
+4436708	Moscow	Moscow		32.71014	-88.80005	P	PPL	US		MS	069			0	154	156	America/Chicago	2010-02-16
+4518753	Moscow	Moscow	Gorod Moskva,Город Москва	38.85701	-84.2291	P	PPL	US		OH	025			185	152	155	America/New_York	2011-05-14
+4518754	Moscow (historical)	Moscow (historical)		39.96118	-82.46766	P	PPLQ	US		OH	089			0	271	268	America/New_York	2011-12-11
+4518755	Moscow Cemetery	Moscow Cemetery		38.86035	-84.2116	S	CMTY	US		OH	025			0	209	216	America/New_York	2006-01-15
+4518756	Moscow Mills	Moscow Mills		39.60285	-81.62568	P	PPL	US		OH	115			0	207	202	America/New_York	2006-01-15
+4518757	Moscow Mills Post Office (historical)	Moscow Mills Post Office (historical)		39.60285	-81.62624	S	PO	US		OH	115			0	196	202	America/New_York	2006-01-15
+4518758	Moscow Post Office	Moscow Post Office		38.85611	-84.23139	S	PO	US		OH	025			0	152	153	America/New_York	2007-02-14
+4518759	Moscow School (historical)	Moscow School (historical)		39.61035	-81.62513	S	SCH	US		OH	115			0	264	266	America/New_York	2006-01-15
+4543052	Moscow Church	Moscow Church		36.32837	-99.20983	S	CH	US		OK	153			0	552	561	America/Chicago	2006-01-15
+4543053	Moscow Flats	Moscow Flats		36.32643	-99.19955	T	PLN	US		OK	153			0	548	555	America/Chicago	2006-01-15
+4642988	Moscow	Moscow	Gorod Moskva,Город Москва	35.06203	-89.40396	P	PPL	US		TN	047			556	108	109	America/Chicago	2010-01-29
+4642989	Moscow City Hall	Moscow City Hall		35.06203	-89.40424	S	BLDG	US		TN	047			0	108	109	America/Chicago	2006-01-15
+4642990	Moscow School (historical)	Moscow School (historical)		35.06037	-89.39924	S	SCH	US		TN	047			0	111	113	America/Chicago	2006-01-15
+4642991	Moscow United Methodist Church	Moscow United Methodist Church		35.06009	-89.40202	S	CH	US		TN	047			0	110	113	America/Chicago	2006-01-15
+4659484	Moscow-Springhill Elementary School	Moscow-Springhill Elementary School		35.0812	-89.39035	S	SCH	US		TN	047			0	109	110	America/Chicago	2011-12-11
+4712467	Moscow	Moscow		30.91325	-94.82521	P	PPL	US		TX	373			0	105	112	America/Chicago	2006-01-15
+4774022	Moscow	Moscow		38.31707	-79.08892	P	PPL	US		VA	015			0	432	434	America/New_York	2010-09-05
+4868038	Moscow	Moscow		41.57503	-91.08265	P	PPL	US		IA	139			0	199	200	America/Chicago	2006-01-15
+4868039	Moscow	Moscow		41.57364	-91.08238	S		US		IA	139			0	199	199	America/Chicago	2010-02-20
+4868040	Moscow	Moscow		42.71664	-93.853	S		US		IA	197			0	349	344	America/Chicago	2010-02-15
+4868041	Moscow Cemetery	Moscow Cemetery		41.57447	-91.08488	S	CMTY	US		IA	139			0	200	202	America/Chicago	2006-01-15
+4868042	Moscow Post Office	Moscow Post Office		41.57503	-91.08265	S	PO	US		IA	139			0	199	200	America/Chicago	2006-01-15
+4902786	Moscow (historical)	Moscow (historical)		40.16421	-90.16401	P	PPLQ	US		IL	125			0	141	140	America/Chicago	2011-12-12
+4902787	Moscow Farm	Moscow Farm		40.16643	-90.1454	S	FRM	US		IL	125			0	145	144	America/Chicago	2010-02-15
+4902788	Moscow Lake	Moscow Lake		40.18221	-90.16009	H	LK	US		IL	125			0	135	132	America/Chicago	2011-12-11
+4972660	Moscow	Moscow	Gorod Moskva,Город Москва	45.07061	-69.89117	P	PPL	US		ME	025			600	143	142	America/New_York	2010-01-29
+4972661	Moscow Elementary School	Moscow Elementary School		45.072	-69.89506	S	SCH	US		ME	025			0	143	142	America/New_York	2006-01-15
+5002584	Moscow	Moscow		42.04949	-84.50995	P	PPL	US		MI	059			0	335	336	America/Detroit	2010-10-12
+5002585	Moscow Plains Church	Moscow Plains Church		42.02866	-84.57023	S	CH	US		MI	059			0	348	350	America/Detroit	2006-01-15
+5038301	Moscow	Moscow		43.70718	-93.09825	P	PPL	US		MN	047			0	370	371	America/Chicago	2006-01-15
+5038302	Moscow Cemetery	Moscow Cemetery		43.73135	-93.12937	S	CMTY	US		MN	047			0	379	379	America/Chicago	2006-01-15
+5038303	Moscow Church	Moscow Church		43.73163	-93.12937	S	CH	US		MN	047			0	379	379	America/Chicago	2006-01-15
+5038304	Moscow Post Office (historical)	Moscow Post Office (historical)		43.70718	-93.09825	S	PO	US		MN	047			0	370	371	America/Chicago	2006-01-15
+5038305	Moscow State Game Refuge	Moscow State Game Refuge		43.69996	-93.07798	L	PRK	US		MN	047			0	370	368	America/Chicago	2006-01-15
+5038306	Moscow Town Hall	Moscow Town Hall		43.70774	-93.09881	S	BLDG	US		MN	047			0	373	369	America/Chicago	2006-01-15
+5127583	Moscow Hill	Moscow Hill		42.79368	-75.40601	P	PPL	US		NY	053			0	443	448	America/New_York	2006-01-15
+5127584	Moscow Hill	Moscow Hill		42.78396	-75.40795	T	MT	US		NY	053			0	536	539	America/New_York	2006-01-15
+5163521	Moscow Brook	Moscow Brook		40.18868	-81.98208	H	STM	US		OH	031			0	231	229	America/New_York	2006-01-15
+5202009	Moscow	Moscow	Gorod Moskva,Город Москва	41.33675	-75.51852	P	PPL	US		PA	069			2026	476	477	America/New_York	2011-05-14
+5202010	Moscow Elementary School	Moscow Elementary School		41.33925	-75.52102	S	SCH	US		PA	069			0	494	495	America/New_York	2006-01-15
+5223437	Moscow	Moscow		41.52288	-71.74146	P	PPL	US		RI	009			0	62	68	America/New_York	2006-01-15
+5223438	Moscow Brook	Moscow Brook		41.52427	-71.73035	H	STM	US		RI	009			0	29	42	America/New_York	2006-01-15
+5229861	Moscow State Public Shooting Area	Moscow State Public Shooting Area		45.74053	-99.27039	L	PRK	US		SD	089			0	586	581	America/Chicago	2010-02-17
+5238783	Moscow	Moscow		44.44144	-72.7154	P	PPL	US		VT	015			0	203	207	America/New_York	2006-01-15
+5238784	Moscow Pond	Moscow Pond		43.68421	-73.23657	H	LK	US		VT	021			0	223	220	America/New_York	2011-12-12
+5238785	Moscow Post Office	Moscow Post Office		44.44172	-72.71623	S	PO	US		VT	015			0	209	207	America/New_York	2006-01-15
+5263551	Moscow	Moscow		42.83333	-89.85512	P	PPL	US		WI	049			0	256	257	America/Chicago	2006-01-15
+5263552	Moscow Center School	Moscow Center School		42.87389	-89.89012	S	SCH	US		WI	049			0	333	334	America/Chicago	2006-01-15
+5280499	Moscow	Moscow		40.54562	-80.6323	P	PPL	US		WV	029			0	205	208	America/New_York	2006-01-15
+5305621	Moscow Peak	Moscow Peak		34.40308	-112.396	T	MT	US		AZ	025			0	2343	2324	America/Phoenix	2006-01-15
+5374979	Moscow Canyon	Moscow Canyon		35.85217	-117.49923	T	VAL	US		CA	027			0	1294	1309	America/Los_Angeles	2010-02-14
+5374991	Moscow Spring	Moscow Spring		35.86847	-117.47437	H	SPNG	US		CA	027			0	1484	1491	America/Los_Angeles	2011-12-11
+5431948	Moscow Mine	Moscow Mine		39.77221	-105.54583	S	MN	US		CO	019			0	2868	2878	America/Denver	2006-01-15
+5446028	Moscow	Moscow	Gorod Moskva,Город Москва	37.32363	-101.20572	P	PPL	US		KS	189			310	930	933	America/Chicago	2011-05-14
+5446029	Moscow Cemetery	Moscow Cemetery		37.32308	-101.19217	S	CMTY	US		KS	189			0	932	932	America/Chicago	2012-04-09
+5446030	Moscow Elementary School	Moscow Elementary School		37.3228	-101.20433	S	SCH	US		KS	189			0	931	935	America/Chicago	2006-01-15
+5446031	Moscow High School	Moscow High School		37.32134	-101.20407	S	SCH	US		KS	189			0	932	934	America/Chicago	2010-02-15
+5480262	Moscow Creek	Moscow Creek		36.20337	-103.363	H	STM	US		NM	059			0	1482	1484	America/Denver	2006-01-15
+5480263	Moscow Mine	Moscow Mine		33.5598	-105.82082	S	MN	US		NM	027			0	2061	2045	America/Denver	2010-02-16
+5543487	Moscow Canyon	Moscow Canyon		38.33274	-113.16996	T	VAL	US		UT	001			0	1798	1803	America/Denver	2010-02-18
+5543488	Moscow Mine	Moscow Mine		38.34135	-113.14996	S	MN	US		UT	001			0	1995	1993	America/Denver	2010-02-18
+5543489	Moscow Wash	Moscow Wash		38.29719	-113.1519	T	VAL	US		UT	001			0	1628	1633	America/Denver	2006-01-15
